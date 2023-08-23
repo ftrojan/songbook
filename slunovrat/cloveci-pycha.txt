@@ -1,7 +1,7 @@
 1
      D                       Emi7         A
 Kdo posměchy si sbírá, kdo tváří se jak hrob,
-    D             G            Emi7     G A
+    D             G            F#mi     Emi7 A
 a kdo se směje, když se chlapi      mlátí,
      D                  Emi7         A
 pak málo času zbejvá a možná jenom krok
@@ -11,7 +11,7 @@ k tomu, že se k němu všechny zloby       vrátí.
 2
           D                      Emi7       A
 Ten, kdo nerad přeje štěstí, co sám nemůže mít
-D            G          Emi7      G A
+D            G          F#mi      Emi7 A
 a se zlostí ráno klidně      vstává,
       D                          Emi7         A
 když na stůl bouchne pěstí, ale neví co má chtít,
@@ -31,7 +31,7 @@ a pak dělaj něco jako mrtvý      spáče.
 3
     D                           Emi7         A
 Já jenom jestli víš, co kdo v hlavě vlastně má
-   D           G             Emi7   G   A
+   D           G             F#mi       Emi7 A
 a jestli jeho duši chce čert      kloudnou,
         D                          Emi7        A
 to pak couvni a tím spíš, jestli tvoje přání zná.
@@ -51,7 +51,7 @@ a pak dělaj něco jako mrtvý      spáče.
 4 = 1
 D                            Emi7         A
 Kdo posměchy si sbírá, kdo tváří se jak hrob,
-D                 G              Emi7 G A
+D                 G              F#mi Emi7 A
 a kdo se směje, když se chlapi mláááátí,
 D                       Emi7         A
 pak málo času zbejvá a možná jenom krok
