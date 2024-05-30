@@ -1,0 +1,7 @@
+{
+  "all_of_me": {
+    "title": "All Of Me",
+    "input_file": "jazz/all_of_me.txt",
+    "output_file": "pdf/J23_all_of_me.pdf"
+  }
+}
