@@ -1,11 +1,18 @@
 {
   "all_of_me": {
     "title": "All Of Me",
-    "input_file": "jazz/all_of_me.txt"
+    "input_file": "jazz/all_of_me.txt",
+    "split_lines": [38],
+    "bpm": 129
   },
   "rytmus_v_patach": {
     "title": "Rytmus v patách",
     "input_file": "mix/rytmus_v_patach.txt",
     "split_lines": [30]
+  },
+  "pochod_svatych": {
+    "title": "Pochod svatých",
+    "input_file": "orion/pochod_svatych.txt",
+    "bpm": 103
   }
 }

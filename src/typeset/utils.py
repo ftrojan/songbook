@@ -4,6 +4,7 @@ import datetime
 from fpdf import FPDF
 
 font_name = "Menlo"
+base_color = (0, 0, 0)
 chord_color = (0, 0, 255)
 lyrics_color = (0, 0, 0)
 
@@ -15,12 +16,13 @@ def get_today() -> str:
 
 class SongPDF(FPDF):
 
-    def __init__(self, title: str, split_lines: list[int], **kwargs: dict) -> None:
+    def __init__(self, profile: dict, **kwargs: dict) -> None:
         super().__init__(**kwargs)
         self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="I", uni=True)
         self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="B", uni=True)
-        self.title = title
-        self.split_lines = split_lines
+        self.title = profile["title"]
+        self.split_lines = profile.get("split_lines", [])
+        self.bpm = profile.get("bpm", None)
 
     def header(self):
         # Rendering logo:
@@ -28,18 +30,21 @@ class SongPDF(FPDF):
         # Setting font: helvetica bold 15
         self.set_font(font_name, style="B", size=20)
         # Moving cursor to the right:
-        self.cell(80)
+        # self.cell(80)
         # Printing title:
-        self.cell(60, 10, text=self.title, border=0, align="L")
+        self.set_text_color(*base_color)
+        self.cell(0, 10, text=self.title, border=0, align="L")
+        if self.bpm is not None:
+            self.set_font(font_name, style="I", size=16)
+            self.cell(0, 10, f"{self.bpm} bpm", border=0, align="R")
         # Performing a line break:
         self.ln(10)
 
     def footer(self):
         # Position cursor at 1.5 cm from bottom:
         self.set_y(-15)
-        # Setting font: helvetica italic 8
         self.set_font(font_name, style="I", size=16)
-        # Printing page number:
+        self.set_text_color(*base_color)
         self.cell(0, 10, f"Page {self.page_no()}/{{nb}}", align="L")
         self.cell(0, 10, f"Orion Band {get_today()}", border=0, align="R")
 
@@ -57,7 +62,7 @@ def get_profile(name: str) -> dict:
 
 
 def create_pdf(name: str, profile: dict) -> None:
-    pdf = SongPDF(title=profile["title"], split_lines=profile.get("split_lines", []), orientation="P", unit="mm", format="A4")
+    pdf = SongPDF(profile=profile, orientation="P", unit="mm", format="A4")
     pdf.add_page()
     pdf.set_font(family=font_name, style="B", size=16)
     pdf = typeset_body(pdf, get_body(profile["input_file"]))
