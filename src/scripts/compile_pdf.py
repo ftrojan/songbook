@@ -1,7 +1,7 @@
 from typeset import utils
 
 
-name = "all_of_me"
+name = "rytmus_v_patach"
 profile = utils.get_profile(name)
 print(profile)
 utils.create_pdf(name, profile)

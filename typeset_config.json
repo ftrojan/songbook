@@ -1,7 +1,11 @@
 {
   "all_of_me": {
     "title": "All Of Me",
-    "input_file": "jazz/all_of_me.txt",
-    "output_file": "pdf/J23_all_of_me.pdf"
+    "input_file": "jazz/all_of_me.txt"
+  },
+  "rytmus_v_patach": {
+    "title": "Rytmus v patách",
+    "input_file": "mix/rytmus_v_patach.txt",
+    "split_lines": [30]
   }
 }

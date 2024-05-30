@@ -3,6 +3,7 @@ import json
 import datetime
 from fpdf import FPDF
 
+font_name = "Menlo"
 chord_color = (0, 0, 255)
 lyrics_color = (0, 0, 0)
 
@@ -14,15 +15,18 @@ def get_today() -> str:
 
 class SongPDF(FPDF):
 
-    def __init__(self, title: str, **kwargs: dict) -> None:
+    def __init__(self, title: str, split_lines: list[int], **kwargs: dict) -> None:
         super().__init__(**kwargs)
+        self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="I", uni=True)
+        self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="B", uni=True)
         self.title = title
+        self.split_lines = split_lines
 
     def header(self):
         # Rendering logo:
         # self.image("../docs/fpdf2-logo.png", 10, 8, 33)
         # Setting font: helvetica bold 15
-        self.set_font("courier", style="B", size=20)
+        self.set_font(font_name, style="B", size=20)
         # Moving cursor to the right:
         self.cell(80)
         # Printing title:
@@ -34,7 +38,7 @@ class SongPDF(FPDF):
         # Position cursor at 1.5 cm from bottom:
         self.set_y(-15)
         # Setting font: helvetica italic 8
-        self.set_font("courier", style="I", size=16)
+        self.set_font(font_name, style="I", size=16)
         # Printing page number:
         self.cell(0, 10, f"Page {self.page_no()}/{{nb}}", align="L")
         self.cell(0, 10, f"Orion Band {get_today()}", border=0, align="R")
@@ -53,9 +57,9 @@ def get_profile(name: str) -> dict:
 
 
 def create_pdf(name: str, profile: dict) -> None:
-    pdf = SongPDF(title=profile["title"], orientation="P", unit="mm", format="A4")
+    pdf = SongPDF(title=profile["title"], split_lines=profile.get("split_lines", []), orientation="P", unit="mm", format="A4")
     pdf.add_page()
-    pdf.set_font(family="courier", style="B", size=20)
+    pdf.set_font(family=font_name, style="B", size=16)
     pdf = typeset_body(pdf, get_body(profile["input_file"]))
     output_path = os.path.join("pdf", f"{name}.pdf")
     pdf.output(name=output_path)
@@ -70,9 +74,12 @@ def get_body(path: str) -> list[str]:
 def typeset_body(pdf: SongPDF, body: list[str]) -> SongPDF:
     chord_patterns = chords_list()
     print(f"{chord_patterns=}")
-    for line in body:
+    for i, line in enumerate(body):
         x = line.rstrip()
-        pdf.ln()
+        if i+1 in pdf.split_lines:
+            pdf.add_page()
+        else:
+            pdf.ln()
         icl = is_chord_line(x, patterns=chord_patterns)
         print(f"{icl}: {x}")
         if icl:
