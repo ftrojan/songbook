@@ -8,11 +8,21 @@
   "rytmus_v_patach": {
     "title": "Rytmus v patách",
     "input_file": "mix/rytmus_v_patach.txt",
-    "split_lines": [30]
+    "split_lines": [30],
+    "bpm": 118
   },
   "pochod_svatych": {
     "title": "Pochod svatých",
     "input_file": "orion/pochod_svatych.txt",
     "bpm": 103
+  },
+  "sedmikrasky_nad_brnem": {
+    "title": "Sedmikrásky nad Brnem",
+    "input_file": "mix/sedmikrasky_nad_brnem.txt"
+  },
+  "starej_pan": {
+    "title": "Starej pán",
+    "input_file": "jazz/starej_pan.txt",
+    "split_lines": [38]
   }
 }

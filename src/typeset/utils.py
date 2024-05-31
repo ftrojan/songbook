@@ -78,7 +78,7 @@ def get_body(path: str) -> list[str]:
 
 def typeset_body(pdf: SongPDF, body: list[str]) -> SongPDF:
     chord_patterns = chords_list()
-    print(f"{chord_patterns=}")
+    print(f"{len(chord_patterns)=}")
     for i, line in enumerate(body):
         x = line.rstrip()
         if i+1 in pdf.split_lines:
@@ -112,7 +112,7 @@ def chords_list() -> set[str]:
     base_notes = {"C", "D", "E", "F", "G", "A", "H", "B"}
     shift = {"#", "b"}
     minors = {"m", "mi"}
-    ext = {"7", "maj7", "4", "sus4", "dim7"}
+    ext = {"7", "maj7", "4", "sus4", "dim", "dim7", "9", "+", "6"}
     base_ext = {f"{x}{e}" for x in base_notes for e in ext}
     base_minors = {f"{x}{m}" for x in base_notes for m in minors}
     base_minors_ext = {f"{x}{e}" for x in base_minors for e in ext}
