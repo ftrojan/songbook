@@ -1,84 +1,56 @@
 [Intro]
-| Gm6/Bb A7  | Gm6/Bb A7  | Dm      | Dm      |
-| Gm6/Bb A7  | Gm6/Bb A7  | Dm      | Dm      |
+Gmi Cmi6 D7  Gmi
+Gmi Cmi6 D7  Gmi
 
 [Verse 1]
-                      Gm
+Gmi                    Cmi
 When marimba rhythms start to play
-Gm             Dm
+Cmi             Gmi
 Dance with me, make me sway
-Dm                Gm
+Gmi                Cmi
 Like a lazy ocean hugs the shore
-A7             Dm
+ D7              Gmi
 Hold me close, sway me more
 
-
 [Verse 2]
-                      Gm
+Gmi                   Cmi
 Like a flower bending in the breeze
-Gm            Dm
+Cmi             Gmi
 Bend with me, sway with ease
-Dm                       Gm
+Gmi                       Cmi
 When we dance you have a way with me
-A7            Dm
+D7             Gmi
 Stay with me, sway with me
 
-
 [Chorus]
-                  C
+                   F
 Other dancers may be on the floor, dear
-                 F
+                  B
 But my eyes will see only you
-                   A7
+                    D7
 Only you have that magic technique
-                  Bb                  A7
-When we sway I go weeeeeeeeaaaaaaaaak
-
+                  Eb7     D7
+When we sway I go weeeeaaaak
 
 [Verse 3]
-                         Gm
 I can hear the sounds of violins
-Gm          Dm
 Long before it begins
-Dm                     Gm
 Make me thrill as only you know how
-A7              Dm
 Sway me smooth, sway me now
 
-
-[Interlude]
-| Gm6/Bb A7  | Gm6/Bb A7  | Dm      | Dm      |
-| Gm6/Bb A7  | Gm6/Bb A7  | Dm      | Dm      |
-
-
-[Chorus]
-                  C
-Other dancers may be on the floor, dear
-                 F
-But my eyes will see only you
-                   A7
-Only you have that magic technique
-                  Bb                  A7
-When we sway I go weeeeeeeeaaaaaaaaak
-
+[Solo]
+Gmi Cmi6 D7  Gmi
+Gmi Cmi6 D7  Gmi
+F  B D7 Eb7 D7
  
 [Verse 4]
-                         Gm
 I can hear the sounds of violins
-Gm          Dm
 Long before it begins
-Dm                     Gm
 Make me thrill as only you know how
-A7              Dm
 Sway me smooth, sway me now
 
-
 [Verse 5]
-                      Gm
 When marimba rhythms start to play
-Gm             Dm
 Dance with me, make me sway
-Dm                Gm
 Like a lazy ocean hugs the shore
-A7             Dm
 Hold me close, sway me more

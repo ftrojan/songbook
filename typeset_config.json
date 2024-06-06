@@ -24,5 +24,11 @@
     "title": "Starej pán",
     "input_file": "jazz/starej_pan.txt",
     "split_lines": [38]
+  },
+  "sway": {
+    "title": "Sway",
+    "input_file": "jazz/sway.txt",
+    "split_lines": [40],
+    "bpm": 126
   }
 }
