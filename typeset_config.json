@@ -30,5 +30,15 @@
     "input_file": "jazz/sway.txt",
     "split_lines": [40],
     "bpm": 126
+  },
+  "black_orpheus": {
+    "title": "Black Orpheus",
+    "input_file": "jazz/black_orpheus.txt",
+    "split_lines": [34]
+  },
+  "corcovado": {
+    "title": "Corcovado",
+    "input_file": "jazz/corcovado.txt",
+    "split_lines": [42]
   }
 }
