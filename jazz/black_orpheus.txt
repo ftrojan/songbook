@@ -1,4 +1,7 @@
-Dmi = Kapo 5 + Ami
+Dmi = Kapo 5 + Ami, ABABAB
+
+[Intro]
+4x Ami Bdim E7
 
 [Form A]
 
@@ -55,9 +58,13 @@ Depois deste dia feliz
 Não sei se outro dia haverá
             E7            Ami  Fmaj7
 É nossa manhã tão bela final
-    Bdim E7         Ami
+    Bdim E7         Ami  Bdim E7
 Manhã      de carnaval
 
+[Outro]
+           Dmi7         Emi7
 Will true love come my way
+         Dmi7     Emi7
 On this Carnaval day
+        Fmaj7  Emi7          Ami
 Or will I be alone with my dreams?
