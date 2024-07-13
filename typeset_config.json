@@ -40,5 +40,10 @@
     "title": "Corcovado",
     "input_file": "jazz/corcovado.txt",
     "split_lines": [42]
+  },
+  "kdyz_je_ti_50": {
+    "title": "Když je Ti padesát",
+    "input_file": "mix/kdyz_je_ti_50.txt",
+    "split_lines": [43]
   }
 }
