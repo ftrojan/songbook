@@ -46,7 +46,7 @@ class SongPDF(FPDF):
         self.set_font(font_name, style="I", size=16)
         self.set_text_color(*base_color)
         self.cell(0, 10, f"Page {self.page_no()}/{{nb}}", align="L")
-        self.cell(0, 10, f"Orion Band {get_today()}", border=0, align="R")
+        # self.cell(0, 10, f"Orion Band {get_today()}", border=0, align="R")
 
 
 def get_profiles() -> dict:
