@@ -45,5 +45,9 @@
     "title": "Když je Ti padesát",
     "input_file": "mix/kdyz_je_ti_50.txt",
     "split_lines": [43]
+  },
+  "destivy_den": {
+    "title": "Deštivý den (Some of These Days)",
+    "input_file": "jazz/destivy_den.txt"
   }
 }
