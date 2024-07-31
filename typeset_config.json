@@ -49,5 +49,9 @@
   "destivy_den": {
     "title": "Deštivý den (Some of These Days)",
     "input_file": "jazz/destivy_den.txt"
+  },
+  "zivot_je_jen_nahoda": {
+    "title": "Život je jen náhoda",
+    "input_file": "orion/zivot_je_jen_nahoda.txt"
   }
 }
