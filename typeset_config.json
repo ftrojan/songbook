@@ -65,5 +65,10 @@
   "praminek_vlasu": {
     "title": "Pramínek vlasů",
     "input_file": "orion/praminek_vlasu.txt"
+  },
+  "mival_jsem_klobouk": {
+    "title": "Míval jsem klobouk",
+    "input_file": "jazz/mival_jsem_klobouk.txt",
+    "split_lines": [36]
   }
 }
