@@ -8,7 +8,7 @@
   "rytmus_v_patach": {
     "title": "Rytmus v patách",
     "input_file": "mix/rytmus_v_patach.txt",
-    "split_lines": [30],
+    "split_lines": [36],
     "bpm": 118
   },
   "pochod_svatych": {
