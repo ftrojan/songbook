@@ -46,7 +46,7 @@ class SongPDF(FPDF):
         self.set_font(font_name, style="I", size=16)
         self.set_text_color(*base_color)
         self.cell(0, 10, f"Page {self.page_no()}/{{nb}}", align="L")
-        # self.cell(0, 10, f"Orion Band {get_today()}", border=0, align="R")
+        self.cell(0, 10, f"Orion Band {get_today()}", border=0, align="R")
 
 
 def get_profiles() -> dict:
@@ -112,7 +112,7 @@ def chords_list() -> set[str]:
     base_notes = {"C", "D", "E", "F", "G", "A", "H", "B"}
     shift = {"#", "b"}
     minors = {"m", "mi"}
-    ext = {"7", "maj7", "4", "sus4", "dim", "dim7", "9", "+", "6", "add9"}
+    ext = {"7", "maj", "maj7", "4", "sus4", "dim", "dim7", "9", "+", "6", "add9"}
     base_ext = {f"{x}{e}" for x in base_notes for e in ext}
     base_slash = {f"{x}/{s}" for x in base_notes for s in base_notes}
     base_all = base_notes | base_ext | base_slash
@@ -123,6 +123,7 @@ def chords_list() -> set[str]:
     base_shifts = {f"{x}{s}" for x in base_notes for s in shift}
     base_shifts_minors = {f"{x}{m}" for x in base_shifts for m in minors}
     base_shifts_ext = {f"{x}{e}" for x in base_shifts for e in ext}
+    print(base_shifts_ext)
     base_shifts_minors_ext = {f"{x}{e}" for x in base_shifts_minors for e in ext}
     base_shifts_all = base_shifts | base_shifts_minors | base_shifts_ext | base_shifts_minors_ext
     result = base_all | base_minors_all | base_shifts_all
