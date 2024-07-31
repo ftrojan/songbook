@@ -53,5 +53,9 @@
   "zivot_je_jen_nahoda": {
     "title": "Život je jen náhoda",
     "input_file": "orion/zivot_je_jen_nahoda.txt"
+  },
+  "klobouk_ve_krovi": {
+    "title": "Klobouk ve křoví",
+    "input_file": "jazz/klobouk_ve_krovi.txt"
   }
 }
