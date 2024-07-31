@@ -60,7 +60,8 @@
   },
   "sedavam": {
     "title": "Sedávám na domovních schodech",
-    "input_file": "jazz/sedavam.txt"
+    "input_file": "jazz/sedavam.txt",
+    "split_lines": [33]
   },
   "praminek_vlasu": {
     "title": "Pramínek vlasů",
