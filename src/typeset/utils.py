@@ -65,7 +65,7 @@ def create_pdf(name: str, profile: dict) -> None:
     pdf = SongPDF(profile=profile, orientation="P", unit="mm", format="A4")
     pdf.add_page()
     pdf.set_font(family=font_name, style="B", size=16)
-    pdf = typeset_body(pdf, get_body(profile["input_file"]))
+    pdf = typeset_body(pdf, get_body(profile["input_file"]), pdf.split_lines)
     output_path = os.path.join("pdf", f"{name}.pdf")
     pdf.output(name=output_path)
 
@@ -76,12 +76,12 @@ def get_body(path: str) -> list[str]:
         return res
 
 
-def typeset_body(pdf: SongPDF, body: list[str]) -> SongPDF:
+def typeset_body(pdf: FPDF, body: list[str], split_lines: list[int]) -> FPDF:
     chord_patterns = chords_list()
     print(f"{len(chord_patterns)=}")
     for i, line in enumerate(body):
         x = line.rstrip()
-        if i+1 in pdf.split_lines:
+        if i+1 in split_lines:
             pdf.add_page()
         else:
             pdf.ln()
