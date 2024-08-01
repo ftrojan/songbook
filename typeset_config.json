@@ -101,5 +101,9 @@
   "boty_proti_lasce": {
     "title": "Boty proti lásce",
     "input_file": "orion/boty_proti_lasce.txt"
+  },
+  "summertime": {
+    "title": "Summertime",
+    "input_file": "jazz/summertime.txt"
   }
 }
