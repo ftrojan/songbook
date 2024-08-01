@@ -1,4 +1,5 @@
 title: Orion 2024-08-01
+subtitle: Dobřichovice, U Splavu, 19:00
 songs:
   - name: pochod_svatych
     key: B
@@ -33,6 +34,9 @@ songs:
   - name: starej_pan
     key: C
     note: Zpěv Filip
+  - name: boty_proti_lasce
+    key: E
+    note: Zpěv Martina
   - name: hvezdy_nad_brnem
     key: B
     note: Zpěv Filip
@@ -42,6 +46,9 @@ songs:
   - name: rytmus_v_patach
     key: Cmi
     note: Zpěv Martina
+  - name: wonderful_world
+    key: F
+    note: Zpěv Filip
   - name: zivot_je_jen_nahoda
     key: C
     note: Zpěv Filip

@@ -38,6 +38,7 @@ class SongInPlaylist:
 class Playlist:
     name: str
     title: str
+    subtitle: str | None
     songs: list[SongInPlaylist]
     output_path: str
 
@@ -49,6 +50,7 @@ def get_playlist(name: str) -> Playlist:
     x = Playlist(
         name=name,
         title=data["title"],
+        subtitle=data.get("subtitle", None),
         songs=[
             SongInPlaylist.from_dict(i+1, s) for i, s in enumerate(data["songs"])
         ],
@@ -113,6 +115,11 @@ def typeset_playlist(p: Playlist) -> None:
 
 def typeset_toc(pdf: FPDF, p: Playlist) -> FPDF:
     pdf.set_font(family=font_name, style="B", size=12)
+    if p.subtitle is not None:
+        pdf.ln(h=6)
+        pdf.set_text_color(*base_color)
+        pdf.cell(text=p.subtitle)
+        pdf.ln(h=10)
     headings_style = FontFace(emphasis="BOLD", fill_color=(220, 240, 220))
     with pdf.table(
         col_widths=(8, 40, 8, 30),

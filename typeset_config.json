@@ -93,5 +93,13 @@
   "blueberry_hill": {
     "title": "Blueberry Hill",
     "input_file": "jazz/blueberry_hill.txt"
+  },
+  "wonderful_world": {
+    "title": "Wonderful World",
+    "input_file": "jazz/wonderful_world.txt"
+  },
+  "boty_proti_lasce": {
+    "title": "Boty proti lásce",
+    "input_file": "orion/boty_proti_lasce.txt"
   }
 }
