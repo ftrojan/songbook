@@ -113,7 +113,7 @@ def typeset_playlist(p: Playlist) -> None:
 
 def typeset_toc(pdf: FPDF, p: Playlist) -> FPDF:
     pdf.set_font(family=font_name, style="B", size=12)
-    headings_style = FontFace(emphasis="BOLD", fill_color=(200, 250, 200))
+    headings_style = FontFace(emphasis="BOLD", fill_color=(220, 240, 220))
     with pdf.table(
         col_widths=(8, 40, 8, 30),
         headings_style=headings_style,

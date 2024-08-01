@@ -71,5 +71,10 @@
     "title": "Míval jsem klobouk",
     "input_file": "jazz/mival_jsem_klobouk.txt",
     "split_lines": [36]
+  },
+  "uz_davno_nejsem_dite": {
+    "title": "Už dávno nejsem dítě",
+    "input_file": "orion/uz_davno_nejsem_dite.txt",
+    "split_lines": [36]
   }
 }
