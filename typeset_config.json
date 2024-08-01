@@ -16,9 +16,9 @@
     "input_file": "orion/pochod_svatych.txt",
     "bpm": 103
   },
-  "sedmikrasky_nad_brnem": {
-    "title": "Sedmikrásky nad Brnem",
-    "input_file": "mix/sedmikrasky_nad_brnem.txt"
+  "hvezdy_nad_brnem": {
+    "title": "Hvězdy nad Brnem",
+    "input_file": "mix/hvezdy_nad_brnem.txt"
   },
   "starej_pan": {
     "title": "Starej pán",
