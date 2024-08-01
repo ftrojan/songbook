@@ -15,12 +15,18 @@ songs:
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip
-  - name: rytmus_v_patach
-    key: Cmi
-    note: Zpěv Martina
   - name: starej_pan
     key: C
     note: Zpěv Filip
   - name: hvezdy_nad_brnem
     key: B
+    note: Zpěv Filip
+  - name: all_of_me
+    key: C
+    note: Zpěv Filip
+  - name: rytmus_v_patach
+    key: Cmi
+    note: Zpěv Martina
+  - name: zivot_je_jen_nahoda
+    key: C
     note: Zpěv Filip
