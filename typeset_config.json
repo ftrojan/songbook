@@ -89,5 +89,9 @@
   "je_po_desti": {
     "title": "Je po dešti",
     "input_file": "orion/je_po_desti.txt"
+  },
+  "blueberry_hill": {
+    "title": "Blueberry Hill",
+    "input_file": "jazz/blueberry_hill.txt"
   }
 }

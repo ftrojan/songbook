@@ -27,6 +27,9 @@ songs:
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip
+  - name: blueberry_hill
+    key: C
+    note: Zpěv Zdeněk
   - name: starej_pan
     key: C
     note: Zpěv Filip
