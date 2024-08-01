@@ -21,6 +21,9 @@ songs:
   - name: blues_na_cestu_posledni
     key: G
     note: Zpěv Filip
+  - name: je_po_desti
+    key: C
+    note: Zpěv Martina
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip

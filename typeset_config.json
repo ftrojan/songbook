@@ -85,5 +85,9 @@
   "blues_na_cestu_posledni": {
     "title": "Blues na cestu poslední",
     "input_file": "orion/blues_na_cestu_posledni.txt"
+  },
+  "je_po_desti": {
+    "title": "Je po dešti",
+    "input_file": "orion/je_po_desti.txt"
   }
 }
