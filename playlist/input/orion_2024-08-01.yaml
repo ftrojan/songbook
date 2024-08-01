@@ -15,6 +15,12 @@ songs:
   - name: klobouk_ve_krovi
     key: C
     note: Zpěv Zdeněk
+  - name: l_o_v_e
+    key: A,B,H
+    note: Zpěv Filip
+  - name: blues_na_cestu_posledni
+    key: G
+    note: Zpěv Filip
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip

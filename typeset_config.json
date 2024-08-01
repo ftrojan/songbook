@@ -76,5 +76,14 @@
     "title": "Už dávno nejsem dítě",
     "input_file": "orion/uz_davno_nejsem_dite.txt",
     "split_lines": [36]
+  },
+  "l_o_v_e": {
+    "title": "L-O-V-E",
+    "input_file": "jazz/l_o_v_e.txt",
+    "split_lines": [29]
+  },
+  "blues_na_cestu_posledni": {
+    "title": "Blues na cestu poslední",
+    "input_file": "orion/blues_na_cestu_posledni.txt"
   }
 }
