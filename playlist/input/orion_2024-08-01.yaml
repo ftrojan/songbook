@@ -12,3 +12,12 @@ songs:
   - name: klobouk_ve_krovi
     key: C
     note: Zpěv Zdeněk
+  - name: praminek_vlasu
+    key: F
+    note: Zpěv Filip
+  - name: rytmus_v_patach
+    key: Cmi
+    note: Zpěv Martina
+  - name: starej_pan
+    key: C
+    note: Zpěv Filip
