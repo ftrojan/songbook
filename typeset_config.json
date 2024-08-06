@@ -105,5 +105,9 @@
   "summertime": {
     "title": "Summertime",
     "input_file": "jazz/summertime.txt"
+  },
+  "autumn_leaves": {
+    "title": "Autumn Leaves",
+    "input_file": "jazz/autumn_leaves.txt"
   }
 }
