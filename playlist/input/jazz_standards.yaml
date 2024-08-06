@@ -4,6 +4,9 @@ songs:
   - name: l_o_v_e
     key: A,B,C
     note: Zpěv Filip
+  - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
   - name: autumn_leaves
     key: F
     note: Zpěv Filip
