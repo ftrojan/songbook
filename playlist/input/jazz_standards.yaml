@@ -16,3 +16,6 @@ songs:
   - name: hello_dolly
     key: B
     note: Zpěv Filip nebo Martina
+  - name: raindrops
+    key: F
+    note: Zpěv Filip
