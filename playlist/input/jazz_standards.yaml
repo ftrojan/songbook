@@ -13,3 +13,6 @@ songs:
   - name: something_stupid
     key: G
     note: Zpěv Filip + Martina
+  - name: hello_dolly
+    key: B
+    note: Zpěv Filip nebo Martina

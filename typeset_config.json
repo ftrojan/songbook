@@ -117,5 +117,10 @@
   "something_stupid": {
     "title": "Something Stupid",
     "input_file": "jazz/something_stupid.txt"
+  },
+  "hello_dolly": {
+    "title": "Hello Dolly",
+    "input_file": "jazz/hello_dolly.txt",
+    "split_lines": [35]
   }
 }
