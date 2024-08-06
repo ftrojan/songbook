@@ -137,5 +137,15 @@
     "title": "You Don't Know Me",
     "input_file": "jazz/you_dont_know_me.txt",
     "split_lines": []
+  },
+  "black_coffee": {
+    "title": "Black Coffee",
+    "input_file": "jazz/black_coffee.txt",
+    "split_lines": []
+  },
+  "quando": {
+    "title": "Quando Quando Quando",
+    "input_file": "jazz/quando_quando_quando.txt",
+    "split_lines": []
   }
 }

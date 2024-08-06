@@ -16,6 +16,9 @@ songs:
   - name: hello_dolly
     key: B
     note: Zpěv Filip nebo Martina
+  - name: quando
+    key: F
+    note: Zpěv Filip + Martina
   - name: raindrops
     key: F
     note: Zpěv Filip
@@ -24,4 +27,22 @@ songs:
     note: Zpěv Filip
   - name: you_dont_know_me
     key: D#
+    note: Zpěv Filip
+  - name: black_coffee
+    key: C
+    note: Zpěv Filip
+  - name: sway
+    key: Gmi
+    note: Zpěv Filip
+  - name: summertime
+    key: Dmi
+    note: Zpěv Filip
+  - name: blueberry_hill
+    key: C
+    note: Zpěv Zdeněk
+  - name: wonderful_world
+    key: F
+    note: Zpěv Filip
+  - name: all_of_me
+    key: C
     note: Zpěv Filip
