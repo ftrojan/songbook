@@ -113,5 +113,9 @@
   "dream_a_little_dream": {
     "title": "Dream a Little Dream of Me",
     "input_file": "jazz/dream_a_little_dream.txt"
+  },
+  "something_stupid": {
+    "title": "Something Stupid",
+    "input_file": "jazz/something_stupid.txt"
   }
 }

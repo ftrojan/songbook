@@ -9,4 +9,7 @@ songs:
     note: Zpěv Filip
   - name: autumn_leaves
     key: F
-    note: Zpěv Filip
+    note: Zpěv Filip, Eric Clapton
+  - name: something_stupid
+    key: G
+    note: Zpěv Filip + Martina
