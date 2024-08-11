@@ -80,7 +80,7 @@
   "l_o_v_e": {
     "title": "L-O-V-E",
     "input_file": "jazz/l_o_v_e.txt",
-    "split_lines": [29]
+    "split_lines": [34]
   },
   "blues_na_cestu_posledni": {
     "title": "Blues na cestu poslední",
@@ -112,7 +112,8 @@
   },
   "dream_a_little_dream": {
     "title": "Dream a Little Dream of Me",
-    "input_file": "jazz/dream_a_little_dream.txt"
+    "input_file": "jazz/dream_a_little_dream.txt",
+    "split_lines": [43]
   },
   "something_stupid": {
     "title": "Something Stupid",

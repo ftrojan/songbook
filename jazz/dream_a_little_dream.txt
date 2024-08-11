@@ -1,43 +1,81 @@
+[Intro] kytara Milan + Petr
 F  Cdim7 Gmi7 C7  F  Cdim7 Gmi7 C7
 
-F       Cdim7          Gmi7 C7 F                        D          D7
-Stars shining bright above you, night breezes seem to whisper, "I love you".
-Gmi7                Bbmi7              F              C#7 C7  F  C7
-Birds singing in the sycamore tree, "Dream a little dream of me".
-F     Cdim7          Gmi7    C7 F                        D              D7
-Say "nighty-night" and kiss me.  Just hold me tight and tell me you'll miss me.
-Gmi7                 Bbmi7            F              C#7 C7  F   G#
-While I'm alone and blue as can be, dream a little dream of me.
+[Verse 1 - A]
+F       Cdim7          Gmi7 C7
+Stars shining bright above you,
+F       E      Eb       D          D7
+night breezes seem to whisper, "I love you".
+Gmi7                Bbmi7
+Birds singing in the sycamore tree,
+   F              C#7 C7  F  C7
+"Dream a little dream of me".
 
+[Verse 2 - B]
+F     Cdim7          Gmi7    C7
+Say "nighty-night" and kiss me.
+F     E       Eb        D              D7
+Just hold me tight and tell me you'll miss me.
+Gmi7                 Bbmi7
+While I'm alone and blue as can be,
+  F              C#7 C7  F   G#
+dream a little dream of me.
+
+[Chorus]
 C#     Bbmi7      Ebmi7    G#7
 Stars fading, but I linger on, dear.
-C#      Bbmi7      Ebmi7 C#    Bbmi7      Ebmi7      G#7
-Still craving your kiss,  I'm longing to linger till dawn, dear.
-C#            C7  F       Cdim7         Gmi7  C7
-Just saying this: Sweet dreams till sunbeams find you.
-F                            D         D7
+C#      Bbmi7      Ebmi7   G#7
+Still craving your kiss,
+C#   Bbmi7      Ebmi7      G#7
+I'm longing to linger till dawn, dear.
+C#            C7
+Just saying this:
+
+[Verse 3 - B]
+F       Cdim7         Gmi7  C7
+Sweet dreams till sunbeams find you.
+F       E          Eb        D         D7
 Sweet dreams that leave all worries behind you.
-Gmi7                   Bbmi7           F              C#7 C7  F
-But in your dreams whatever they be, dream a little dream of me.
+Gmi7                   Bbmi7
+But in your dreams whatever they be,
+  F              C#7 C7  F   C7
+dream a little dream of me.
 
-F Cdim7 Gmi7 C7  F D D7 Gmi7 Bbmi7 F C#7 C7 F  G#
-mezihra ala sloka
+[Interlude ala verse A] trumpeta Zdenek
+F Cdim7  Gmi7 C7
+F E Eb   D    D7
+Gmi7     Bbmi7
+F C#7 C7 F    C7
 
+[Interlude ala verse B] Petr housle
+F Cdim7  Gmi7 C7
+F E Eb   D    D7
+Gmi7     Bbmi7
+F C#7 C7 F    G#
 
+[Chorus]
 C#     Bbmi7      Ebmi7    G#7
 Stars fading, but I linger on, dear.
-C#      Bbmi7      Ebmi7 C#    Bbmi7      Ebmi7      G#7
-Still craving your kiss, I'm longing to linger till dawn, dear.
-C#            C7 B7  F#     C#dim7        G#mi7 C#7
-Just saying this:   Sweet dreams till sunbeams find you.
-F#                           D#        D#7
+C#      Bbmi7      Ebmi7   G#7
+Still craving your kiss,
+C#   Bbmi7      Ebmi7       G#7
+I'm longing to linger till dawn, dear.
+C#            C7 B7
+Just saying this:
+
+[Verse 4 - C] raised F -> F#
+F#     C#dim7        G#mi7 C#7
+Sweet dreams till sunbeams find you.
+F#      F          E         D#        D#7
 Sweet dreams that leave all worries behind you.
-G#mi7                  Bmi7            F#             D7  C#7
-But in your dreams whatever they be, dream a little dream of
-  F#             D7  C#7
+G#mi7                  Bmi7
+But in your dreams whatever they be,
+  F#             D7     C#7
 dream a little dream of
-  F#             D7
-dream a little dream
-C#7 F# B7 F# B7 F# B7 F# F#9
-of    me-e-e-e-e-e-e-e-e.
+  F#             D7     C#7
+dream a little dream of
+  F#             D7     C#7
+dream a little dream    of
+F# B7 F# B7 F# B7 F# F#9
+me-e-e-e-e-e-e-e-e.
 
