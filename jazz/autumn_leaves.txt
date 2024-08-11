@@ -1,25 +1,20 @@
 Dmi A7 Dmi
 
-             Gmi    C7
-The falling leaves
-             F      B
-Drift by my window.
-             Gmi   A7          Dmi
-The falling leaves of red and gold.
+             Gmi    C7              F      B
+The falling leaves     drift by my window.
+             Gmi    A7             Dmi
+The falling leaves     of red and gold.
 
-            Gmi  C7
-I see your lips,
-            F     B
-the summer kisses,
-               Gmi  A7         Dmi
-the sunburned hands I used to hold.
+            Gmi     C7             F     B
+I see your lips,       the summer kisses,
+               Gmi  A7            Dmi
+the sunburned hands    I used to hold.
+
 
 [Chorus]
-           A7
-Since you went away
-               Dmi
-the days grow long
-               Gmi C7          F
+           A7                      Dmi
+Since you went away the days grow long
+               Gmi C7          F     D7
 And soon I'll hear old winter song
        Gmi     A7              Dmi    Dmi/C B
 But i miss you most of all my darling
@@ -29,8 +24,7 @@ When autumn leaves start to fall
 [solo kytara]
 
 [Chorus]
-Since you went away
-the days grow long
+Since you went away the days grow long
 And soon I'll hear old winter song
 But i miss you most of all my darling
 When autumn leaves start to fall
