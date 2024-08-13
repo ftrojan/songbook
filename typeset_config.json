@@ -150,8 +150,13 @@
     "split_lines": []
   },
   "divka_k_rytmu_zrozena": {
-    "title": "Divka k rytmu zrozena",
+    "title": "Dívka k rytmu zrozená",
     "input_file": "orion/divka_k_rytmu_zrozena.txt",
+    "split_lines": []
+  },
+  "anci_svit": {
+    "title": "Anči sviť",
+    "input_file": "orion/anci_svit.txt",
     "split_lines": []
   }
 }
