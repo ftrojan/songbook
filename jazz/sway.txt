@@ -1,6 +1,6 @@
-[Intro]
-Gmi Cmi6 D7  Gmi
-Gmi Cmi6 D7  Gmi
+[Intro] trubka
+Cmi Cmi Gmi Gmi
+Cmi D7  Gmi Gmi
 
 [Verse 1]
 Gmi                    Cmi
@@ -38,11 +38,28 @@ Long before it begins
 Make me thrill as only you know how
 Sway me smooth, sway me now
 
-[Solo]
-Gmi Cmi6 D7  Gmi
-Gmi Cmi6 D7  Gmi
-F  B D7 Eb7 D7
- 
+[Solo] housle sloka + refren + sloka
+Cmi Cmi Gmi Gmi
+Cmi D7  Gmi Gmi
+F   F   B   B
+D7  D7  Eb7 D7
+Cmi Cmi Gmi Gmi
+Cmi D7  Gmi Gmi
+
+[Solo] kytara sloka
+Cmi Cmi Gmi Gmi
+Cmi D7  Gmi Gmi
+
+[Chorus]
+                   F
+Other dancers may be on the floor, dear
+                  B
+But my eyes will see only you
+                    D7
+Only you have that magic technique
+                  Eb7     D7
+When we sway I go weeeeaaaak
+
 [Verse 4]
 I can hear the sounds of violins
 Long before it begins

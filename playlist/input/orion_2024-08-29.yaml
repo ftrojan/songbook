@@ -19,6 +19,9 @@ songs:
   - name: blues_na_cestu_posledni
     key: G
     note: Zpěv Filip
+  - name: sway
+    key: Gmi
+    note: Zpěv Filip
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip
