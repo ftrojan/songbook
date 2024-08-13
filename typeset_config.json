@@ -148,5 +148,10 @@
     "title": "Quando Quando Quando",
     "input_file": "jazz/quando_quando_quando.txt",
     "split_lines": []
+  },
+  "divka_k_rytmu_zrozena": {
+    "title": "Divka k rytmu zrozena",
+    "input_file": "orion/divka_k_rytmu_zrozena.txt",
+    "split_lines": []
   }
 }
