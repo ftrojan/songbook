@@ -154,9 +154,9 @@
     "input_file": "orion/divka_k_rytmu_zrozena.txt",
     "split_lines": []
   },
-  "anci_svit": {
-    "title": "Anči sviť",
-    "input_file": "orion/anci_svit.txt",
+  "aint_she_sweet": {
+    "title": "Ain't She Sweet (Anči sviť)",
+    "input_file": "jazz/aint_she_sweet.txt",
     "split_lines": []
   }
 }
