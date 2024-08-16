@@ -159,5 +159,10 @@
     "title": "Ain't She Sweet (Anči sviť)",
     "input_file": "jazz/aint_she_sweet.txt",
     "split_lines": []
+  },
+  "moondance": {
+    "title": "Moondance",
+    "input_file": "jazz/moondance.txt",
+    "split_lines": [42]
   }
 }
