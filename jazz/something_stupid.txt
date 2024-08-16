@@ -1,63 +1,96 @@
 [Intro]
- Am    D7    Am    D7    G
+Am7  D7   Am7  D7   G    G    G    G
 
-    G            G6
+[Verse 1 - A]
+    G
 I know I stand in line until you
-  G                 G6              Am               D7    Am    D7
-think you have the time to spend an evening with me
-    Am           D7            Am                D7
-And if we go someplace to dance I know that there's a chance
-          G                G6    G    G6
+  G
+think you have the time to spend an
+Am7           D7    Am7    D7
+evening with me
+    Am7            D7
+And if we go someplace to dance
+    Am7                 D7
+I know that there's a chance
+              G
 you won't be leaving with me
-     G            G9            G              G9
-And afterwards we drop into a quiet little place
-        Cm6           Cm
-And have a drink or two
-     Am            D7            Am             D7
-And then I go and spoil it all by saying something stupid
-        G      G6    G    G6
+
+[Verse 2 - B]
+     G
+And afterwards we drop into
+    G7
+a quiet little place and have a
+  Cmaj7        Cm7
+drink or two
+     Am7            D7
+And then I go and spoil it all
+    Am7                D7
+by saying something stupid
+        G
 like I love you
 
-       G               G9                G              G9
-I can see it in your eyes that you despise the same old lines
-           Cm6
+[Verse 3 - C]
+       G
+I can see it in your eyes that you
+    G7
+despise the same old lies
+               Cmaj7
 you heard the night before
-     A
-And though it's just a line to you for me it's true
-             D7
-and never seemed so right before
+     A7
+And though it's just a line to you
+     A7
+for me it's true It never seemed so
+ D7
+right before
 
-   G          G6           G           G6
-I practice everyday to find some clever lines to say
-         Am                D7    Am    D7
+[Verse 4 - A]
+    G
+I practice everyday to find some
+  G
+clever lines to say
+             Am7               D7    Am7   D7
 to make the meaning come true
-     Am                D7            Am          D7
-But then I think I'll wait until the evening gets late
-     G             G6    G    G6
-And I'm alone with you
-     G                 G9          G             G9
-The time is right your perfume fills my head the stars get red
-        Cm6            Cm
-and on the nights so blue
-     Am            D7            Am             D7
-And then I go and spoil it all by saying something stupid
-        G      G6    G    G6
+     Am7               D7
+But then I think I'll wait until the
+Am7         D7
+evening gets late and I'm
+  G
+alone with you
+
+[Verse 5 - B]
+     G
+The time is right your perfume fills my
+ G7
+head the stars get red
+            Cmaj7          Cm7
+and oh the night's so blue
+     Am7           D7
+And then I go and spoil it all by
+ Am7               D7
+saying something stupid
+        G
 like I love you
 
+[Solo - A] housle + kytara
+G    G     G    G   Am7   D7   Am7   D7
+Am7  D7    Am7  D7  G     G    G     G
 
-STRING SOLO
- G    G6    G    G6    Am    D7    Am    C#
- Am    D7    Am    D7    G    G6    G    G6
-
-     G                 G9          G             G9
-The time is right your perfume fills my head the stars get red
-        Cm6            Cm
-and on the nights so blue
-     Am            D7            Am             D7
-And then I go and spoil it all by saying something stupid
-        G      D#
+[Verse 5 - B]
+     G
+The time is right your perfume fills my
+ G7
+head the stars get red
+            Cmaj7         Cm7
+and oh the night's so blue
+     Am7           D7
+And then I go and spoil it all by
+ Am7               D7
+saying something stupid
+        G      Eb
 like I love you
-   G         D#
+
+[Outro]
+   G         Eb
 I love you
-   G         D#
+   G         Eb
 I love you
