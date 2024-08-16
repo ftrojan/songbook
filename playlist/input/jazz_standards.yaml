@@ -31,6 +31,12 @@ songs:
   - name: moondance
     key: Gmi
     note: Zpěv Filip
+  - name: strangers_in_the_night
+    key: F
+    note: Zpěv Filip
+  - name: fly_me_to_the_moon
+    key: Am
+    note: Zpěv Filip
   - name: black_coffee
     key: C
     note: Zpěv Filip
