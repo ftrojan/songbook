@@ -169,5 +169,10 @@
     "title": "Strangers in the night",
     "input_file": "jazz/strangers_in_the_night.txt",
     "split_lines": []
+  },
+  "fly_me_to_the_moon": {
+    "title": "Fly me to the moon",
+    "input_file": "jazz/fly_me_to_the_moon.txt",
+    "split_lines": []
   }
 }
