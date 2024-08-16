@@ -23,35 +23,35 @@ A             Bm7     E      A       F7
 Love    was made for me and you.
 
 [interlude - A] trubka Zdenek
-Bb Cm7 F7 Bb
-Bb Bb7 D#
+B Cm7 F7 B
+B B7 D#
 C  C7  F  F7
 
 [interlude - B] kytara Petr
-Bb Cm7 F7 Bb
-Bb Bb7 D# C
-Bb Cm7 F  Bb  F#7
+B Cm7 F7 B
+B B7 D# C
+B Cm7 F  B  F#7
 
 [Verse 3 = Verse 1 - A]
-B                      C#m7
+H                      C#m7
 "L" is for the way you look at me
-C#mi7    F#7          B
+C#mi7    F#7        H
 "O" is for the only one I see
-B       B7          E
+H       H7          E
 "V" is very, very   extraordinary
 C#     C#7             F#7
 "E" is even more than anyone that you adore can
 
 [Verse 4 - C] Petr housle
-B                       C#m7
+H                       C#m7
 Love is all that I can give to you
-C#m7      F#7             B
+C#m7      F#7             H
 Love is more than just a game for two.
-B       B7
+H       H7
 Two in love can make it
 E                    C#
 Take my heart, but please don't break it
-B             C#m7    F#7    B    C#
+H             C#m7    F#7    H    C#
 Love    was made for me and you
 C#m7         F#7             B    G#7
 Love    was made for me and you

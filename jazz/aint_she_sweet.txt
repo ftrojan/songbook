@@ -1,14 +1,20 @@
 [Instrumental - A]
-Bb6  E9  F7  Bb6  E9   F7
-Bb6  D7  G7  C7   F7   Bb6  F7
+B6  E9  F7  B6  E9   F7
+B6  D7  G7  C7   F7   B6  F7
 
-Bb6  E9  F7  Bb6  E9   F7
-Bb6  D7  G7  C7   F7   Bb6
+B6  E9  F7  B6  E9   F7
+B6  D7  G7  C7   F7   B6
 
 [Instrumental - B]
-Eb7          Bb6       Bb7
-Eb7          Bb6       Cm7  F7
+Eb7          B6       B7
+Eb7          B6       Cm7  F7
 
 [Instrumental - A]
-Bb6  E9  F7  Bb6  E9   F7
-Bb6  D7  G7  C7   F7   Bb Eb7 Bb
+B6  E9  F7  B6  E9   F7
+B6  D7  G7  C7   F7   B Eb7 B
+
+
+B6 = xx8786
+E9  = x7677x
+F7  = x8786x
+Eb7 = 668686
