@@ -164,5 +164,10 @@
     "title": "Moondance",
     "input_file": "jazz/moondance.txt",
     "split_lines": [42]
+  },
+  "strangers_in_the_night": {
+    "title": "Strangers in the night",
+    "input_file": "jazz/strangers_in_the_night.txt",
+    "split_lines": []
   }
 }
