@@ -179,5 +179,10 @@
     "title": "It don't mean a thing",
     "input_file": "jazz/it_dont_mean_a_thing.txt",
     "split_lines": [39]
+  },
+  "wave": {
+    "title": "Wave",
+    "input_file": "jazz/wave.txt",
+    "split_lines": [38]
   }
 }

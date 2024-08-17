@@ -116,7 +116,7 @@ def chords_list() -> set[str]:
     base_shifts = {f"{x}{s}" for x in base_notes for s in shift}
     base_halfs = base_notes | base_shifts
     base_ext = {f"{x}{e}" for x in base_halfs for e in ext}
-    base_slash = {f"{x}/{s}" for x in base_halfs for s in base_halfs}
+    base_slash = {f"{x}/{s}" for x in base_ext for s in base_halfs}
     base_all = base_halfs | base_ext | base_slash
     base_minors = {f"{x}{m}" for x in base_halfs for m in minors}
     base_minors_ext = {f"{x}{e}" for x in base_minors for e in ext}
