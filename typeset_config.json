@@ -184,5 +184,10 @@
     "title": "Wave",
     "input_file": "jazz/wave.txt",
     "split_lines": [38]
+  },
+  "night_and_day": {
+    "title": "Night and Day",
+    "input_file": "jazz/night_and_day.txt",
+    "split_lines": []
   }
 }

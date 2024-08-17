@@ -40,8 +40,14 @@ songs:
   - name: it_dont_mean_a_thing
     key: Am
     note: Zpěv Filip
+  - name: wave
+    key: D
+    note: Zpěv Filip
   - name: black_coffee
     key: C
+    note: Zpěv Filip
+  - name: night_and_day
+    key: G
     note: Zpěv Filip
   - name: sway
     key: Gmi
