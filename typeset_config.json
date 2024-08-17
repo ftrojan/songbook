@@ -189,5 +189,10 @@
     "title": "Night and Day",
     "input_file": "jazz/night_and_day.txt",
     "split_lines": []
+  },
+  "ipanema": {
+    "title": "The Girl From Ipanema",
+    "input_file": "jazz/ipanema.txt",
+    "split_lines": [37]
   }
 }

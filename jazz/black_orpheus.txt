@@ -1,4 +1,4 @@
-Dmi = Kapo 5 + Ami, ABABAB
+Bmi = Kapo 1 + Ami, ABABAB
 
 [Intro]
 4x Ami Bdim E7

@@ -52,15 +52,27 @@ songs:
   - name: sway
     key: Gmi
     note: Zpěv Filip
+  - name: corcovado
+    key: C
+    note: Zpěv Filip
   - name: summertime
     key: Dmi
+    note: Zpěv Filip
+  - name: ipanema
+    key: F
+    note: Zpěv Filip
+  - name: wonderful_world
+    key: F
     note: Zpěv Filip
   - name: blueberry_hill
     key: C
     note: Zpěv Zdeněk
-  - name: wonderful_world
-    key: F
-    note: Zpěv Filip
   - name: all_of_me
     key: C
+    note: Zpěv Filip
+  - name: pochod_svatych
+    key: B
+    note: Zpěv Filip + Všichni
+  - name: black_orpheus
+    key: Bmi
     note: Zpěv Filip

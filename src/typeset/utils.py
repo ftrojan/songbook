@@ -112,7 +112,7 @@ def chords_list() -> set[str]:
     base_notes = {"C", "D", "E", "F", "G", "A", "H", "B"}
     shift = {"#", "b"}
     minors = {"m", "mi"}
-    ext = {"7", "maj", "maj7", "4", "5", "7sus", "sus4", "dim", "dim7", "9", "+", "6", "add9", "7+", "7b9", "6"}
+    ext = {"7", "maj", "maj7", "4", "5", "7sus", "sus4", "dim", "dim7", "9", "+", "6", "add9", "7+", "7b9", "6/9", "7/5+"}
     base_shifts = {f"{x}{s}" for x in base_notes for s in shift}
     base_halfs = base_notes | base_shifts
     base_ext = {f"{x}{e}" for x in base_halfs for e in ext}
