@@ -113,18 +113,15 @@ def chords_list() -> set[str]:
     shift = {"#", "b"}
     minors = {"m", "mi"}
     ext = {"7", "maj", "maj7", "4", "5", "7sus", "sus4", "dim", "dim7", "9", "+", "6", "add9", "7+", "7b9", "6"}
-    base_ext = {f"{x}{e}" for x in base_notes for e in ext}
-    base_slash = {f"{x}/{s}" for x in base_notes for s in base_notes}
-    base_all = base_notes | base_ext | base_slash
-    base_minors = {f"{x}{m}" for x in base_notes for m in minors}
-    base_minors_ext = {f"{x}{e}" for x in base_minors for e in ext}
-    base_minors_slash = {f"{x}/{s}" for x in base_minors for s in base_notes}
-    base_minors_all = base_minors | base_minors_ext | base_minors_slash
     base_shifts = {f"{x}{s}" for x in base_notes for s in shift}
-    base_shifts_minors = {f"{x}{m}" for x in base_shifts for m in minors}
-    base_shifts_ext = {f"{x}{e}" for x in base_shifts for e in ext}
-    print(base_shifts_ext)
-    base_shifts_minors_ext = {f"{x}{e}" for x in base_shifts_minors for e in ext}
-    base_shifts_all = base_shifts | base_shifts_minors | base_shifts_ext | base_shifts_minors_ext
-    result = base_all | base_minors_all | base_shifts_all
+    base_halfs = base_notes | base_shifts
+    base_ext = {f"{x}{e}" for x in base_halfs for e in ext}
+    base_slash = {f"{x}/{s}" for x in base_halfs for s in base_halfs}
+    base_all = base_halfs | base_ext | base_slash
+    base_minors = {f"{x}{m}" for x in base_halfs for m in minors}
+    base_minors_ext = {f"{x}{e}" for x in base_minors for e in ext}
+    base_minors_slash = {f"{x}/{s}" for x in base_minors for s in base_halfs}
+    print(base_minors_slash)
+    base_minors_all = base_minors | base_minors_ext | base_minors_slash
+    result = base_all | base_minors_all
     return result
