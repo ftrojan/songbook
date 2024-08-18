@@ -1,54 +1,78 @@
+[Intro]
 B
 
-[Verse 1A]
-     B                    Gmi
-Hello, Dolly, well, hello, Dolly
-         Dmi7                Bdim7             Cmi7     F7
-It's so nice to have you back where you belong
-                  Cmi7                     G#7
-You're lookin' swell, Dolly, and I can tell, Dolly
-             Cmi7                 F7               B   Bdim7    F7
-You still crowin', you still growin', you still goin' strong
+[Verse 1 - A]
+     B
+Hello, Dolly, well,
+    Gm
+hello, Dolly
+         Dmi7             Bdim7
+It's so nice to have you back where you
+   Cm7   F7
+belong
+                 Cm7
+You're lookin' swell, Dolly, and I can
+ G#7
+tell, Dolly
+            Cmi7                 F7
+You still crowin', you still growin', you still
+B   Bdim7   F7
+   goin' strong
 
-[Verse 1B]
-             B                        Gmi
-I feel the room swayin', while the band's playin'
-             Fmi7            B                     D#
-One of your old favorite songs from way back when
-  D   Gmi           Dmi7         Gmi                 Dmi7
-So, take her wrap fellas, find her an empty lap fellas
-      Cmi7              F7          B    F#7
-and Dolly will never go away again
+[Verse 1 - B]
+             B
+I feel the room swayin', while the
+ Gm
+band's playin'
+            Fm7           B
+One of your old favorite songs from way back
+  D#   D
+when. So,
+Gmi            Dm7
+    take her wrap fellas,
+ Gm                Dm7
+find her an empty lap fellas
+     Cm7              F7
+and Dolly will never go away
+  B    F#7
+again
 
-[Verse 2A]
-            H                               G#mi
+[Verse 2 - A]
+            H                            G#mi
 I said hello, Dolly, well, what do you know, Dolly
 It's so nice to have you back where you belong
 You're lookin' swell, Dolly, and I can tell, Dolly
-You're still crowin', you're still growin', you're still goin' strong
+You're still crowin', you're still growin',
+you're still goin' strong
 
-[Verse 2B]
+[Verse 2 - B]
 Just feel that room swayin', 'cause the band's playin'
 One of your old familiar songs from way back when
 So, golly gee fellas, find her an empty knee fellas
 And Dolly will never go away again
 
-[Verse 3A]
+[Verse 3 - A]
            C                       Ami
 I mean hello, Dolly, what do you know, Dolly
 It's so nice to have you back where you belong
-And I can tell, Dolly, you're lookin' swell, swell, Dolly
-Yeah, you're still crowin', you're still growin', you're still goin' strong
+And I can tell, Dolly, you're lookin'
+swell, swell, Dolly
+Yeah, you're still crowin', you're still growin',
+you're still goin' strong
 
-[Verse 3B]
-Just feel that room swayin', while the band, it keeps on playin'
+[Verse 3 - B]
+Just feel that room swayin', while the
+band, it keeps on playin'
 One of your old familiar songs from way back when
-So, golly gee fellas, have a little faith in me, fellas
+So, golly gee fellas, have a little faith
+in me, fellas
 And Dolly will never go away again
 
-[Verse 4]
-                Db                       Bmi
-Just feel that room swayin', while that band is playin'
+[Verse 4 - B + outro]
+                Db
+Just feel that room swayin', while that
+ Bmi
+band is playin'
 One of your old familiar songs from way back when
 So, golly gee fellas, find her a vacant knee fellas
 Dolly, never go away,

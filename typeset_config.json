@@ -123,7 +123,7 @@
   "hello_dolly": {
     "title": "Hello Dolly",
     "input_file": "jazz/hello_dolly.txt",
-    "split_lines": [35]
+    "split_lines": [39]
   },
   "raindrops": {
     "title": "Raindrops keep fallin' on my head",
