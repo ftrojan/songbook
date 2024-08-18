@@ -1,18 +1,25 @@
 D# = kapo 1 + D = kapo 3 + C
 
-C C/G E7 Ami D7 Dmi7 G7
+[Intro]
+C C/G E7 Am D7 Dm7 G7
 
-VERSE 1
-             C          Cmaj7             C            C7
-You give your hand to me    and then you say, "Hello."
-           F                         Cdim7
-and I can hardly speak, my heart is beating so.
-       C           A7                Dm7         G7
-And anyone can tell  You think you know me well.
+[Verse 1 - A]
+               C         Cmaj7
+You give your hand to me
+              C            C7
+and then you say, "Hello."
+           F
+and I can hardly speak,
+             Cdim7
+my heart is beating so.
+       C           A7
+And anyone can tell
+                Dm7         G7
+You think you know me well.
                   Emi7   Ami7 Dmi7 G7
-Well, you don't know me  (no you don't know me)
+Well, you don't know me.
 
-VERSE 2
+[Verse 2 - B]
 No you don't know the one
 who dreams of you at night
 and longs to kiss your lips
@@ -20,19 +27,19 @@ and longs to hold you tight
 To you I'm just a friend,
 that's all I've ever been.
                   C      F  C   C7
-Cause you don't know me.(no you don't know me)
+Cause you don't know me.
 
-BRIDGE
-F             Cdim7  C              A7
+[Chorus - C]
+F             Cdim7  C                A7
 For I never knew the art of making love,
-Dmi7      G7                 C           E7
+Dm7        G7               C           E7
 Though my heart aches with love for you.
 Ami                Emi              A7
 Afraid and shy, I let my chance go by.
 D7                               G  G+
-A chance that you might love me too.      (love me too)
+A chance that you might love me too.
 
-VERSE 3
+[Verse 3 - B]
 You give your hand to me,
 And then you say, "Goodbye."
 I watched you walk away,
@@ -41,16 +48,19 @@ Oh, you'll never know
 The one who loved you so.
 Well, you don't know me
 
-solo
+[solo - B]
 
-BRIDGE
+[Chorus - C]
+F             Cdim7  C                A7
 For I never knew the art of making love,
-though my heart aches with love for you.
+Dm7        G7               C           E7
+Though my heart aches with love for you.
+Ami                Emi              A7
 Afraid and shy, I let my chance go by.
 D7                               G  G#7
 A chance that you might love me too.
 
-VERSE 4
+[Verse 4 - D]
               C#          C#maj7
 You give your hand to me,
              C#          C#7

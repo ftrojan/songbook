@@ -138,7 +138,7 @@
   "you_dont_know_me": {
     "title": "You Don't Know Me",
     "input_file": "jazz/you_dont_know_me.txt",
-    "split_lines": []
+    "split_lines": [41]
   },
   "black_coffee": {
     "title": "Black Coffee",
