@@ -1,45 +1,66 @@
 [Intro]
 F    C    B    C
 
-[Verse 1]
+[Verse 1 - A]
  F                              Fmaj7
 Raindrops keep falling on my head
-     F7                                 B                 Ami
-and just like the guy whose feet are too big for his bed,
- D7                 Ami     D7      Gm7
-nothing seems to fit, Those raindrops are fallin' on my head they keep fallin'
+     F7
+and just like the guy whose feet are
+ B               Am7
+too big for his bed,
+ D7               Am7   D7
+nothing seems to fit, those
+ Gm7
+raindrops are fallin' on my
+ Gm7                   C7
+head they keep fallin'
 
-[Verse 2]
- C7          F                            Fmaj7
+[Verse 2 - A]
+           F                          Fmaj7
 So I just did me some talkin' to the sun,
-     F7                         B                   Ami
-and I said I didn't like the way he got things done
- D7                Ami     D7      Gmi7
-Sleepin' on the job, Those raindrops are fallin' on my head they keep fallin'
+     F7
+and I said I didn't like the
+ B                 Am7
+way he got things done
+ D7              Am7   D7
+Sleepin' on the job, those
+ Gm7
+raindrops are fallin' on my
+ Gm7                   C7
+head they keep fallin'
 
-[Chorus]
- C7                F         Fmaj7
+[Chorus - B]
+                  F       Fmaj7
 But there's one thing I know,
-      B                  C                Ami
+      B                  C                Am7
 the blues they send to meet me, won't defeat me
-                       D7                Gm7             B    C    B    C
-It won't be long till happiness steps up to greet me
+    Am7
+It won't be long till
+ D7             Gm7             B  C  B  C
+happiness steps up to greet me
 
 [Verse 3]
-   F                            Fmaj7
+ F                            Fmaj7
 Raindrops keep fallin' on my head,
-     F7                               B                 Ami
-but that doesn't mean my eyes will soon be turnin' red,
- D7                Ami     D7      Gmi7
-Cryin's not for me, cause I'm never gonna stop the rain by complainin'
- C7            F       C7
-because I'm free, nothings worryin' me
+      F7
+but that doesn't mean my eyes will
+ B               Am7
+soon be turnin' red,
+ D7              Am7 D7
+Cryin's not for me, cause
+Gm7
+I'm never gonna stop the
+ Gm7                C7
+rain by complainin'    because I'm
+  F             C7       F
+free, nothings worryin' me
 
-[interlude]
-F  Fmaj7  B  C  Ami
-
-                       D7                Gmi7             B    C    B    C
-It won't be long till happiness steps up to greet me
+[interlude - B]
+F  Fmaj7  B  C  Am7
+    Am7
+It won't be long till
+ D7             Gm7          B  C  B  C
+happiness steps up to greet me
 
 [Verse 3] + outro
 F Db F Db F Db F
