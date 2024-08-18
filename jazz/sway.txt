@@ -1,31 +1,31 @@
 [Intro] trubka
-Cmi Cmi Gmi Gmi
-Cmi D7  Gmi Gmi
+Cm  Cm  Gm6 Gm6
+Cm6 D7  Gm  Gm
 
 [Verse 1]
-Gmi                    Cmi
+Gm                     Adim7    D7
 When marimba rhythms start to play
-Cmi             Gmi
+Adim7       D7  Gm6
 Dance with me, make me sway
-Gmi                Cmi
+Gm6               Cm         D7
 Like a lazy ocean hugs the shore
- D7              Gmi
+ Cm       D7     Gm6
 Hold me close, sway me more
 
 [Verse 2]
-Gmi                   Cmi
+Gm6                   Adim7    D7
 Like a flower bending in the breeze
-Cmi             Gmi
+ Adim7     D7   Gm6
 Bend with me, sway with ease
-Gmi                       Cmi
+Gm6                       Cm       D7
 When we dance you have a way with me
-D7             Gmi
+  Cm       D7   Gm6
 Stay with me, sway with me
 
 [Chorus]
-                   F
+                   F7
 Other dancers may be on the floor, dear
-                  B
+                  Bmaj7
 But my eyes will see only you
                     D7
 Only you have that magic technique
@@ -39,21 +39,21 @@ Make me thrill as only you know how
 Sway me smooth, sway me now
 
 [Solo] housle sloka + refren + sloka
-Cmi Cmi Gmi Gmi
-Cmi D7  Gmi Gmi
-F   F   B   B
-D7  D7  Eb7 D7
-Cmi Cmi Gmi Gmi
-Cmi D7  Gmi Gmi
+Adim7 D7  Adim7 D7  Gm6 Gm6 Gm6 Gm6
+Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
+F7    F7  F7    F7  Bmaj7   Bmaj7
+D7    D7  D7    D7  Eb7     D7
+Adim7 D7  Adim7 D7  Gm6 Gm6 Gm6 Gm6
+Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
 
 [Solo] kytara sloka
 Cmi Cmi Gmi Gmi
 Cmi D7  Gmi Gmi
 
 [Chorus]
-                   F
+                   F7
 Other dancers may be on the floor, dear
-                  B
+                  Bmaj7
 But my eyes will see only you
                     D7
 Only you have that magic technique
