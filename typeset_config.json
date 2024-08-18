@@ -34,7 +34,7 @@
   "black_orpheus": {
     "title": "Black Orpheus",
     "input_file": "jazz/black_orpheus.txt",
-    "split_lines": [34]
+    "split_lines": [38]
   },
   "corcovado": {
     "title": "Corcovado",

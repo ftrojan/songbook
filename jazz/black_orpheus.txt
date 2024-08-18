@@ -1,7 +1,8 @@
 Bmi = Kapo 1 + Ami, ABABAB
 
 [Intro]
-4x Ami Bdim E7
+Ami Bdim7 E7  Ami Bdim7 E7
+Ami Bdim7 E7  Ami Bdim7 E7
 
 [Form A]
 
