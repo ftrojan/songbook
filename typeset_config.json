@@ -133,7 +133,7 @@
   "mack_the_knife": {
     "title": "Mack the Knife",
     "input_file": "jazz/mack_the_knife.txt",
-    "split_lines": [41]
+    "split_lines": [43]
   },
   "you_dont_know_me": {
     "title": "You Don't Know Me",
