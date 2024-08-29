@@ -1,12 +1,12 @@
-  G           B                     G               E7
+  G           B                      G              E7
 Proč že se mi každou noc o tom jen zdá, o tom jen zdá,
-      A7               G      D7        G  A7  Cmaj7 D7
+      A7               G      D7        G  A7   Am D7
 že v mém životě vyšla má tak šťastná a krásná hvězda,
   G            B                    G             E7
 proč že se mi každou noc o tom jen zdá, že ta hvězda
-   A7                   G      D+        G D# F G
+   A7                   G      D+        G D# G F#7
 mi dá to štěstí, o němž se mi  ve dne nezdá,
-Hmi    Hmi/B   Hmi/A        Eadd9
+Hmi    Hmi/B   Hmi/A       E9
 zdání klame, mimoto každý sen,
          D   Fdim    A7   A+       D  D9   D7  D+
 který v noci mí     váme,   zažene příští den.
@@ -14,21 +14,21 @@ který v noci mí     váme,   zažene příští den.
 [Chorus]
  G/E          C7      G                       G7
 Život je jen náhoda, jednou jsi dole, jednou nahoře,
- C          Eb7 Cmi7  Eb7   G        D+    G   D+
-život plyne jak  vo   da a  smrt je jako moře.
+ C           Cmi7   Eb7   G      D+     G   D+
+život plyne jak  voda a smrt je jako moře.
  G            C7       G                   G7
 Každý k moři dopluje, někdo dříve a někdo později,
-  C          Eb7 Cmi7  Eb7    G    D+     G
-kdo v životě mi  lu    je, ať neztrácí naději.
+  C           Cmi7  Eb7    G    D+     G   G+
+kdo v životě milu  je, ať neztrácí naději.
 
-C                   G      C                 G Gdim G
+C                   G      C            Gdim   G
 Až uvidíš v životě zázraky,které jenom láska umí,
- A7                         A+ D  D Gdim    G#dim   D  D+
-zlaté rybky vyletí nad mraky  pak po ro    zu   míš,
+ A7                           D   D  Gdim  Abdim   D  D+
+zlaté rybky vyletí nad mraky pak po ro    zu   míš,
  G           C7         G                    G7
 že je život jak voda, kterou láska ve víno promění,
- C          Eb7 Cmi7 Eb7   G       D+      G D+ G
-láska že je ná  ho   da a  bez ní štěstí není.
+ C           Cmi7 Eb7   G       D+      G D+ G
+láska že je náho da a  bez ní štěstí není.
 
 
 MEZIHRA 1/2 referénu
