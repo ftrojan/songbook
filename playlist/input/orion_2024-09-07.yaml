@@ -1,57 +1,24 @@
-title: Orion 2024-09-07
-subtitle: Klínec, Fotbalové hřiště, 16:00-18:00
+title: 2024-09-07
+subtitle: Klínec, Fotbalové hřiště, 16:00-18:00, Filip+Martina
 songs:
-  - name: aint_she_sweet
-    key: B
-    note: instrumental
   - name: l_o_v_e
     key: A,B,H
     note: Zpěv Filip
   - name: pochod_svatych
     key: B
     note: Zpěv Filip + všichni
-  - name: sedavam
-    key: B
-    note: Zpěv Martina
-  - name: uz_davno_nejsem_dite
-    key: B
-    note: Zpěv Milan
-  - name: klobouk_ve_krovi
-    key: C
-    note: Zpěv Zdeněk
   - name: jednou_mi_fotr_povida
     key: A
     note: Zpěv Filip
   - name: blues_na_cestu_posledni
     key: G
     note: Zpěv Filip
-  - name: je_po_desti
-    key: C
-    note: Zpěv Martina
-  - name: ceresne
-    key: Ami
-    note: Zpěv Martina
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip
-  - name: blueberry_hill
+  - name: starej_pan
     key: C
-    note: Zpěv Zdeněk
-  - name: sway
-    key: Gmi
     note: Zpěv Filip
-  - name: fly_me_to_the_moon
-    key: Am
-    note: Zpěv Filip
-  - name: a_ja_taka_dzivocka
-    key: Emi
-    note: Zpěv Martina
-  - name: este_som_sa_neozenil
-    key: Emi
-    note: Zpěv Filip
-  - name: nepi_jano
-    key: Gmi
-    note: Zpěv Martina + Filip
   - name: to_ta_helpa
     key: Dmi
     note: Zpěv Martina
@@ -63,9 +30,6 @@ songs:
     note: Zpěv Filip
   - name: all_of_me
     key: C
-    note: Zpěv Filip
-  - name: it_dont_mean_a_thing
-    key: Am
     note: Zpěv Filip
   - name: wonderful_world
     key: F

@@ -49,7 +49,7 @@ def get_playlist(name: str) -> Playlist:
         data = yaml.load(fp, Loader=yaml.SafeLoader)
     x = Playlist(
         name=name,
-        title=data["title"],
+        title=str(data["title"]),
         subtitle=data.get("subtitle", None),
         songs=[
             SongInPlaylist.from_dict(i+1, s) for i, s in enumerate(data["songs"])
