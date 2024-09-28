@@ -1,16 +1,16 @@
 intro trubka
 
-G
+B
 [Verse 1]
- G                 C7
+ B                 Eb7
 Černej nebožtíku, máš to ale kliku,
- G                        G7
+ B                        B7
 za chvíli do temný hlíny budeš zakopán,
- C                 C7
+ C                 Eb7
 Černej nebožtíku, máš to ale kliku,
- G                        G7
+ B                        B7
 za chvíli do temný hlíny budeš zakopán,
- D7                     C7                G     D7
+ F7                     Eb7                B     F7
 nás jsi nechal v bídě, sám se vezeš jako pán.
 
 solo housle
