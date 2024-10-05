@@ -234,6 +234,11 @@
   "rikej_mi_to_prosim": {
     "title": "Říkej mi to potichoučku",
     "input_file": "orion/rikej_mi_to_prosim.txt",
-    "bpm": 190
+    "bpm": 170
+  },
+  "rikej_mi_to_prosim_m": {
+    "title": "Říkej mi to potichoučku (M verze)",
+    "input_file": "orion/rikej_mi_to_prosim_m.txt",
+    "bpm": 170
   }
 }

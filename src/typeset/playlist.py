@@ -86,7 +86,10 @@ class PlaylistPDF(FPDF):
             # self.cell(0, 10, f"{len(self.p.songs)} songs", border=0, align="R")
             pass
         else:
-            self.cell(0, 10, f"{self.current_song.order}", border=0, align="R")
+            if self.current_song.bpm is not None:
+                self.set_font(font_name, style="I", size=16)
+                self.cell(0, 10, f"{self.current_song.bpm} bpm", border=0, align="R")
+            # self.cell(0, 10, f"{self.current_song.order}", border=0, align="R")
         # Performing a line break:
         self.ln(10)
 
