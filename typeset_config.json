@@ -230,5 +230,10 @@
     "title": "Eště som sa neoženil",
     "input_file": "lidove/este_som_sa_neozenil.txt",
     "split_lines": []
+  },
+  "rikej_mi_to_prosim": {
+    "title": "Říkej mi to potichoučku",
+    "input_file": "orion/rikej_mi_to_prosim.txt",
+    "bpm": 190
   }
 }
