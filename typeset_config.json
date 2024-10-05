@@ -61,7 +61,8 @@
   "sedavam": {
     "title": "Sedávám na domovních schodech",
     "input_file": "jazz/sedavam.txt",
-    "split_lines": [33]
+    "split_lines": [33],
+    "bpm": 130
   },
   "praminek_vlasu": {
     "title": "Pramínek vlasů",
@@ -70,7 +71,8 @@
   "mival_jsem_klobouk": {
     "title": "Míval jsem klobouk",
     "input_file": "jazz/mival_jsem_klobouk.txt",
-    "split_lines": [36]
+    "split_lines": [36],
+    "bpm": 170
   },
   "uz_davno_nejsem_dite": {
     "title": "Už dávno nejsem dítě",
@@ -84,7 +86,8 @@
   },
   "blues_na_cestu_posledni": {
     "title": "Blues na cestu poslední",
-    "input_file": "orion/blues_na_cestu_posledni.txt"
+    "input_file": "orion/blues_na_cestu_posledni.txt",
+    "bpm": 183
   },
   "je_po_desti": {
     "title": "Je po dešti",
@@ -104,11 +107,13 @@
   },
   "summertime": {
     "title": "Summertime",
-    "input_file": "jazz/summertime.txt"
+    "input_file": "jazz/summertime.txt",
+    "bpm": 65
   },
   "autumn_leaves": {
     "title": "Autumn Leaves",
-    "input_file": "jazz/autumn_leaves.txt"
+    "input_file": "jazz/autumn_leaves.txt",
+    "bpm": 88
   },
   "dream_a_little_dream": {
     "title": "Dream a Little Dream of Me",
@@ -158,7 +163,8 @@
   "aint_she_sweet": {
     "title": "Ain't She Sweet (Anči sviť)",
     "input_file": "jazz/aint_she_sweet.txt",
-    "split_lines": []
+    "split_lines": [],
+    "bpm": 175
   },
   "moondance": {
     "title": "Moondance",
