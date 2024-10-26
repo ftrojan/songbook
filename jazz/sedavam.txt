@@ -1,7 +1,15 @@
+Intro Milan na kytaru 8 taktů (definuje rytmus).
+Zpěv AABA 2x sloka + refrén + sloka, bicí hned od
+začátku zpěvu s nájezdem auf-taktu.
+Sóla ABAA: housle trubka kytara kytara.
+Zpěv BA refrén + sloka,
+na konci (NEZASPAT!) se opakuje "z komínu stoupá dým".
+
+[intro]
 Bmaj Hdim Cm7 F
 Bmaj Hdim Cm7 F
 
-[verse 1]
+[verse 1 - A]
 Bmaj Hdim   Cm7      F
 Sedá-vám    na domovních schodech
 Bmaj  Hdim  Cm7             F
@@ -11,13 +19,13 @@ kterým jenom sama rozumím
 C9       F6     Bmaj    F
 Z komínu stoupá dým
 
-[verse 2]
+[verse 2 - A]
 Stíny jdou stíny nebem táhnou
 stíny jdou do mých strun mi sáhnou
 ke všem písním zapomenutým
 z komínů stoupá dým
 
-[chorus]
+[chorus - B]
 D7
 Všechna hnízda šla už spát
 D9
@@ -31,15 +39,17 @@ kráčí svojí samotou
 F6
 jako černou závějí
 
-[verse 3]
+[verse 3 - A]
 Sedávám svou kytaru v klíně
 Zpívávám pomalu a líně
 neznámá blues hlasem zastřeným
 Z komínu stoupá dým
 
-[mezihra sloka]
+[solo - A housle]
+[solo - B trubka]
+[solo - AA kytara]
 
-[chorus]
+[chorus - B]
 Všechna hnízda šla už spát
 je nutno myslet na návrat
 Večer ní zvony znějí
@@ -47,7 +57,7 @@ Zvolna nota za notou
 kráčí svojí samotou
 jako černou závějí
 
-[verse 4 = verse 3]
+[verse 4 - A]
 Sedávám svou kytaru v klíně
 Zpívávám pomalu a líně
 neznámá blues hlasem zastřeným

@@ -61,7 +61,7 @@
   "sedavam": {
     "title": "Sedávám na domovních schodech",
     "input_file": "jazz/sedavam.txt",
-    "split_lines": [33],
+    "split_lines": [41],
     "bpm": 130
   },
   "praminek_vlasu": {
