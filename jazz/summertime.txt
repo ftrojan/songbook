@@ -1,12 +1,14 @@
-Intro kytara tony
-Dm A7sus Dm A7 Dm A7sus Dm A7+
+Intro housle samotné (určují rytmus),
+do nich (čtvrtý takt) se vloží trubka
+a všichni ostatní nejprve velmi lehce.
 
-Intro kytara + housle
+[intro]
 Dm A7sus Dm A7 Dm A7sus Dm A7+
-
-Intro kytara + housle + trubka
+Gm D7sus Gm Gm7 A7 B7 A7 A7+
 Dm A7sus Dm A7 Dm A7sus Dm A7+
+F  F     Dm A7 Dm A7sus Dm A7+
 
+[verse 1]
        Dm A7sus Dm A7 Dm A7sus Dm Dm7
 Summer-time, and the livin' is ea - sy
  Gm D7sus Gm Gm7 A7 B7 A7 A7+
@@ -16,9 +18,10 @@ Your daddy's rich, and your momma's good look - in'
 E7b9 F Dm B7 A7 A7+ Dm A7sus Dm A7+
  So hush little baby, don't you cry
 
-Solo Petr kytara
+[solo Petr kytara]
 Dm A7sus Dm A7 Dm A7sus Dm A7+
 
+[verse 2]
  Dm A7sus Dm A7 Dm A7sus Dm Dm7
 One of these mornings, you're gonna rise up singin'
  Gm D7sus Gm Gm7 A7 B7 A7 A7+
@@ -28,6 +31,9 @@ But till that morning, there's a nothin' can harm you
 E7b9 F Dm B7 A7 A7+ Dm A7sus Dm
 With daddy and mammy stand - in' by
 
-Solo housle
+[solo housle, nechat doznít, všechno stopnout!]
 
-Zrychleni 2 sloky, na konci zpomaleni a konec
+Petr na kytaru rozjíždí rychlý rytmus,
+postupně všichni sólo dvě sloky,
+poslední dva takty repetice POMALU
+(jasný konec, žádný tón navíc).

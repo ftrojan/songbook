@@ -1,8 +1,12 @@
-[Intro] rubato
+Intro housle (odpočítá Resch) a Petr kytara předehra G,
+poslední dva takty Petr na kytaru rozjede.
+Zpěv AB, solo trubka AB, zpěv AB, solo kytara AB.
+
+[intro] rubato
 G       Am D7 Hm   Em     Dm7   D7
 G D7 G7 C  Cm G Em Am7 D7 G Dm7 G6 G7
 
-[Verse 1] A
+[verse 1 - A]
 C                   G7+  C
 Říkej mi to prosím potichoučku
 C                       D#dim  Dmi
@@ -12,7 +16,7 @@ F               F#dim        C       E7  Ami
 D7         Ami7            D7   G G7
 že v mých loktech ráj tvůj začíná.
 
-[Verse 2] B
+[verse 2 - B]
 C                   G7+ C
 Říkej mi to prosím neustále
  B       C7     Gmi7  C7    F  E7 F
@@ -22,11 +26,10 @@ C                   G7+ C
  Dmi7             Fmi   G7  C
 že jen mne chceš věčně milovat.
 
-[solo] A B
+[solo trubka - A B]
 
-[Verse 1]
+[verse 1 - A]
 
-[Verse 2]
+[verse 2 - B]
 
- Dmi7            Fmi   G7  C
-že jen mě chceš věčně milovat.
+[solo kytara - A B] + dohrávka čitelného konce

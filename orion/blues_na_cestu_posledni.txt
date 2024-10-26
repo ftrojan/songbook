@@ -1,35 +1,48 @@
 intro trubka
+zpěv sloka 1 (po dojetí blues kolečka všichni ztichnou)
+sólo housle (první dva takty do naprostého ticha,
+v třetím taktu se ČITELNĚ přidávají kytary, bicí a basa)
+zpěv sloka 1
+sólo kytara
+zpěv sloka 3
+sólo trubka
+zpěv sloka 4 (po dojetí blues kolečka
+všichni přesný konec!)
 
-B
-[Verse 1]
+[intro trubka]
+B   Eb7 B B7
+Eb7 Eb7 B B7
+F7  Eb7 B F7
+
+[verse 1 - A]
  B                 Eb7
 Černej nebožtíku, máš to ale kliku,
  B                        B7
 za chvíli do temný hlíny budeš zakopán,
- C                 Eb7
+ Eb7               Eb7
 Černej nebožtíku, máš to ale kliku,
  B                        B7
 za chvíli do temný hlíny budeš zakopán,
  F7                     Eb7                B     F7
 nás jsi nechal v bídě, sám se vezeš jako pán.
 
-solo housle
+[solo housle - A]
 
-[Verse 2]
+[verse 2 - A]
 [: Jen kopyta koní hrany tobě zvoní,
 málo lidí dnes pro tebe slzy polyká, :]
 je to smutnej funus, chybí ti tu muzika.
 
-solo kytara
+[solo kytara - A]
 
-[Verse 3]
+[verse 3 - A]
 [: Kam ti pozůstalí, kam ti vlastně dali
 věnce, kytky, pentle, svíce, marně se ptám, :]
 proč je rakev holá, to ty asi nevíš sám.
 
-solo trubka
+[solo trubka - A]
 
-[Verse 4]
+[verse 4]
 [: Černej nebožtíku, když nemáš na muziku,
 poslechni mou radu trochu nevšední, :]
 zazpívej si sám blues na cestu poslední.

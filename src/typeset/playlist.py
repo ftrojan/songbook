@@ -2,7 +2,7 @@ import os
 import yaml
 from dataclasses import dataclass
 from fpdf.fonts import FontFace
-from typeset.utils import FPDF, font_name, typeset_body, get_body, get_profile, base_color
+from typeset.utils import FPDF, font_name, typeset_body, get_body, get_profile, base_color, create_pdf
 
 
 @dataclass
@@ -16,6 +16,7 @@ class SongInPlaylist:
     input_file: str
     split_lines: list[int]
     bpm: int | None
+    profile: dict
 
     @classmethod
     def from_dict(cls, order: int, d: dict) -> "SongInPlaylist":
@@ -30,6 +31,7 @@ class SongInPlaylist:
             input_file=profile["input_file"],
             split_lines=profile.get("split_lines", []),
             bpm=profile.get("bpm", None),
+            profile=profile,
         )
         return x
 
@@ -88,7 +90,8 @@ class PlaylistPDF(FPDF):
         else:
             if self.current_song.bpm is not None:
                 self.set_font(font_name, style="I", size=16)
-                self.cell(0, 10, f"{self.current_song.bpm} bpm", border=0, align="R")
+                text = f"{self.current_song.key}, {self.current_song.bpm} bpm"
+                self.cell(0, 10, text, border=0, align="R")
             # self.cell(0, 10, f"{self.current_song.order}", border=0, align="R")
         # Performing a line break:
         self.ln(10)
@@ -113,6 +116,7 @@ def typeset_playlist(p: Playlist) -> None:
         pdf.add_page()
         pdf.set_font(family=font_name, style="B", size=16)
         pdf = typeset_body(pdf, get_body(s.input_file), s.split_lines)
+        create_pdf(s.name, s.profile)
     pdf.output(name=p.output_path)
 
 

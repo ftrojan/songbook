@@ -71,7 +71,7 @@
   "mival_jsem_klobouk": {
     "title": "Míval jsem klobouk",
     "input_file": "jazz/mival_jsem_klobouk.txt",
-    "split_lines": [36],
+    "split_lines": [34],
     "bpm": 170
   },
   "uz_davno_nejsem_dite": {
