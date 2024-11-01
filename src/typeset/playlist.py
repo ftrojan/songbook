@@ -46,7 +46,7 @@ class Playlist:
 
 
 def get_playlist(name: str) -> Playlist:
-    input_filename = os.path.join("playlist", "input", f"{name}.yaml")
+    input_filename = os.path.join("playlist", f"{name}.yaml")
     with open(input_filename, "r") as fp:
         data = yaml.load(fp, Loader=yaml.SafeLoader)
     x = Playlist(
@@ -56,7 +56,7 @@ def get_playlist(name: str) -> Playlist:
         songs=[
             SongInPlaylist.from_dict(i+1, s) for i, s in enumerate(data["songs"])
         ],
-        output_path=os.path.join("playlist", "output", f"{name}.pdf"),
+        output_path=os.path.join("pdf", f"{name}.pdf"),
     )
     return x
 
