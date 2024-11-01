@@ -2,13 +2,13 @@ Intro housle samotné (určují rytmus),
 do nich (čtvrtý takt) se vloží trubka
 a všichni ostatní nejprve velmi lehce.
 
-[intro]
-Dm A7sus Dm A7 Dm A7sus Dm A7+
+[intro - A]
+Dm A7sus Dm A7 Dm A7sus Dm Dm7
 Gm D7sus Gm Gm7 A7 B7 A7 A7+
-Dm A7sus Dm A7 Dm A7sus Dm A7+
-F  F     Dm A7 Dm A7sus Dm A7+
+Dm A7sus Dm A7 Dm A7sus Dm E7b9
+F  F     Dm B7 A7+ Dm A7sus Dm A7+
 
-[verse 1]
+[verse 1 - A]
        Dm A7sus Dm A7 Dm A7sus Dm Dm7
 Summer-time, and the livin' is ea - sy
  Gm D7sus Gm Gm7 A7 B7 A7 A7+
@@ -18,10 +18,9 @@ Oh your daddy, he's rich, and your ma' she's good lookin'
 E7b9 F Dm B7 A7 A7+ Dm A7sus Dm A7+
  So hush little baby, do-o-o-n't you cry
 
-[solo Petr kytara]
-Dm A7sus Dm A7 Dm A7sus Dm A7+
+[solo Petr kytara - A]
 
-[verse 2]
+[verse 2 - A]
  Dm A7sus Dm A7 Dm A7sus Dm Dm7
 One of these mornings, you're gonna rise up singin'
  Gm D7sus Gm Gm7 A7 B7 A7 A7+
