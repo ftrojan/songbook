@@ -240,5 +240,9 @@
     "title": "Říkej mi to potichoučku (M verze)",
     "input_file": "orion/rikej_mi_to_prosim_m.txt",
     "bpm": 170
+  },
+  "green_dolphin": {
+    "title": "Green Dolphin Street",
+    "input_file": "jazz/green_dolphin_street.txt"
   }
 }
