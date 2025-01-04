@@ -1,48 +1,50 @@
+Gm = Kapo 3 + Em
+
 [Intro]
-Am Dm Am F7 E7
+Gm Cm Gm D#7 D7
 
 [Intrumental - A]
-Am Am/Ab Am/G Am/Gb F7 E7 Ami D7 G7 C6 F7 E7
-Am Am/Ab Am/G Am/Gb F7 E7 Ami D7 G7 C6 F7 E7
+Gm Gm/F# Gm/F C7/E Eb7 D7 Gmi C7 F7 B6 Eb7 D7
+Gm Gm/F# Gm/F C7/E Eb7 D7 Gmi C7 F7 B6
 
 [Instrumental - B]
-Gm7      C7         F6        Am7   D7 G7
-Am Am/Ab Am/G Am/Gb F7 E7 Ami D7 G7 C6 F7 E7
+Fm7      B7         Ebmaj7        Gm7   C7 F7 D7
+Gm Gm/F# Gm/F C7/E Eb7 D7 Gmi C7 F7 B6
 
 [Verse 1 - A]
-     Am7  Am/Ab   Am/G
+     Gm  Gm/F#   Gm/F
 It don't mean a thing
-Am/Gb F7     E7        Am7
+C7/E  Eb7    D7        Gm
 If it ain't got that swing
-D7                 G7
+C7                 F7
 Dooah dooah dooah, dooah dooah dooah,
-   C6             F7 E7
+   B6             Eb7 D7
 dooah dooah dooah
-    Am7   Am/Ab   Am/G
+    Gm    Gm/F#   Gm/F
 It don't mean a thing
-Am/Gb    F7     E7    Am7
+C7/E    Eb7     D7    Gm
 All you got to do is sing
-D7                 G7
+C7                 F7
 Dooah dooah dooah, dooah dooah dooah,
-   C6             F7 E7
+   B6
 dooah dooah dooah
 
 [Chorus - B]
-    Gm7
+    Fm7
 It makes no difference
-C7                Fmaj7
+B7                Ebmaj7
 If it's sweet or hot
-      Am7
+      Gm7
 Just give that rhythm
-D7                 G7
-Everything you've got
-     Am7   Am/Ab   Am/G
+C7                        F7 D7
+Every little thing you've got
+    Gm7   Gm/F#   Am/F
 It don't mean a thing
-Am/Gb F7     E7        Am7
+C7/E  Eb7    D7        Gm
 If it ain't got that swing
-D7                 G7
+C7                 F7
 Dooah dooah dooah, dooah dooah dooah,
-   C6             F7 E7
+   B6
 dooah dooah dooah
 
 [Instrumental] A + B
