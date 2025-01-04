@@ -253,5 +253,9 @@
   "watermelon_man": {
     "title": "Watermelon Man",
     "input_file": "jazz/watermelon_man.txt"
+  },
+  "softly": {
+    "title": "Softly as in a morning sunrise",
+    "input_file": "jazz/softly.txt"
   }
 }
