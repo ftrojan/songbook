@@ -1,13 +1,24 @@
+D7/C   = xx1211
+Dbmaj7 = xx1100
+
 [Verse 1 - A]
+C    Cmaj7         Cm7
 Lover, one lovely day
+D7/C      Dbmaj7         Cmaj7 A7
 Love came, planning to stay
+Dm7              G7                Cmaj7
 Green Dolphin Street supplied the setting
+     Fm7        B7                Ebmaj7  Dm7 G7
 The setting for nights beyond forgetting
 
 [Verse 2 - B]
+C           Cmaj7           Cm7
 And through these moments apart
+D7/C    Dbmaj7        Cmaj7
 memories live in my heart
+Dm7                E7     Am7
 When I recall the love I found on
+                   Em7  A7   Dm7 G7         C6   Dm7 G7
 I could kiss the ground on Green Dolphin Street
 
 [Solo kytara A B]
