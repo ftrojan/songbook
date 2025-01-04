@@ -102,7 +102,7 @@ class PlaylistPDF(FPDF):
         self.set_font(font_name, style="I", size=16)
         self.set_text_color(*base_color)
         self.cell(0, 10, f"Page {self.page_no()}/{{nb}}", align="L")
-        if self.current_song.order > 1:
+        if self.current_song is not None and self.current_song.order > 1:
             self.cell(0, 10, self.p.title, border=0, align="R")
 
 
