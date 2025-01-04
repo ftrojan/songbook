@@ -257,5 +257,10 @@
   "softly": {
     "title": "Softly as in a morning sunrise",
     "input_file": "jazz/softly.txt"
+  },
+  "ill_see_you": {
+    "title": "I'll see you in my dreams",
+    "input_file": "jazz/ill_see_you.txt",
+    "bpm": 160
   }
 }

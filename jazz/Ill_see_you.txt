@@ -1,0 +1,15 @@
+[A] housle
+B6    B6    Bm6   Bm6
+F6    E7    F6    F6
+D7    D7    D7    D7
+G7    G7    Gm7   C7
+
+[B] housle
+B6    B6    Bm6   Bm6
+F6    E7    F6    F6
+Am7b5 D7    A7    Dm7
+B6    C7    F6    F6
+
+[A] [B] kytara
+
+[A] [B] saxofon
