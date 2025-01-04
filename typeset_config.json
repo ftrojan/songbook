@@ -249,5 +249,9 @@
     "title": "Minor Swing",
     "input_file": "jazz/minor_swing.txt",
     "bpm": 186
+  },
+  "watermelon_man": {
+    "title": "Watermelon Man",
+    "input_file": "jazz/watermelon_man.txt"
   }
 }
