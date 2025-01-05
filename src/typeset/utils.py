@@ -131,6 +131,7 @@ def chords_list() -> set[str]:
         "7b9",
         "6/9",
         "7/5+",
+        "7b5",
     }
     base_shifts = {f"{x}{s}" for x in base_notes for s in shift}
     base_halfs = base_notes | base_shifts
