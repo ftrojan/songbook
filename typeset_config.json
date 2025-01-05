@@ -263,5 +263,9 @@
     "title": "I'll see you in my dreams",
     "input_file": "jazz/ill_see_you.txt",
     "bpm": 160
+  },
+  "shadow": {
+    "title": "The Shadow Of Your Smile",
+    "input_file": "jazz/shadow.txt"
   }
 }
