@@ -243,7 +243,8 @@
   },
   "green_dolphin": {
     "title": "Green Dolphin Street",
-    "input_file": "jazz/green_dolphin_street.txt"
+    "input_file": "jazz/green_dolphin_street.txt",
+    "bpm": 120
   },
   "minor_swing": {
     "title": "Minor Swing",
