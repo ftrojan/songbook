@@ -5,28 +5,28 @@ V posledních 2 taktech refrenu rozvolňovat, i sóla.
 Solo A kytara, zpěv B, solo housle AB, solo kytara AB.
 
 [intro]
-Dmi A7 Dmi
+Gm C7 Gm
 
 [verse 1 - A]
-             Gmi    C7              F      B
+             Cm    F7              B      Eb
 The falling leaves     drift by my window.
-             Gmi    A7             Dmi
+             Cm    D7             Gm
 The falling leaves     of red and gold.
 
-            Gmi     C7             F     B
+            Cm     F7             B     Eb
 I see your lips,       the summer kisses,
-               Gmi  A7            Dmi
+               Cm  D7            Gm
 the sunburned hands    I used to hold.
 
 
 [chorus - B]
-           A7                      Dmi
+           D7                      Gm
 Since you went away the days grow long
-               Gmi C7          F     D7
+               Cm  F7          B     D7
 And soon I'll hear old winter song
-       Gmi     A7              Dmi    Dmi/C B
+       Cm     D7              Gm    Gm/F Eb
 But i miss you most of all my darling
-Gmi          A7              Dmi
+Cm          D7              Gm
 When autumn leaves start to fall
 
 [solo kytara - A]
