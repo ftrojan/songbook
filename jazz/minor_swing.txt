@@ -4,16 +4,16 @@ Am Dm Am Dm Am Dm E7 E7
 
 [Solo saxofon]
 Am    Dm    E7    Am
-Dm    Am    E7 B7 Am F7 E7
+Dm    Am    B7 E7 Am F7 E7
 
 [Solo kytara]
 Am    Dm    E7    Am
-Dm    Am    E7 B7 Am F7 E7
+Dm    Am    B7 E7 Am F7 E7
 
 [Solo housle]
 Am    Dm    E7    Am
-Dm    Am    E7 B7 Am F7 E7
+Dm    Am    B7 E7 Am F7 E7
 
 [Outro]
 Am    Dm    E7    Am E7
-Am    Dm    E7 B7 Am E7 Am
+Am    Dm    B7 E7 Am E7 Am
