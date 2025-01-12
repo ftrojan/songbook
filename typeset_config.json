@@ -267,5 +267,9 @@
   "shadow": {
     "title": "The Shadow Of Your Smile",
     "input_file": "jazz/shadow.txt"
+  },
+  "new_york": {
+    "title": "New York",
+    "input_file": "orion/new_york.txt"
   }
 }
