@@ -270,6 +270,6 @@
   },
   "new_york": {
     "title": "New York",
-    "input_file": "orion/new_york.txt"
+    "input_file": "musical/new_york.txt"
   }
 }
