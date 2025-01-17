@@ -1,3 +1,6 @@
+[Intro] Milan
+Bmaj7  Dbmaj7  Bmaj7  Dbmaj7
+
 [A] housle
 B6    B6    Bm6   Bm6
 F6    E7    F6    F6
@@ -11,9 +14,9 @@ B6    B6    Bm6   Bm6
 F6    E7    F6    F6
 
 [C] housle
-Am7b5 D7    A7    Dm7
+D7    D7    A7    Dm7
 B6    C7    F6    F6
 
 [A] [B] [A] [C] kytara
 
-[A] [B] [A] [C] saxofon
+[A] [B] [A] [C] housle
