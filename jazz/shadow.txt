@@ -1,35 +1,35 @@
+F#m7b5 = x9A9Ax
+C#m7b5 = x4545x
+F#7b9  = 212020
 Hm7b5  = x2323x
-F#m7b5 = 2x221x
-H7b9   = x2121x
-Em7b5  = xx2333
 
-Am
+Em
 [Verse 1]
-    Am7            Hm7         E7      Am7  D7
+    Em7            F#m7         H7      Em7  A7
 The shadow of your smile, when you are gone,
-     D7            Dm7        G7         Cmaj7   Fmaj7
+     A7            Am7        D7         Gmaj7   Cmaj7
 Will colour all my dreams and light the dawn.
 
 [Bridge]
-Fmaj7          Hm7b5    E7        Am7  Am/G
+Cmaj7          F#m7b5    H7        Em7  Em/D
    Look into my eyes, my love, and see,
-Am7              F#m7b5     H7b9        Hm7b5 E7
+Em7              C#m7b5     F#7b9        F#m7b5 H7
   All the lovely things you are,    to me.
 
 [Verse 2]
-                   Hm7         E7      Am7   D7
+                   F#m7         H7      Em7   A7
 Our wistful little star,   was far too high,
-                        Dm7            G7    Em7b5  A7
+                        Am7       D7    Hm7b5  E7
 A teardrop kissed your lips, and so did I.
 
 [Chorus]
-           Dm7              Fm7
+           Am7             Am7/H Cm7
 Now when I remember spring,
-        Bb7      Em7            A7
+                 Hm7            E7
 All the joy that love can bring,
-          D7           Dm7
+          A7           Am7
 I will be remembering,
-    G7               C
+    D7               G
 The shadow of your smile.
 
 [Instrumental]
