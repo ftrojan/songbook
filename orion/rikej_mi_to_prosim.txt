@@ -1,6 +1,9 @@
 Intro housle (odpočítá Resch) a Petr kytara předehra G,
 poslední dva takty Petr na kytaru rozjede.
-Zpěv AB, solo trubka AB, zpěv AB, solo kytara AB.
+AB zpěv
+AB trubka
+AB zpěv
+AB kytara
 
 [intro] rubato
 G       Am D7 Hm   Em     Dm7   D7

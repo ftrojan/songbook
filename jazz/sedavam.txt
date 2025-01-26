@@ -1,9 +1,8 @@
 Intro Milan na kytaru 8 taktů (definuje rytmus).
-Zpěv AABA 2x sloka + refrén + sloka, bicí hned od
-začátku zpěvu s nájezdem auf-taktu.
-Sóla ABAA: housle trubka kytara kytara.
-Zpěv BA refrén + sloka,
-na konci (NEZASPAT!) se opakuje "z komínu stoupá dým".
+AABA zpěv
+ABAA housle trubka kytara kytara.
+BA zpěv
+outro repetice "z komínu stoupá dým".
 
 [intro]
 Bmaj Hdim Cm7 F

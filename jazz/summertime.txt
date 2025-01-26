@@ -1,6 +1,10 @@
-Intro housle samotné (určují rytmus),
-do nich (čtvrtý takt) se vloží trubka
-a všichni ostatní nejprve velmi lehce.
+A Intro housle + trubka
+A zpěv 1. sloka
+A kytara
+A zpěv 2. sloka
+A housle stopka
+AA kytara rychle + všichni
+outro
 
 [intro - A]
 Dm A7sus Dm A7 Dm A7sus Dm Dm7
@@ -30,7 +34,7 @@ Untill that morning, ain't nothin' can harm you
 E7b9 F Dm B7 A7 A7+ Dm A7sus Dm
 With daddy and mammy, sta-a-a-andin' by
 
-[solo housle, nechat doznít, všechno stopnout!]
+[solo housle A, nechat doznít, všechno stopnout!]
 
 Petr na kytaru rozjíždí rychlý rytmus,
 postupně všichni sólo dvě sloky,

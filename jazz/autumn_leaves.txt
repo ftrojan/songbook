@@ -1,8 +1,11 @@
 Intro dva takty Petr kytara (definuje rytmus).
-Zpěv AB, do slok nástroje klídek, půlové dlouhé noty,
-na refrén výrazná změna: 1/4 noty, přidají se housle.
-V posledních 2 taktech refrenu rozvolňovat, i sóla.
-Solo A kytara, zpěv B, solo housle AB, solo kytara AB.
+A zpěv, do slok nástroje klídek, půlové dlouhé noty,
+B zpěv, výrazná změna: 1/4 noty, přidají se housle.
+  v posledních 2 taktech refrenu rozvolňovat, i sóla.
+A kytara
+B zpěv
+AB solo housle
+AB solo kytara
 
 [intro]
 Gm C7 Gm
@@ -12,12 +15,10 @@ Gm C7 Gm
 The falling leaves     drift by my window.
              Cm    D7             Gm
 The falling leaves     of red and gold.
-
             Cm     F7             B     Eb
 I see your lips,       the summer kisses,
                Cm  D7            Gm
 the sunburned hands    I used to hold.
-
 
 [chorus - B]
            D7                      Gm

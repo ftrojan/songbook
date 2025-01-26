@@ -1,3 +1,9 @@
+Intro kytara
+AABA zpěv
+B trubka, v půlce se přidá zpěv
+A zpěv
+Outro trubka
+
 [Intro]
 F    C    B    C
 
@@ -39,7 +45,7 @@ It won't be long till
  D7             Gm7            C B C  C B C
 happiness steps up to greet me
 
-[Verse 3]
+[Verse 3 - A]
  F                            Fmaj7
 Raindrops keep fallin' on my head,
       F7
@@ -55,7 +61,7 @@ rain by complainin'    because I'm
   F             C7       F
 free, nothings worryin' me
 
-[interlude - B]
+[solo trubka - B]
 F  Fmaj7  B  C  Am7
     Am7
 It won't be long till
