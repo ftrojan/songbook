@@ -1,3 +1,10 @@
+ABCB zpěv
+B housle
+CB zpěv
+B kytara
+CB zpěv
+
+[Verse 1 - A]
 C                  E7
 Starej pán sedí a poslouchá jazz
 Gmi6                     A7    Dmi
@@ -7,6 +14,7 @@ jako by zase u baru stál
    Fmaj7            E7
 a na pódiu Django hrál.
 
+[Verse 2 - B]
 Ami                E7
 Starej pán sedí a poslouchá jazz
 Gmi6                     A7    Dmi
@@ -16,6 +24,7 @@ starej pán sedí a poslouchá jazz
    D7          G7   C
 a na desce se točí pes
 
+[Chorus - C]
     E7                 Ami
 Jó ráno si vzal čistý ponožky
    E7                     Ami
@@ -25,6 +34,7 @@ jezdilo se z Wilsonova nádraží
    Fmi6                          G7
 a neměli jsme v kufru žádný závaží jé
 
+[Verse 3 - B]
 C                  E7
 Starej pán sedí a poslouchá jazz
 Gmi6                     A7    Dmi
@@ -34,26 +44,31 @@ starej pán sedí a poslouchá jazz
    D7          G7   C
 a na desce se točí pes
 
-solo
+[solo - B housle]
 
+[Chorus - C]
 Jó to tenkrát ještě žila naštěstí
 ta slečna z Fügnerova náměstí
 v sobotu kupoval jí pralinky
 a komunisti byli takhle malinký
 
+[Verse 4 - B]
 Starej pán sedí a poslouchá jazz
 a zdá se mu, jako by to bylo dnes
 starej pán sedí a poslouchá jazz
 a na desce se točí pes
 
-solo
+[solo - B kytara]
 
+[Chorus - C]
 Vlaky byly čistý a dochvilný
 a názory a strany rozdílný
 jenže za starejma časy spadla opona
 teď máme mírnej porok v mezích zákona
 
+[Verse 5 - B]
 Tak sedí u starýho přístroje
 a místo whisky láhev Prazdroje
 starej pán sedí a poslouchá jazz
+a na desce se točí pes
 a na desce se točí pes

@@ -1,9 +1,10 @@
 Intro Milan 8 taktů (definuje tempo, pořádný frčák).
-sólo AB trubka
-sólo C housle (refrén)
-sólo B trubka + housle
-zpěv ABCB
-sólo ABCB kytara Petr, housle do refrénu od C.
+AB trubka
+C housle (refrén)
+B trubka + housle
+ABCB zpěv
+AB kytara Petr
+CB kytara Petr + housle
 
 [intro]
 B Hdim Cmi F7

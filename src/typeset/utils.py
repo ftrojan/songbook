@@ -16,7 +16,7 @@ def get_today() -> str:
 
 class SongPDF(FPDF):
 
-    def __init__(self, profile: dict, **kwargs: dict) -> None:
+    def __init__(self, profile: dict, **kwargs: str) -> None:
         super().__init__(**kwargs)
         self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="I", uni=True)
         self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="B", uni=True)

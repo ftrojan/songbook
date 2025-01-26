@@ -54,6 +54,9 @@ songs:
     key: C
     note: Zpěv Filip
   - name: end
+  - name: brandejs
+    key: B
+    note: Zpěv Milan
   - name: quando
     key: B
     note: Zpěv Filip

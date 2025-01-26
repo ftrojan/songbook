@@ -23,7 +23,7 @@
   "starej_pan": {
     "title": "Starej pán",
     "input_file": "jazz/starej_pan.txt",
-    "split_lines": [38]
+    "split_lines": [37]
   },
   "sway": {
     "title": "Sway",
@@ -271,5 +271,9 @@
   "new_york": {
     "title": "New York",
     "input_file": "musical/new_york.txt"
+  },
+  "brandejs": {
+    "title": "Brandejs",
+    "input_file": "orion/brandejs.txt"
   }
 }

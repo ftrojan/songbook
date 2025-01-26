@@ -40,15 +40,26 @@ class SongInPlaylist:
 class Divider:
 
     name: str
-    title: str
+    title: str | None
 
     @classmethod
     def from_dict(cls, d: dict) -> "Divider":
         x = cls(
             name=d["name"],
-            title=d.get("title", "")
+            title=d.get("title", None)
         )
         return x
+
+    def typeset(self, pdf: FPDF) -> FPDF:
+        if self.name == "pause":
+            if self.title:
+                pdf.set_text_color(*base_color)
+                pdf.cell(text=self.title)
+        elif self.name == "end":
+            if self.title:
+                pdf.set_text_color(*base_color)
+                pdf.cell(text=self.title)
+        return pdf
 
 
 @dataclass
@@ -91,6 +102,7 @@ class PlaylistPDF(FPDF):
         self.add_font(fname=f"/System/Library/Fonts/{font_name}.ttc", style="B", uni=True)
         self.p = pll
         self.current_song: SongInPlaylist | None = None
+        self.current_divider: Divider | None = None
 
     def header(self):
         # Rendering logo:
@@ -101,20 +113,18 @@ class PlaylistPDF(FPDF):
         # self.cell(80)
         # Printing title:
         self.set_text_color(*base_color)
-        if self.current_song is None:
+        if self.current_song is None and self.current_divider is None:
             self.cell(0, 10, text=self.p.title, border=0, align="L")
-        else:
+        elif self.current_song:
             self.cell(0, 10, text=self.current_song.title, border=0, align="L")
-        self.set_font(font_name, style="I", size=16)
-        if self.current_song is None:
-            # self.cell(0, 10, f"{len(self.p.songs)} songs", border=0, align="R")
-            pass
-        else:
             if self.current_song.bpm is not None:
                 self.set_font(font_name, style="I", size=16)
                 text = f"{self.current_song.key}, {self.current_song.bpm} bpm"
                 self.cell(0, 10, text, border=0, align="R")
-            # self.cell(0, 10, f"{self.current_song.order}", border=0, align="R")
+        elif self.current_divider and self.current_divider.name == "pause":
+            self.cell(0, 10, text="Přestávka", border=0, align="L")
+        elif self.current_divider and self.current_divider.name == "end":
+            self.cell(0, 10, text="Konec", border=0, align="L")
         # Performing a line break:
         self.ln(10)
 
@@ -136,10 +146,17 @@ def typeset_playlist(p: Playlist) -> None:
     for s in p.songs:
         if isinstance(s, SongInPlaylist):
             pdf.current_song = s
+            pdf.current_divider = None
             pdf.add_page()
             pdf.set_font(family=font_name, style="B", size=16)
             pdf = typeset_body(pdf, get_body(s.input_file), s.split_lines)
             create_pdf(s.name, s.profile)
+        elif isinstance(s, Divider):
+            pdf.current_song = None
+            pdf.current_divider = s
+            pdf.add_page()
+            pdf.set_font(family=font_name, style="B", size=16)
+            pdf = s.typeset(pdf)
     pdf.output(name=p.output_path)
 
 
