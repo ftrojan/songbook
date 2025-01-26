@@ -117,9 +117,11 @@ class PlaylistPDF(FPDF):
             self.cell(0, 10, text=self.p.title, border=0, align="L")
         elif self.current_song:
             self.cell(0, 10, text=self.current_song.title, border=0, align="L")
-            if self.current_song.bpm is not None:
+            if self.current_song.key is not None:
                 self.set_font(font_name, style="I", size=16)
-                text = f"{self.current_song.key}, {self.current_song.bpm} bpm"
+                text = self.current_song.key
+                if self.current_song.bpm is not None:
+                    text += f", {self.current_song.bpm} bpm"
                 self.cell(0, 10, text, border=0, align="R")
         elif self.current_divider and self.current_divider.name == "pause":
             self.cell(0, 10, text="Přestávka", border=0, align="L")
