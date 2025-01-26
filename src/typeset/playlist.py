@@ -37,6 +37,21 @@ class SongInPlaylist:
 
 
 @dataclass
+class Divider:
+
+    name: str
+    title: str
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "Divider":
+        x = cls(
+            name=d["name"],
+            title=d.get("title", "")
+        )
+        return x
+
+
+@dataclass
 class Playlist:
     name: str
     title: str
@@ -49,13 +64,20 @@ def get_playlist(name: str) -> Playlist:
     input_filename = os.path.join("playlist", f"{name}.yaml")
     with open(input_filename, "r") as fp:
         data = yaml.load(fp, Loader=yaml.SafeLoader)
+    order = 0
+    items = []
+    for s in data["songs"]:
+        if s["name"] in ("pause", "end"):
+            i = Divider.from_dict(s)
+        else:
+            order += 1
+            i = SongInPlaylist.from_dict(order, s)
+        items.append(i)
     x = Playlist(
         name=name,
         title=str(data["title"]),
         subtitle=data.get("subtitle", None),
-        songs=[
-            SongInPlaylist.from_dict(i+1, s) for i, s in enumerate(data["songs"])
-        ],
+        songs=items,
         output_path=os.path.join("pdf", f"{name}.pdf"),
     )
     return x
@@ -112,11 +134,12 @@ def typeset_playlist(p: Playlist) -> None:
     pdf.add_page()
     pdf = typeset_toc(pdf, p)
     for s in p.songs:
-        pdf.current_song = s
-        pdf.add_page()
-        pdf.set_font(family=font_name, style="B", size=16)
-        pdf = typeset_body(pdf, get_body(s.input_file), s.split_lines)
-        create_pdf(s.name, s.profile)
+        if isinstance(s, SongInPlaylist):
+            pdf.current_song = s
+            pdf.add_page()
+            pdf.set_font(family=font_name, style="B", size=16)
+            pdf = typeset_body(pdf, get_body(s.input_file), s.split_lines)
+            create_pdf(s.name, s.profile)
     pdf.output(name=p.output_path)
 
 
@@ -139,8 +162,19 @@ def typeset_toc(pdf: FPDF, p: Playlist) -> FPDF:
         header.cell("Poznámky")
         for s in p.songs:
             row = table.row()
-            row.cell(str(s.order))
-            row.cell(s.title)
-            row.cell(s.key)
-            row.cell(s.note)
+            if isinstance(s, SongInPlaylist):
+                pdf.set_fill_color(255, 255, 255)
+                row.cell(str(s.order))
+                row.cell(s.title)
+                row.cell(s.key)
+                row.cell(s.note)
+            elif isinstance(s, Divider):
+                pdf.set_fill_color(220, 240, 220)
+                row.cell("")
+                if s.name == "pause":
+                    row.cell("Přestávka")
+                elif s.name == "end":
+                    row.cell("Přídavky")
+                row.cell("")
+                row.cell(s.title)
     return pdf
