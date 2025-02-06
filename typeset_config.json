@@ -275,5 +275,9 @@
   "brandejs": {
     "title": "Brandejs",
     "input_file": "orion/brandejs.txt"
+  },
+  "tabacek": {
+    "title": "Tabáček",
+    "input_file": "mix/tabacek.txt"
   }
 }
