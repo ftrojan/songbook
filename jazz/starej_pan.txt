@@ -1,7 +1,7 @@
 ABCB zpěv
-B housle
+AB housle
 CB zpěv
-B kytara
+AB kytara
 CB zpěv
 
 [Verse 1 - A]
@@ -44,7 +44,7 @@ starej pán sedí a poslouchá jazz
    D7          G7   C
 a na desce se točí pes
 
-[solo - B housle]
+[solo - A B housle]
 
 [Chorus - C]
 Jó to tenkrát ještě žila naštěstí
@@ -58,7 +58,7 @@ a zdá se mu, jako by to bylo dnes
 starej pán sedí a poslouchá jazz
 a na desce se točí pes
 
-[solo - B kytara]
+[solo - A B kytara]
 
 [Chorus - C]
 Vlaky byly čistý a dochvilný
