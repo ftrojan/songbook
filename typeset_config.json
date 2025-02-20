@@ -3,7 +3,7 @@
     "title": "All Of Me",
     "input_file": "jazz/all_of_me.txt",
     "split_lines": [38],
-    "bpm": 129
+    "bpm": 140
   },
   "rytmus_v_patach": {
     "title": "Rytmus v patách",
@@ -23,7 +23,8 @@
   "starej_pan": {
     "title": "Starej pán",
     "input_file": "jazz/starej_pan.txt",
-    "split_lines": [37]
+    "split_lines": [37],
+    "bpm": 115
   },
   "sway": {
     "title": "Sway",
@@ -95,7 +96,8 @@
   },
   "blueberry_hill": {
     "title": "Blueberry Hill",
-    "input_file": "jazz/blueberry_hill.txt"
+    "input_file": "jazz/blueberry_hill.txt",
+    "bpm": 80
   },
   "wonderful_world": {
     "title": "Wonderful World",
