@@ -1,25 +1,38 @@
+Fmaj7 = 1x221x
+G7add13 = 3x345x
+Gm7   = 3x333x
+F#7b5 = 2x231x
+F#mj7 = 2x332x
+B9    = x2122x
+F#m7  = 2x222x
+D9    = x5455x
+D#9   = x6566x
+Am7   = 5x555x
+D7    = x5453x
+C7    = x3231x
+
 [Verse 1 - A]
 Fmaj7
 Tall, and tan, and young and lovely
-     G7
+     G7add13
 The girl from Ipanema goes walking and
-Gm7                     G#maj7                Fmaj7 Gb7
+Gm7                     F#7b5                Fmaj7 F#maj7
    When she passes each one, she passes, goes "ah"
 
 [Verse 2 - A]
 Fmaj7
 When she walks, she's like a samba
-       G7
+       G7add13
 That swings so cool and sways so gently that
-  Gm7                G#maj7                Fmaj7  Gb7
+  Gm7                F#7b5                Fmaj7
 When she passes each one, she passes, goes "ooh"!
 
 [Chorus - B]
-F#7                     H7
+F#maj7                  B9
 Oh, but I watch her so sadly
-F#m7                  D7
+F#m7                  D9
 How can I tell her I love her?
-Gm7                          Eb7
+Gm7                          D#9
 Yes, I would give my heart gladly
           Am7                        D7
 But each day, when she walks to the sea
