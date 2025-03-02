@@ -285,5 +285,9 @@
   "most_pres_minulost": {
     "title": "Most přes minulost",
     "input_file": "mlha/most_pres_minulost.txt"
+  },
+  "mackie_messer": {
+    "title": "Mackie Messer",
+    "input_file": "mix/mackie_messer.txt"
   }
 }

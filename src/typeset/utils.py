@@ -127,6 +127,7 @@ def chords_list() -> set[str]:
         "+",
         "6",
         "add9",
+        "7add13",
         "7+",
         "7b9",
         "6/9",

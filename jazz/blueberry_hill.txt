@@ -6,7 +6,7 @@ I found my thrill on Blueberry Hill,
 on Blueberry Hill, where I found you.
                  F                  C     F  C
 The moon stood still, on Blueberry Hill,
-     A          Dm                  C  F  C
+     A          Dm G                C  F  C
 and lingered until my dreams came true.
 
 [Chorus - B]
@@ -21,7 +21,7 @@ were never to be
 
  G7            F                        C   F C
 Though we're apart, you're part of me still,
-     A             Dm                C    F  C
+     A             Dm  G             C    F  C
 for you were my thrill on Blueberry Hill.
 
 [solo - A] trubka
@@ -38,5 +38,5 @@ were only to be
 
  G7       F                          C      F   C
 Though we're apart, you're part of me still,
-     A             Dm                C
+     A             Dm  G             C
 for you were my thrill on Blueberry Hill.
