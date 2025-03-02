@@ -11,6 +11,10 @@ Am7   = 5x555x
 D7    = x5453x
 C7    = x3231x
 
+[Intro]
+Fmaj7 D#9 Fmaj7 D#9
+Fmaj7 D#9 Fmaj7 D#9
+
 [Verse 1 - A]
 Fmaj7
 Tall, and tan, and young and lovely
