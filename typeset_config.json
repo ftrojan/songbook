@@ -289,5 +289,9 @@
   "mackie_messer": {
     "title": "Mackie Messer",
     "input_file": "mix/mackie_messer.txt"
+  },
+  "motyl": {
+    "title": "Motýl",
+    "input_file": "orion/motyl.txt"
   }
 }
