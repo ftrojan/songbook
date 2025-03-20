@@ -4,62 +4,18 @@ songs:
   - name: aint_she_sweet
     key: B
     note: instrumental
-  - name: motyl
-    key: B
-    note: Petr + Martina
-  - name: sedavam
-    key: B
-    note: Zpěv Martina
-  - name: summertime
-    key: Dm
-    note: Zpěv Filip
-  - name: rikej_mi_to_prosim
-    key: C
-    note: Zpěv Martina
-  - name: starej_pan
-    key: C
-    note: Zpěv Filip
-  - name: mival_jsem_klobouk
-    key: B
-    note: Zpěv Filip
-  - name: blueberry_hill
-    key: C
-    note: Zpěv Milan
-  - name: all_of_me
-    key: C
-    note: Zpěv Filip
-  - name: pause
-  - name: ill_see_you
-    key: F
-    note: instrumental
-  - name: klobouk_ve_krovi
-    key: C
-    note: Zpěv Petr
-  - name: minor_swing
-    key: Am
-    note: instrumental
-  - name: uz_davno_nejsem_dite
-    key: B
-    note: Zpěv Milan
-  - name: raindrops
-    key: F
-    note: Zpěv Filip
   - name: je_po_desti
     key: C
     note: Zpěv Martina
-  - name: autumn_leaves
-    key: Gm
-    note: Zpěv Filip
-  - name: blues_na_cestu_posledni
+  - name: motyl
     key: B
-    note: Zpěv Filip
-  - name: zivot_je_jen_nahoda
-    key: C
-    note: Zpěv Filip
-  - name: end
-  - name: brandejs
-    key: B
-    note: Zpěv Milan
-  - name: quando
-    key: B
+    note: Petr + Martina
+  - name: minor_swing
+    key: Am
+    note: instrumental
+  - name: ill_see_you
+    key: F
+    note: instrumental
+  - name: ipanema
+    key: F
     note: Zpěv Filip
