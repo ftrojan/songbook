@@ -1,50 +1,63 @@
+Gm = Em + Kapo 3
+
 [Intro]
-Gm Cm
+Em Em/F# Em Em/F# Em Em/F#
+Em Em/F# Em Em/F# Em Em/F#
+Em Em/F# Em Em/F# Em Em/F#
+Em Em/F# Em Em/F# Em Em/F#
 
 [Verse 1]
-         Gm  Eb      F                Gm
+ C        G   C       D                Em     C
 Neber mi sen víš můj sen o probdělých nocích
-Eb  Gm       Eb     F                 B    A/B
-   Neber mi sen a vrať mi zpátky ten pocit
-Cm             Gm   Am                 D7
+ G        C      D                 G
+Neber mi sen a vrať mi zpátky ten pocit
+Am             Em   F#m                H7
 že nejsem osamělá v Tobě se ztrácím celá.
 
-[Chorus]
-Gm  Dm            Eb          B  A/B
+[Chorus 1]
+Em  Hm            C           G  G/Gb
 Lhááát musím Ti lhát příteli můj
-Gm Dm            Eb         D7
+Em Hm            C          H7
 jááá svůj osud znám mě nelituj
-       Gm                 F
+       Em                 D
 Když pravda je horší než lež
-Cm                       G
+Am                       E
 pak už jen snům věřit chceš
-        Eb                 B     D       Gm
+        C                  G     H7      Em Em/F# Em Em/F#
 když vstoupíš na poslední most přes minulost.
+Em Em/F# Em Em
 
 [Verse 2]
-             Gm  Eb      F                Gm
+  C          G   C       D                Em     C
 Zbyl mi jen sen víš můj sen o probdělých nocích
-Eb  Gm          Eb       F                 B    A/B
-   Zbyl mi jen sen aspoň ve snu zažít ten pocit
-Cm             Gm   Am                 D7
+  G          C         D                G
+Zbyl mi jen sen aspoň ve snu zažít ten pocit
+Am             Em   F#m                H7
 že nejsem osamělá v Tobě se ztrácím celá.
 
-[Chorus]
-Gm  Dm            Eb          B  A/B
+[Chorus 2]
+Em  Hm            C           G  G/Gb
 Lhááát musím Ti lhát příteli můj
-Gm Dm            Eb         D7
+Em Hm            C          H7
 jááá svůj osud znám mě nelituj
-      Gm                     F
+      Em                     D
 proč nesmím proč nesmím se ptát
-        Cm                   G
+        Am                   E
 ještě stoupám nebo už je to pád
-      Eb              B     D       Gm
+      C               G     H7      Em Em/F# Em Em/F#
 proč čeká mě podivný most přes minulost.
 
-[Outro]
-      Gm                     F
+[Bridge]
+      Em                     D
 proč nesmím proč nesmím se ptát
-        Cm                   G
+        Am                   E
 ještě stoupám nebo už je to pád
-      Eb              B     D       Gm
+      C               G     H7       Em Em/F# Em Em/F#
 proč čeká mě podivný most přes minulost.
+Em Em/F# Em Em
+
+[solo housle] sloka
+
+[Chorus 2]
+
+[Outro = Bridge]
