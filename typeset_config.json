@@ -284,7 +284,8 @@
   },
   "most_pres_minulost": {
     "title": "Most přes minulost",
-    "input_file": "mlha/most_pres_minulost.txt"
+    "input_file": "mlha/most_pres_minulost.txt",
+    "split_lines": [37]
   },
   "mackie_messer": {
     "title": "Mackie Messer",
