@@ -294,5 +294,10 @@
   "motyl": {
     "title": "Motýl",
     "input_file": "orion/motyl.txt"
+  },
+  "la_vie_en_rose": {
+    "title": "La Vie En Rose",
+    "input_file": "jazz/la_vie_en_rose.txt",
+    "bpm": 60
   }
 }
