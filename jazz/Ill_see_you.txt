@@ -1,22 +1,22 @@
 [Intro] Milan
 Bmaj7  Dbmaj7  Bmaj7  Dbmaj7
 
-[A] housle
+[A] trubka
 B6    B6    Bm6   Bm6
 F6    E7    F6    F6
 
-[B] housle
+[B] trubka
 D7    D7    D7    D7
 G7    G7    Gm7   C7
 
-[A] housle
+[A] trubka
 B6    B6    Bm6   Bm6
 F6    E7    F6    F6
 
-[C] housle
+[C] trubka
 D7    D7    A7    Dm7
 B6    C7    F6    F6
 
-[A] [B] [A] [C] kytara
+[A] [B] [A] [C] housle
 
 [A] [B] [A] [C] housle

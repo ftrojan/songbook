@@ -5,7 +5,7 @@ C     C6    Cmaj7 C6    C     C7    F     F
 Fm          C           D7          Dm7   G7
 C     C6    Cmaj7 C6    Dm7   G7    C6    C6
 
-[Verse 2]
+[Verse 1]
 C                          Cmaj7
 Hold me close and hold me fast
      Cmaj7              C6
