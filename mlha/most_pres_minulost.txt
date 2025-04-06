@@ -1,13 +1,10 @@
 Gm = Em + Kapo 3
 
 [Intro]
-Em Em/F# Em Em/F# Em Em/F#
-Em Em/F# Em Em/F# Em Em/F#
-Em Em/F# Em Em/F# Em Em/F#
-Em Em/F# Em Em/F# Em Em/F#
+Em Em/F# Em Em/F# Em Em/F# Em
 
 [Verse 1]
- C        G   C       D                Em     C
+          G   C       D                Em     C
 Neber mi sen víš můj sen o probdělých nocích
  G        C      D                 G
 Neber mi sen a vrať mi zpátky ten pocit
@@ -28,7 +25,7 @@ když vstoupíš na poslední most přes minulost.
 Em Em/F# Em Em
 
 [Verse 2]
-  C          G   C       D                Em     C
+             G   C       D                Em     C
 Zbyl mi jen sen víš můj sen o probdělých nocích
   G          C         D                G
 Zbyl mi jen sen aspoň ve snu zažít ten pocit
