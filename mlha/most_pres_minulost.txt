@@ -1,12 +1,12 @@
 Gm = Em + Kapo 3
 
-[Intro]
+[Intro] 8 taktu
 Em Em/F# Em Em/F# Em Em/F# Em
 
 [Verse 1]
-          G   C       D                Em     C
+ C        G   C       D                Em
 Neber mi sen víš můj sen o probdělých nocích
- G        C      D                 G
+          C      D                 G
 Neber mi sen a vrať mi zpátky ten pocit
 Am             Em   F#m                H7
 že nejsem osamělá v Tobě se ztrácím celá.
@@ -25,9 +25,9 @@ když vstoupíš na poslední most přes minulost.
 Em Em/F# Em Em
 
 [Verse 2]
-             G   C       D                Em     C
+  C          G   C       D                Em
 Zbyl mi jen sen víš můj sen o probdělých nocích
-  G          C         D                G
+             C         D                G
 Zbyl mi jen sen aspoň ve snu zažít ten pocit
 Am             Em   F#m                H7
 že nejsem osamělá v Tobě se ztrácím celá.
