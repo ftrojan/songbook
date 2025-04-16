@@ -1,5 +1,5 @@
-title: Orion 2025-03-20
-subtitle: Zkouska Petr Resch, 18:30
+title: Orion jaro+leto
+subtitle: Zkousime od 2025-04-16
 songs:
   - name: aint_she_sweet
     key: B
@@ -10,21 +10,62 @@ songs:
   - name: motyl
     key: B
     note: Petr + Martina
+  - name: mival_jsem_klobouk
+    key: B
+    note: Zpěv Filip
   - name: minor_swing
     key: Am
     note: instrumental
   - name: slunecnice
     key: C
     note: Zpěv Martina
-  - name: ill_see_you
-    key: F
-    note: instrumental
   - name: ipanema
     key: F
     note: Zpěv Filip
+  - name: shadow
+    key: G
+    note: Zpěv Filip
+  - name: blueberry_hill
+    key: C
+    note: Zpěv Milan
+  - name: starej_pan
+    key: C
+    note: Zpěv Filip
+  - name: pause
+  - name: ill_see_you
+    key: F
+    note: instrumental
+  - name: uz_davno_nejsem_dite
+    key: B
+    note: Zpěv Milan
+  - name: rikej_mi_to_prosim
+    key: C
+    note: Zpěv Martina
+  - name: klobouk_ve_krovi
+    key: C
+    note: Zpěv Petr + Filip
+  - name: raindrops
+    key: F
+    note: Zpěv Filip
+  - name: blues_na_cestu_posledni
+    key: B
+    note: Zpěv Filip
+  - name: hvezdy_nad_brnem
+    key: B
+    note: Zpěv Filip
+  - name: sedavam
+    key: B
+    note: Zpěv Martina
   - name: la_vie_en_rose
     key: C
     note: Zpěv Filip
-  - name: shadow
-    key: G
+  - name: zivot_je_jen_nahoda
+    key: C
+    note: všichni
+  - name: end
+  - name: brandejs
+    key: B
+    note: Zpěv Milan
+  - name: quando
+    key: B
     note: Zpěv Filip
