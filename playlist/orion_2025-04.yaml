@@ -10,8 +10,8 @@ songs:
   - name: motyl
     key: B
     note: Petr + Martina
-  - name: mival_jsem_klobouk
-    key: B
+  - name: shadow
+    key: G
     note: Zpěv Filip
   - name: minor_swing
     key: Am
@@ -22,8 +22,8 @@ songs:
   - name: ipanema
     key: F
     note: Zpěv Filip
-  - name: shadow
-    key: G
+  - name: mival_jsem_klobouk
+    key: B
     note: Zpěv Filip
   - name: blueberry_hill
     key: C

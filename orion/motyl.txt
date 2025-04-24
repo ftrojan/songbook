@@ -3,7 +3,6 @@ G# = kapo 1 + G, po 3.sloce prechod na B = kapo 1 + A
 G D7 G Ami D7 G E7 Ami D7
 
 [verse 1]
-
           G
 Někdy si myslívám že láska je mi vzdálená,
                                  Ami
@@ -29,11 +28,11 @@ a do duše mi padne klid.
                   Ami7 D7
 * než chtěl jsem říct
              Ami7  D7 Ami7 D7
-* to už se stá----vá,
+to už se stá----vá,
            G
 * bude to tím
             F#7
-* že dobře vím
+že dobře vím
               Hmi7  D7
 * že jsi ta pravá.
 
@@ -47,10 +46,8 @@ To všechno bude jenom tím že dávno dobře vím
     Ami       D7      G
 že láska nedá lidem spát
 
-(zdvih do B)
+[zdvih do B + solo trumpeta]
 D C F E
-
-solo trumpeta
 A Hmi E7 A F#mi Hmi7 E7 A E7
 
 [verse 4]

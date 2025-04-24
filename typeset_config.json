@@ -293,7 +293,8 @@
   },
   "motyl": {
     "title": "Motýl",
-    "input_file": "orion/motyl.txt"
+    "input_file": "orion/motyl.txt",
+    "split_lines": [38, 82]
   },
   "la_vie_en_rose": {
     "title": "La Vie En Rose",
