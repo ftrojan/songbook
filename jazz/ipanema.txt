@@ -1,77 +1,68 @@
-Fmaj7 = 1x221x
-G7add13 = 3x345x
-Gm7   = 3x333x
-F#7b5 = 2x231x
-F#mj7 = 2x332x
-B9    = x2122x
-F#m7  = 2x222x
-D9    = x5455x
-D#9   = x6566x
-Am7   = 5x555x
-D7    = x5453x
-C7    = x3231x
+Fmaj7   = 1x221x   B9    = x2122x
+F#maj7  = 2x332x   D9    = x5455x
+G7add13 = 3x345x   D#9   = x6566x
+F#7b5   = 2x231x   D7    = x5453x
+F#m7    = 2x222x   C7    = x3231x
+Gm7     = 3x333x
+Am7     = 5x555x
+
 
 [Intro]
 Fmaj7 D#9 Fmaj7 D#9
 Fmaj7 D#9 Fmaj7 D#9
 
-[Verse 1 - A] Portugal
-Fmaj7
-Tall, and tan, and young and lovely
-     G7add13
-The girl from Ipanema goes walking and
-Gm7                     F#7b5                Fmaj7 F#maj7
-   When she passes each one, she passes, goes "ah"
-
-[Verse 2 - A] Portugal
-Fmaj7
-When she walks, she's like a samba
-       G7add13
-That swings so cool and sways so gently that
-  Gm7                F#7b5                Fmaj7
-When she passes each one, she passes, goes "ooh"!
-
-[Chorus - B]
-F#maj7                  B9
-Oh, but I watch her so sadly
-F#m7                  D9
-How can I tell her I love her?
-Gm7                          D#9
-Yes, I would give my heart gladly
-          Am7                        D7
-But each day, when she walks to the sea
-     Gm7                          C7
-She looks straight ahead, not at me
-
-[Verse 3 - A]
-Tall, and tan, and young, and lovely
-The girl from Ipanema goes walking
-And when she passes, I smile,
-but she doesn't see
-doesn't see
-
-[Instrumental - A + B]
-
-[Verse 4 - A]
+[Verse 1 - A]
+Fmaj7                                      G7add13
 Olha que coisa mais linda, mais cheia de graça
+                            Gm7
 É ela menina que vem e que passa
+            F#7b5              Fmaj7 F#maj7
 Num doce balanço a caminho do mar
 
-[Verse 5 - A]
+[Verse 2 - A]
+Fmaj7                               G7add13
 Moça do corpo dourado do sol de Ipanema
+                                Gm7
 O seu balançado é mais que um poema
+                F#7b5                 Fmaj7
 É a coisa mais linda que eu já vi passar
 
 [Chorus - B]
+F#maj7                   B9
 Ah, por que estou tão sozinho?
+F#m7                     D9
 Ah, por que tudo é tão triste?
+Gm7                D#9
 Ah, a beleza que existe
+     Am7                  D7
 A beleza que não é só minha
+        Gm7            C7
+Que também passa sozinha
+
+[Instrumental - A + B]
+
+[Chorus - B]
+F#maj7                   B9
+Ah, por que estou tão sozinho?
+F#m7                     D9
+Ah, por que tudo é tão triste?
+Gm7                D#9
+Ah, a beleza que existe
+     Am7                  D7
+A beleza que não é só minha
+        Gm7            C7
 Que também passa sozinha
 
 [Verse 3 - A]
+Fmaj7
 Tall, and tan, and young, and lovely
+     G7add13
 The girl from Ipanema goes walking
+      Gm7                F#7b5
 And when she passes, I smile,
+                 Fmaj7   F#maj7
 but she doesn't see
+         Fmaj7   F#maj7
+doesn't see
+         Fmaj7
 doesn't see

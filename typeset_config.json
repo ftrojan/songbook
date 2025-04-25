@@ -201,7 +201,7 @@
   "ipanema": {
     "title": "The Girl From Ipanema",
     "input_file": "jazz/ipanema.txt",
-    "split_lines": [37]
+    "split_lines": [41]
   },
   "a_ja_taka_dzivocka": {
     "title": "A ja taká dzívočka",
