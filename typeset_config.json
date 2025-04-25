@@ -18,7 +18,8 @@
   },
   "hvezdy_nad_brnem": {
     "title": "Hvězdy nad Brnem",
-    "input_file": "mix/hvezdy_nad_brnem.txt"
+    "input_file": "mix/hvezdy_nad_brnem.txt",
+    "bpm": 160
   },
   "starej_pan": {
     "title": "Starej pán",
@@ -53,11 +54,13 @@
   },
   "zivot_je_jen_nahoda": {
     "title": "Život je jen náhoda",
-    "input_file": "orion/zivot_je_jen_nahoda.txt"
+    "input_file": "orion/zivot_je_jen_nahoda.txt",
+    "bpm": 112
   },
   "klobouk_ve_krovi": {
     "title": "Klobouk ve křoví",
-    "input_file": "jazz/klobouk_ve_krovi.txt"
+    "input_file": "jazz/klobouk_ve_krovi.txt",
+    "bpm": 83
   },
   "sedavam": {
     "title": "Sedávám na domovních schodech",
@@ -92,7 +95,8 @@
   },
   "je_po_desti": {
     "title": "Je po dešti",
-    "input_file": "orion/je_po_desti.txt"
+    "input_file": "orion/je_po_desti.txt",
+    "bpm": 140
   },
   "blueberry_hill": {
     "title": "Blueberry Hill",
@@ -135,7 +139,8 @@
   "raindrops": {
     "title": "Raindrops keep fallin' on my head",
     "input_file": "jazz/raindrops.txt",
-    "split_lines": [41]
+    "split_lines": [41],
+    "bpm": 112
   },
   "mack_the_knife": {
     "title": "Mack the Knife",
@@ -155,7 +160,8 @@
   "quando": {
     "title": "Quando Quando Quando",
     "input_file": "jazz/quando_quando_quando.txt",
-    "split_lines": []
+    "split_lines": [],
+    "bpm": 90
   },
   "divka_k_rytmu_zrozena": {
     "title": "Dívka k rytmu zrozená",
@@ -269,7 +275,8 @@
   },
   "shadow": {
     "title": "The Shadow Of Your Smile",
-    "input_file": "jazz/shadow.txt"
+    "input_file": "jazz/shadow.txt",
+    "bpm": 95
   },
   "new_york": {
     "title": "New York",
@@ -295,7 +302,8 @@
   "motyl": {
     "title": "Motýl",
     "input_file": "orion/motyl.txt",
-    "split_lines": [38, 82]
+    "split_lines": [38, 82],
+    "bpm": 105
   },
   "la_vie_en_rose": {
     "title": "La Vie En Rose",
@@ -304,6 +312,7 @@
   },
   "slunecnice": {
     "title": "Slunečnice",
-    "input_file": "orion/slunecnice.txt"
+    "input_file": "orion/slunecnice.txt",
+    "bpm": 120
   }
 }
