@@ -14,7 +14,7 @@ Byla černá či plavá?      Komu asi  patřila?
 Emi                F      Emi             A7
   Kdo to v poušti zmizel?    Odkud šel a kam?
 G             D7      G        F7  F#7 G7   G+
- Jaký to měl svízel,  že byl v poušti sám?
+* Jaký to měl svízel,  že byl v poušti sám?
 
  C     B9    C   G+  C        B9         C  C7
 Jen zaváté stopy.    Starý klobouk ve křoví.
@@ -27,7 +27,7 @@ MEZIHRA 1 x SLOKA TRUBKA na druhou sloku
 Emi                F      Emi             A7
   Kdo to v poušti zmizel?    Odkud šel a kam?
 G             D7      G        F7  F#7 G7   G+
- Jaký to měl svízel,  že byl v poušti sám?
+* Jaký to měl svízel,  že byl v poušti sám?
 
  C     B9    C   G+ C        B9         C  C7
 Jen zaváté stopy.   Starý klobouk ve křoví.
