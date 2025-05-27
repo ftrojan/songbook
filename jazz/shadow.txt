@@ -1,6 +1,6 @@
-Hm7b5 = x2323x
+Hm7b5  = x2323x
 F#m7b5 = x9A9Ax
-H7b9  = 767x7x
+H7b9   = 767x7x
 Em7b5  = x7676x
 
 Am
