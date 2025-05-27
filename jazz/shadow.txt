@@ -1,35 +1,35 @@
+Hm7b5 = x2323x
 F#m7b5 = x9A9Ax
-C#m7b5 = x4545x
-F#7b9  = 212020
-Hm7b5  = x2323x
+H7b9  = 767x7x
+Em7b5  = x7676x
 
-Em
+Am
 [Verse 1] - jan kytara + zpěv
-    Em7            F#m7         H7      Em7  A7
+    Am7             Hm7         E7      Am7  D7
 The shadow of your smile, when you are gone,
-     A7            Am7        D7         Gmaj7   Cmaj7
+     D7            Dm7        G7         Cmaj7   Fmaj7
 Will colour all my dreams and light the dawn.
 
 [Bridge] - jan kytara + zpěv
-Cmaj7          F#m7b5    H7        Em7  Em/D
+Fmaj7           Hm7b5    E7        Am7  Am/G
    Look into my eyes, my love, and see,
-Em7              C#m7b5     F#7b9        F#m7b5 H7
+Am7              F#m7b5     H7b9         Hm7b5 E7
   All the lovely things you are,    to me.
 
 [Verse 2] - přidají se bubny a ostatní nástroje
-                   F#m7         H7      Em7   A7
+                    Hm7         E7      Am7   D7
 Our wistful little star,   was far too high,
-                        Am7       D7    Hm7b5  E7
+                        Dm7       G7    Em7b5  A7
 A teardrop kissed your lips, and so did I.
 
 [Chorus]
-           Am7             Am/H Cm7
+           Dm7             Em7 Fm7
 Now when I remember spring,
-                 Hm7            E7
+                 Em7            A7
 All the joy that love can bring,
-          A7           Am7
+          D7           Dm7
 I will be remembering,
-    D7               G
+    G7               C
 The shadow of your smile.
 
 [Instrumental ala verse 1 + 2]
