@@ -3,7 +3,7 @@ subtitle: Autocamp Beroun Na hrázi, 19:00
 songs:
   - name: ill_see_you
     key: F
-    note: instrumental, 1 motiv
+    note: instrumental, Furch
   - name: je_po_desti
     key: C
     note: Zpěv Martina
@@ -18,7 +18,7 @@ songs:
     note: Zpěv Filip
   - name: minor_swing
     key: Am
-    note: instrumental
+    note: instrumental, Furch
   - name: ipanema
     key: F
     note: Zpěv Filip
@@ -34,7 +34,7 @@ songs:
   - name: pause
   - name: ill_see_you
     key: F
-    note: instrumental
+    note: instrumental, Furch
   - name: uz_davno_nejsem_dite
     key: B
     note: Zpěv Milan
