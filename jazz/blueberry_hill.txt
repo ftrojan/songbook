@@ -1,46 +1,46 @@
 Milan intro, pak bubny trioly na cinely
 [Intro - A] trubka
-F   C   G     C F C
-F   C A Dmi G C F C
+C   G   D     G G7
+C   G E Ami D G C G
 
 [Verse 1 - A]
-              F                 C
+              C                 G
 I found my thrill on Blueberry Hill,
-              G                     C  F  C
+              D  D7               G  G7
 on Blueberry Hill, where I found you.
-                 F                  C     F  C
+                 C                  G
 The moon stood still, on Blueberry Hill,
-     A          Dm G                C  F  C
+     E          Am D                G  C  G
 and lingered until my dreams came true.
 
 [Chorus - B]
-     G           C
+     D           G
 The wind in the willow played
-         G        C  C7
+         D        G  G7
 love's sweet melody,
-    H7            Em           H7
+    F#7           Hm           F#7
 but all of those vows you made,
-               E7 G
+               H7 D7
 were never to be
 
- G7            F                        C   F C
+ D7            C                        G
 Though we're apart, you're part of me still,
-     A             Dm  G             C    F  C
+     E             Am  D             G    C  G
 for you were my thrill on Blueberry Hill.
 
 [solo - A] trubka
 
 [Chorus - B]
-     G           C
+     D           G
 The wind in the willow played
-         G        C  C7
+         D        G  G7
 love's sweet melody,
-    H7            Em           H7
+    F#7           Hm           F#7
 but all of those vows you made,
-               E7 G
+              H7 D7
 were only to be
 
- G7       F                          C      F   C
+ D7            C                        G
 Though we're apart, you're part of me still,
-     A             Dm  G             C
+E                  Am  D             G   C  G
 for you were my thrill on Blueberry Hill.

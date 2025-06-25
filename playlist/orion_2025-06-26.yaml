@@ -26,8 +26,8 @@ songs:
     key: B
     note: Zpěv Filip
   - name: blueberry_hill
-    key: C
-    note: Zpěv Milan
+    key: G
+    note: Zpěv Filip
   - name: shadow
     key: C
     note: Zpěv Filip
@@ -46,7 +46,7 @@ songs:
     note: Zpěv Petr + Filip
   - name: raindrops
     key: F
-    note: Zpěv Filip
+    note: Zpěv Filip, Furch
   - name: hvezdy_nad_brnem
     key: B
     note: Zpěv Filip
