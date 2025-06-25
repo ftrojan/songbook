@@ -101,7 +101,8 @@
   "blueberry_hill": {
     "title": "Blueberry Hill",
     "input_file": "jazz/blueberry_hill.txt",
-    "bpm": 80
+    "bpm": 80,
+    "split_lines": [42]
   },
   "wonderful_world": {
     "title": "Wonderful World",
