@@ -193,7 +193,8 @@
   "it_dont_mean_a_thing": {
     "title": "It don't mean a thing",
     "input_file": "jazz/it_dont_mean_a_thing.txt",
-    "split_lines": [39]
+    "split_lines": [39],
+    "bpm": 144
   },
   "wave": {
     "title": "Wave",
