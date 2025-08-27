@@ -7,7 +7,7 @@ Fly me to the moon and let me play among the stars,
 Let me see what spring is like on Jupiter and Mars;
    Em7          A7       Dmaj7   F#m7   H7
 In other words, hold my hand;
-   Em7          A7     Dmaj7   C#m7b5 H7
+   Em7          A7     Dmaj7   C#m7b5 F#7
 In other words, baby, kiss me.
 
 [B]
@@ -17,7 +17,7 @@ Fill my heart with song, and let me sing for ever more;
 You are all I long for, all I worship and adore.
    Em7            A7        F#m7  H7
 In other words, please be true
-   Em7          A7      D6  C#m7b5 H7
+   Em7          A7      D6  C#m7b5 F#7
 In other words, I love you.
 
 [solo] A B
