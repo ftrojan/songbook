@@ -188,13 +188,13 @@
   "fly_me_to_the_moon": {
     "title": "Fly me to the moon",
     "input_file": "jazz/fly_me_to_the_moon.txt",
-    "split_lines": []
+    "split_lines": [],
+    "bpm": 144
   },
   "it_dont_mean_a_thing": {
     "title": "It don't mean a thing",
     "input_file": "jazz/it_dont_mean_a_thing.txt",
-    "split_lines": [39],
-    "bpm": 144
+    "split_lines": [39]
   },
   "wave": {
     "title": "Wave",
