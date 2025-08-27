@@ -1,22 +1,36 @@
- Em   Am   D7   Gmaj7   G7
- Fly me to the moon and let me play among the stars,
-  C   Am6   H7   Em   E7
- Let me see what spring is like on Jupiter and Mars;
-  Am7   D7   G   Em7   Am7
+C#m7b5 = x4545x
+
+[A]
+  Hm7          Em7              A7             Dmaj7
+Fly me to the moon and let me play among the stars,
+ Gmaj7             C#m7b5        F7            Hm7 H7
+Let me see what spring is like on Jupiter and Mars;
+   Em7          A7       Dmaj7   F#m7   H7
 In other words, hold my hand;
-   D7   Cm   Gmaj7   F#m   H7
-In other words, darling, kiss me.
-  Em   Am   D7   Gmaj7   G7
- Fill my heart with song, and let me sing for ever more;
-  C   Am6   H7   Em   E7
-You are all I long for, all I wor-ship and adore.
-  Am7   D7   Bm7  H5   E7
-In other words, please be true;
+   Em7          A7     Dmaj7   C#m7b5 H7
+In other words, baby, kiss me.
 
-1.
- Am7   D7   Gmaj7   F#mi   H7
-In other words, I love you. (repeat)
+[B]
+ Hm7                Em7              A7            Dmaj7
+Fill my heart with song, and let me sing for ever more;
+ Gmaj7        C#m7b5           F#7           Hm7   H7
+You are all I long for, all I worship and adore.
+   Em7            A7        F#m7  H7
+In other words, please be true
+   Em7          A7      D6  C#m7b5 H7
+In other words, I love you.
 
-2.
- Am7   D7   Gmaj7   F6   E6   G9
+[solo] A B
+
+[A]
+[outro]
+ Hm7                Em7              A7            Dmaj7
+Fill my heart with song, and let me sing for ever more;
+ Gmaj7        C#m7b5           F#7           Hm7   H7
+You are all I long for, all I worship and adore.
+   Em7            A7        Dmaj7  H7
+In other words, please be true
+   Em7        A7        Em7   A7
+In other words, in other words
+   Em7         A7       Dmaj7
 In other words, I love you.
