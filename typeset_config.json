@@ -316,5 +316,9 @@
     "title": "Slunečnice",
     "input_file": "orion/slunecnice.txt",
     "bpm": 120
+  },
+  "to_bude_asi_tim": {
+    "title": "To bude asi tím",
+    "input_file": "orion/to_bude_asi_tim.txt"
   }
 }
