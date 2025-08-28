@@ -1,8 +1,17 @@
 [intro]
 C7 Eb F7 B Gm Cm F7
 
-B B B B G G G G
-C   Ebm F7 Eb F7
+[A]
+B     B      G      G
+C     Ebm    Cm     F7
+B  Gm B      G7     G7
+C7    Ebm F7 B  Eb  B
+
+[B]
+B7    B7     Eb6    Eb6
+C7    C7     Eb Ebm F7
+B  Gm B      G7     G7
+C7    Ebm F7 B  Eb  B
 
 [Verse 1] A
                    B Gm B                G
