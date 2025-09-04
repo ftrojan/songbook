@@ -10,6 +10,9 @@ songs:
   - name: shadow
     key: C
     note: Zpěv Filip
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
   - name: pause
   - name: klobouk_ve_krovi
     key: C
