@@ -4,14 +4,17 @@ songs:
   - name: praminek_vlasu
     key: F
     note: Zpěv Filip
+  - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
   - name: starej_pan
     key: C
     note: Zpěv Filip
   - name: blueberry_hill
     key: G
     note: Zpěv Filip
-  - name: shadow
-    key: C
+  - name: mackie_messer
+    key: B
     note: Zpěv Filip
   - name: ceresne
     key: Am
@@ -26,10 +29,16 @@ songs:
   - name: hvezdy_nad_brnem
     key: B
     note: Zpěv Filip
+  - name: wonderful_world
+    key: F
+    note: Zpěv Filip
   - name: blues_na_cestu_posledni
     key: B
     note: Zpěv Filip
   - name: end
   - name: quando
     key: B
+    note: Zpěv Filip
+  - name: jednou_mi_fotr_povida
+    key: A
     note: Zpěv Filip
