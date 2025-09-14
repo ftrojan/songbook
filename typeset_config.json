@@ -320,5 +320,15 @@
   "to_bude_asi_tim": {
     "title": "To bude asi tím",
     "input_file": "orion/to_bude_asi_tim.txt"
+  },
+  "trochu_v_hlave_mam": {
+    "title": "Trochu v hlavě mám (Sweet Sue)",
+    "input_file": "jazz/trochu_v_hlave_mam.txt",
+    "bpm": 105
+  },
+  "sklipek": {
+    "title": "Sklípek",
+    "input_file": "orion/sklipek.txt",
+    "bpm": 147
   }
 }

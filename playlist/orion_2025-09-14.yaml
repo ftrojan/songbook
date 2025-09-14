@@ -1,0 +1,80 @@
+title: Orion 2025 podzim
+subtitle: Od 2025-09 do konce roku 2025
+songs:
+  - name: aint_she_sweet
+    key: B
+    note: instrumental
+  - name: je_po_desti
+    key: C
+    note: Zpěv Martina
+  - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
+  - name: motyl
+    key: B
+    note: Petr + Martina
+  - name: starej_pan
+    key: C
+    note: Zpěv Filip
+  - name: black_orpheus
+    key: Ami
+    note: Zpěv Filip, Furch
+  - name: to_bude_asi_tim
+    key: B
+    note: Zpěv Milan + Filip
+  - name: all_of_me
+    key: C
+    note: Zpěv Filip
+  - name: watermelon_man
+    key: F
+    note: Zpěv Filip
+  - name: shadow
+    key: C
+    note: Zpěv Filip
+  - name: pause
+  - name: pochod_svatych
+    key: B
+    note: Zpěv Filip + sbor
+  - name: uz_davno_nejsem_dite
+    key: B
+    note: Zpěv Milan
+  - name: trochu_v_hlave_mam
+    key: D
+    note: Zpěv Martina
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
+  - name: raindrops
+    key: F
+    note: Zpěv Filip, Furch
+  - name: hvezdy_nad_brnem
+    key: B
+    note: Zpěv Filip
+  - name: sedavam
+    key: B
+    note: Zpěv Martina
+  - name: la_vie_en_rose
+    key: C
+    note: Zpěv Filip
+  - name: blues_na_cestu_posledni
+    key: B
+    note: Zpěv Filip
+  - name: zivot_je_jen_nahoda
+    key: C
+    note: všichni
+  - name: end
+  - name: brandejs
+    key: B
+    note: Zpěv Milan
+  - name: autumn_leaves
+    key: Gm
+    note: instrumental
+  - name: sklipek
+    key: Am
+    note: Zpěv Martina
+  - name: quando
+    key: B
+    note: Zpěv Filip
+  - name: l_o_v_e
+    key: A
+    note: Zpěv Filip
