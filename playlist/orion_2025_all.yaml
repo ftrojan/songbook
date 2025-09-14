@@ -1,5 +1,5 @@
-title: Orion 2025 podzim
-subtitle: Od 2025-09 do konce roku 2025
+title: Orion 2025 All
+subtitle: Vsechny skladby co dokazeme zahrat
 songs:
   - name: aint_she_sweet
     key: B
@@ -31,7 +31,6 @@ songs:
   - name: shadow
     key: C
     note: Zpěv Filip
-  - name: pause
   - name: pochod_svatych
     key: B
     note: Zpěv Filip + sbor
@@ -62,7 +61,6 @@ songs:
   - name: zivot_je_jen_nahoda
     key: C
     note: všichni
-  - name: end
   - name: brandejs
     key: B
     note: Zpěv Milan
@@ -78,6 +76,33 @@ songs:
   - name: l_o_v_e
     key: A
     note: Zpěv Filip
-  - name: rikej_mi_to_prosim
+  - name: ill_see_you
+    key: F
+    note: instrumental, Furch
+  - name: je_po_desti
     key: C
     note: Zpěv Martina
+  - name: minor_swing
+    key: Am
+    note: instrumental, Furch
+  - name: ipanema
+    key: F
+    note: Zpěv Filip, Furch
+  - name: mival_jsem_klobouk
+    key: B
+    note: Zpěv Filip
+  - name: blueberry_hill
+    key: G
+    note: Zpěv Filip
+  - name: praminek_vlasu
+    key: F
+  - name: summertime
+    key: Dm
+  - name: sway
+    key: Gm
+  - name: wonderful_world
+    key: F
+  - name: mackie_messer
+    key: B
+  - name: autumn_leaves
+    key: Gm
