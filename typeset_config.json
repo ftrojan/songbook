@@ -330,5 +330,9 @@
     "title": "Sklípek",
     "input_file": "orion/sklipek.txt",
     "bpm": 147
+  },
+  "lampa": {
+    "title": "Lampa",
+    "input_file": "orion/lampa.txt"
   }
 }
