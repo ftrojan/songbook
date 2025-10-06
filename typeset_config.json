@@ -43,11 +43,6 @@
     "input_file": "jazz/corcovado.txt",
     "split_lines": [42]
   },
-  "kdyz_je_ti_50": {
-    "title": "Když je Ti padesát",
-    "input_file": "mix/kdyz_je_ti_50.txt",
-    "split_lines": [43]
-  },
   "destivy_den": {
     "title": "Deštivý den (Some of These Days)",
     "input_file": "jazz/destivy_den.txt"
@@ -212,11 +207,6 @@
     "split_lines": [41],
     "bpm": 109
   },
-  "a_ja_taka_dzivocka": {
-    "title": "A ja taká dzívočka",
-    "input_file": "lidove/a_ja_taka_dzivocka.txt",
-    "split_lines": []
-  },
   "jednou_mi_fotr_povida": {
     "title": "Jednou mi fotr povídá",
     "input_file": "mix/jednou_mi_fotr_povida.txt",
@@ -225,21 +215,6 @@
   "ceresne": {
     "title": "Čerešně",
     "input_file": "mix/ceresne.txt",
-    "split_lines": []
-  },
-  "nepi_jano": {
-    "title": "Nepi, Jano",
-    "input_file": "lidove/nepi_jano.txt",
-    "split_lines": []
-  },
-  "to_ta_helpa": {
-    "title": "To ta Helpa",
-    "input_file": "lidove/to_ta_helpa.txt",
-    "split_lines": []
-  },
-  "este_som_sa_neozenil": {
-    "title": "Eště som sa neoženil",
-    "input_file": "lidove/este_som_sa_neozenil.txt",
     "split_lines": []
   },
   "rikej_mi_to_prosim": {
@@ -334,5 +309,10 @@
   "lampa": {
     "title": "Lampa",
     "input_file": "orion/lampa.txt"
+  },
+  "vsichni_tancovat_jdou": {
+    "title": "Vsichni tancovat jdou",
+    "input_file": "jazz/vsichni_tancovat_jdou.txt",
+    "bpm": 112
   }
 }
