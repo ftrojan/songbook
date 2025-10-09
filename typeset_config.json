@@ -314,5 +314,9 @@
     "title": "Vsichni tancovat jdou",
     "input_file": "jazz/vsichni_tancovat_jdou.txt",
     "bpm": 112
+  },
+  "karlovi_75": {
+    "title": "Karlovi 75",
+    "input_file": "mix/karlovi_75.txt"
   }
 }
