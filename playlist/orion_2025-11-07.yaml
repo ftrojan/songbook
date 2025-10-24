@@ -63,6 +63,9 @@ songs:
     key: C
     note: všichni
   - name: end
+  - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
   - name: brandejs
     key: B
     note: Zpěv Milan
