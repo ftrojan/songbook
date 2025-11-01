@@ -1,60 +1,60 @@
 [A]
-Cmi Fmi Cmi D7 G7
-C7  Fmi D7 G7 G#7 G7
+Am Dm Am H7 E7
+A7  Dm H7 E7 G#7 E7
 
 [B]
-Cmi Fmi Cmi D7 G7
-C7  Fmi Cmi Fmi G7 Cmi
+Am Dm Am H7 E7
+A7  Dm Am Dm E7 Am
 
 [Verse 1 - A]
-  Cmi                    Fmi
+  Am                    Dm
 Klepy, klep, jdou kroky za mnou,
-            Cmi                 D7 G7
+            Am                 H7 E7
 ja slyším klepy, klep, bez ustání.
- C7                Fmi
+ A7                Dm
 Já nedám vůbec na pověru žádnou,
-   D7                         G         G#  G
+   H7                         E         F   E
 strach však mám, když slyším to divné klepání.
 
 [Verse 2 - B]
- Cmi                  Fmi
+ Am                  Dm
 Celou noc já slyším klep, klep,
-           Cmi               D7 G7
+           Am               H7 E7
 pojďte mi na pomoc, vám povídám.
- C7                    Fmi
+ A7                    Dm
 Každý den je pro mně hrozný sen,
-           Cmi               Fmi      G7     Cmi
+           Am               Dm      E7     Am
 jak tušit mohl bych jen, že rytmus v patách mám.
 
 [mezihra A]
-Cmi Fmi Cmi D7 G7
-C7  Fmi D7 G7 G#7 G7
+Am Dm Am H7 E7
+A7  Dm H7 E7 F7 E7
 
 [mezihra B]
-Cmi Fmi Cmi D7 G7
-C7  Fmi Cmi Fmi G7 Cmi
+Am Dm Am H7 E7
+A7  Dm Am Dm E7 Am
 
 [Verse 3 - A]
-  Cmi                    Fmi
+  Am                    Dm
 Klepy, klep, jdou kroky za mnou,
-            Cmi                 D7 G7
+            Am                 H7 E7
 ja slyším klepy, klep, bez ustání.
- C7                Fmi
+ A7                Dm
 Já nedám vůbec na pověru žádnou,
-   D7                         G         G#  G
+   H7                         E         F   E
 strach však mám, když slyším to divné klepání.
 
 [Verse 4 - C]
- Cmi                  Fmi
+ Am                  Dm
 Jedenkrát, možná, že zítra,
-           Cmi                D7 G7
+           Am                H7 E7
 já budu z toho sna bláznem naráz.
-  C7                   Fmi
+  A7                   Dm
 Ptám se vás, čí je to divný špás,
-           Cmi               Fmi      G7     Cmi
+           Am               Dm      E7     Am
 jak tušit mohl bych jen, že rytmus v patách mám.
-Cmi  Cmi  G# G
-                 Cmi Fmi D#  F   G
+Am  Am   F   E
+                 Am Dm C  D   E7
 rytmus v patách má---á---á---á---á---m,
-                 Cmi9
+                 Am9
 rytmus v patách mám.
