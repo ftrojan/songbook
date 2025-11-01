@@ -72,3 +72,12 @@ songs:
   - name: quando
     key: B
     note: Zpěv Filip
+  - name: ipanema
+    key: F
+    note: Zpěv Filip, Furch
+  - name: karvina
+    key: G
+    note: Zpěv Filip
+  - name: slunecni_hrob
+    key: E
+    note: Zpěv Filip

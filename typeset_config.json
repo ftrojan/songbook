@@ -318,5 +318,14 @@
   "karlovi_75": {
     "title": "Karlovi 75",
     "input_file": "mix/karlovi_75.txt"
+  },
+  "slunecni_hrob": {
+    "title": "Sluneční hrob",
+    "input_file": "mix/slunecni_hrob.txt",
+    "split_lines": [43]
+  },
+  "karvina": {
+    "title": "Karviná",
+    "input_file": "mix/karvina.txt"
   }
 }

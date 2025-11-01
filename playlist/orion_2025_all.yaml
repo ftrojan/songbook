@@ -111,3 +111,9 @@ songs:
     key: Eb
   - name: jednou_mi_fotr_povida
     key: A
+  - name: karvina
+    key: G
+    note: Zpěv Filip
+  - name: slunecni_hrob
+    key: E
+    note: Zpěv Filip
