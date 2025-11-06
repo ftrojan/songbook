@@ -28,8 +28,8 @@ songs:
   - name: hvezdy_nad_brnem
     key: B
     note: Zpěv Filip
-  - name: shadow
-    key: C
+  - name: autumn_leaves
+    key: Gm
     note: Zpěv Filip
   - name: pause
   - name: pochod_svatych
@@ -72,9 +72,6 @@ songs:
   - name: quando
     key: B
     note: Zpěv Filip
-  - name: ipanema
-    key: F
-    note: Zpěv Filip, Furch
   - name: karvina
     key: G
     note: Zpěv Filip
