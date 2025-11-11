@@ -11,13 +11,13 @@ songs:
     key: G
     note: Zpěv Filip
   - name: motyl
-    key: B
+    key: G#,B
     note: Petr + Martina
   - name: starej_pan
     key: C
     note: Zpěv Filip
   - name: black_orpheus
-    key: Ami
+    key: Bmi
     note: Zpěv Filip, Furch
   - name: to_bude_asi_tim
     key: B
@@ -60,17 +60,17 @@ songs:
     key: B
     note: Zpěv Filip
   - name: zivot_je_jen_nahoda
-    key: C
+    key: G
     note: všichni
   - name: end
+  - name: ill_see_you
+    key: F
+    note: instrumental, Furch
   - name: brandejs
     key: B
     note: Zpěv Milan
   - name: dream_a_little_dream
     key: F
-    note: Zpěv Filip
-  - name: hvezdy_nad_brnem
-    key: B
     note: Zpěv Filip
   - name: sklipek
     key: Am
@@ -78,12 +78,12 @@ songs:
   - name: quando
     key: B
     note: Zpěv Filip
-  - name: ill_see_you
-    key: F
-    note: instrumental, Furch
   - name: rikej_mi_to_prosim
     key: C
     note: Zpěv Martina
+  - name: hvezdy_nad_brnem
+    key: B
+    note: Zpěv Filip
   - name: autumn_leaves
     key: Gm
     note: Zpěv Filip
