@@ -5,7 +5,7 @@ AB trubka
 AB zpěv
 AB kytara
 
-[intro] rubato
+[intro] rubato housle + kytara Filip
 G       Am D7 Hm   Em     Dm7   D7
 G D7 G7 C  Cm G Em Am7 D7 G Dm7 G6 G7
 

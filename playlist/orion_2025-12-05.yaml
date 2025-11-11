@@ -8,7 +8,7 @@ songs:
     key: C
     note: Zpěv Martina
   - name: l_o_v_e
-    key: G
+    key: G,G#,B
     note: Zpěv Filip
   - name: motyl
     key: G#,B
