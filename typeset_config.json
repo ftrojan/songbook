@@ -327,5 +327,10 @@
   "karvina": {
     "title": "Karviná",
     "input_file": "mix/karvina.txt"
+  },
+  "they_cant_take": {
+    "title": "They Can't Take That Away From Me",
+    "input_file": "jazz/they_cant_take.txt",
+    "bpm": 120
   }
 }
