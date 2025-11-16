@@ -1,21 +1,21 @@
-   Am
+   Gm
 1. Půjdem spolu do sklípku,
-                               E7
+                               D7
    sedneme si v koutku, kde je stín
-            Am
+            Gm
    vlídný stín
-    Am
+    Gm
    dáme si pár polibků
-                               E7
+                               D7
    vedle soudků plných dobrých vín
-           Am  G
+           Gm  F
    dobrých vín
 
-    C                       G  E7
+    B                       F  D7
    Rudou lásku budem spolu pít
-   Am
+   Gm
    vinný sklep ti zrychlí tep
-      Adim           E   E7
+      Gdim           D   D7
    a zas mě budeš chtít
 
 2. Hned po první sklenici
@@ -24,11 +24,11 @@
 
    la la la ...
 
-    C                       G  E7
+    B                       F  D7
    Rudou lásku budem spolu pít
-    Am
+    Gm
    vinný sklep ti zrychlí tep
-     Adim            E   E7
+     Gdim            D   D7
    a zas mě budeš chtít
 
 3. Já jsem slabá na tvůj chlad
@@ -36,3 +36,5 @@
    rozehřát.
 
    la la la ...
+
+Hej
