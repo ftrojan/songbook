@@ -34,9 +34,9 @@ Vždyť sám Pán Bůh ví,
      D6  A7  D6
 je zlý prázdný
 
-[solo] AABA
+[solo] AA
 
-[Verse 1] [Verse 2] [Chorus] [Verse 3]
+[Chorus] [Verse 3]
 
        Dmaj7
 (prázdný ..)
