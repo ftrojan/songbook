@@ -4,37 +4,9 @@ Bmi = Kapo 1 + Ami, ABABAB
 Ami Bdim7 E7  Ami Bdim7 E7
 Ami Bdim7 E7  Ami Bdim7 E7
 
-[Form A]
+[Form A] - instrumental trumpeta
 
-      Ami        Bdim E7      Ami  Bdim E7
-I'll sing to the sun in the sky
-      Ami           Dmi G7    Cmaj7 Hdim
-I'll sing while the sun rises high
-          Dmi7        G7
-Carnaval time is here
-         Cmaj7      Fmaj7
-Magical time of year
-            Bdim           E7
-And as the time draws near
-                Ami   Bdim E7
-Dreams lift my heart!
-
-[Form B]
-
-Ami               Bdim  E7   Ami Bdim E7
-I'll sing while I play my guitar
-     Edim                A7       Dmi
-I'll cling to this dream   from afar
-           Bdim         E7
-Will true love come my way
-           Ami  Fmaj7
-On this Carnaval day
-    E7                  Ami   Bdim E7
-Or will love stay in my heart?
-
-[Form A] - instrumental
-
-[Form B] - instrumental
+[Form B] - instrumental housle
 
 [Form A]
 
