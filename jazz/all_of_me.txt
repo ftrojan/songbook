@@ -1,48 +1,35 @@
 [Intro] Milan sestupka
 C6 Dm G C Dm G
 
-[Verse 1]
-[A]
+[Verse 1] A
 C                       E7
 All of me, why not take all of me?
-A7                            Dm
+ A7                            Dm7
 Can't you see, I'm no good without you?
-
-[B]
-E7                    Am7
+ E7                      Am7
 Take my lips, I want to lose them.
-D7           Dm  G7
+ D7                      Dm7   G7
 Take my arms, I'll never use them.
 
-[Verse 2]
-[A]
-C                          E7
+[Verse 2] B
+ C                         E7
 Your goodbyes left me with eyes that cry,
-A7                      Dm
+ A7                     Dm7
 how can I get along without you?
-
-[C]
-F           Fm        C      E7   A7
+F            Fm        C            A7
 You took the part that once was my heart
-Dm              G7      C E7 Dm G7
+     Dm7        G7      C  Edim7  Dm7  G7
 So why not take all of me?
 
 [A] housle
 [B] trubka
 
-[Verse 3]
-[A]
+[Verse 3] B
 C                       E7
 All of me, why not take all of me?
-A7                                 Dm
+A7                            Dm7
 Can't you see, I'm a mess without you?
-
-[C]
-F             Fm       C              E7 A7
+F             Fm       C               A7
 You took the part that used to be my heart
-Dm              G7      Cmaj7 Ebdim7 Dm7 G7
+    Dm7         G7      C   C9
 So why not take all of me?
-
-[A] [B] kytara
-
-[A] [C] trubka
