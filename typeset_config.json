@@ -2,7 +2,7 @@
   "all_of_me": {
     "title": "All Of Me",
     "input_file": "jazz/all_of_me.txt",
-    "split_lines": [32],
+    "split_lines": [],
     "bpm": 140
   },
   "rytmus_v_patach": {
