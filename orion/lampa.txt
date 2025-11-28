@@ -1,30 +1,40 @@
-Cmi                          Fmi
+Cm                           F
 Byla ve mně lampa plná petroleje
-Cmi        D7    G7        Cmi
+Cm         D7    G7        Cm
 A tu lampu večer muži rosvěceli
-                              Fmi
+                              F
 Nechápali vůbec co se se mnou děje
-Cmi         D7          D7/5b C7 Cmi
+Cm         D7          Fm    G7 Cm
 Lásku totiž vůbec nikdy nevi  dě li.
+
 
 Fmi        B
 Vodili mně do expresa
 Eb
 A tam v pološeru
-D7/5b        G7
+ D7           G7
 Pili s ginem vůni lesa
 Ab
 Někdy na sekeru
-Fmi      D7/5b
+Fm
 Neviděli co se děje
-Cmi
+G
 Když má lampa bliká
 G
 Chtěli holku co se směje
-
+G
 Holku co se svlíká.
 
-Cmi                                   Fmi
+
+F B Eb D7 G7 Ab Fm G
+la la la la la la la
+G
+Chtěli holku co se směje
+G
+Holku co se svlíká.
+
+
+Cm                                   Fmi
 A tak se jednou stalo když mě stý muž svlékl
 Cmi        D7    G7          Cmi
 Že má petrolejka blikla naposledy
@@ -33,19 +43,30 @@ Ten pán se mi vysmál pak se trochu lekl
 Cmi           D7          D7/5b   C7 Cmi
 To když cítil místo tepla chladné le dy.
 
-Fmi            B
+Fm            B
 Smutně jsem se rozloučila
-E
+   Eb
 S tím posledním pánem
-D7/5b       G7
+ D7          G7
 Poprvé jsem tehdy pila
 Ab
 Koktejl prázdna s ránem
-Fmi          D7/5b
+Fm
 Marně chodím do expresa
-Cmi
+G
 Bez lampy jsem tmavá
 G
 Z ginu světlo nevykřesám
-
+G
 Z ginu bolí hlava.
+
+
+F B Eb D7 G7 Ab Fm G
+la la la la la la la
+G
+Chtěli holku co se směje
+G
+Holku co se svlíká.
+
+Cm G7  Cm
+wow wo wa [cinel]
