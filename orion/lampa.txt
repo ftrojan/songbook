@@ -2,7 +2,7 @@ Cm                           F
 Byla ve mně lampa plná petroleje
 Cm         D7    G7        Cm
 A tu lampu večer muži rosvěceli
-                              F
+ Cm                           F
 Nechápali vůbec co se se mnou děje
 Cm         D7          Fm    G7 Cm
 Lásku totiž vůbec nikdy nevi  dě li.
@@ -26,21 +26,20 @@ G
 Holku co se svlíká.
 
 
-F B Eb D7 G7 Ab Fm G
+Fm B Eb D7 G7 Ab Fm G
 la la la la la la la
 G
 Chtěli holku co se směje
 G
 Holku co se svlíká.
 
-
-Cm                                   Fmi
+Cm                                       F
 A tak se jednou stalo když mě stý muž svlékl
-Cmi        D7    G7          Cmi
+Cm          D7     G7         Cm
 Že má petrolejka blikla naposledy
-                                   Fmi
+ Cm                                 F
 Ten pán se mi vysmál pak se trochu lekl
-Cmi           D7          D7/5b   C7 Cmi
+Cm             D7          Fm      G7 Cm
 To když cítil místo tepla chladné le dy.
 
 Fm            B
@@ -61,7 +60,7 @@ G
 Z ginu bolí hlava.
 
 
-F B Eb D7 G7 Ab Fm G
+Fm B Eb D7 G7 Ab Fm G
 la la la la la la la
 G
 Chtěli holku co se směje

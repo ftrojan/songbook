@@ -308,7 +308,8 @@
   },
   "lampa": {
     "title": "Lampa",
-    "input_file": "orion/lampa.txt"
+    "input_file": "orion/lampa.txt",
+    "split_lines": [36]
   },
   "vsichni_tancovat_jdou": {
     "title": "Vsichni tancovat jdou",
