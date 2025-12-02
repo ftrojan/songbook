@@ -333,5 +333,10 @@
     "title": "They Can't Take That Away From Me",
     "input_file": "jazz/they_cant_take.txt",
     "bpm": 120
+  },
+  "my_way": {
+    "title": "My Way",
+    "input_file": "orion/my_way.txt",
+    "bpm": 75
   }
 }
