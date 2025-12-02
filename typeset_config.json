@@ -338,5 +338,10 @@
     "title": "My Way",
     "input_file": "orion/my_way.txt",
     "bpm": 75
+  },
+  "za_svym_snem_jit": {
+    "title": "Za svým snem jít",
+    "input_file": "orion/za_svym_snem_jit.txt",
+    "bpm": 75
   }
 }
