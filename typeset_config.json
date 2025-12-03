@@ -63,6 +63,12 @@
     "split_lines": [41],
     "bpm": 130
   },
+  "sedavam_m": {
+    "title": "Sedávám na domovních schodech",
+    "input_file": "jazz/sedavam_m.txt",
+    "split_lines": [42],
+    "bpm": 130
+  },
   "praminek_vlasu": {
     "title": "Pramínek vlasů",
     "input_file": "orion/praminek_vlasu.txt"
