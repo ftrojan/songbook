@@ -32,9 +32,9 @@ songs:
     key: C
     note: Zpěv Filip
   - name: pause
-  - name: pochod_svatych
-    key: B
-    note: Zpěv Filip + sbor
+  - name: ill_see_you
+    key: F
+    note: instrumental, Furch
   - name: uz_davno_nejsem_dite
     key: B
     note: Zpěv Milan
@@ -63,27 +63,12 @@ songs:
     key: G
     note: všichni
   - name: end
-  - name: ill_see_you
-    key: F
-    note: instrumental, Furch
-  - name: brandejs
-    key: B
-    note: Zpěv Milan
   - name: dream_a_little_dream
     key: F
     note: Zpěv Filip
   - name: sklipek
     key: Gm
     note: Zpěv Martina
-  - name: quando
+  - name: pochod_svatych
     key: B
-    note: Zpěv Filip
-  - name: rikej_mi_to_prosim
-    key: C
-    note: Zpěv Martina
-  - name: hvezdy_nad_brnem
-    key: B
-    note: Zpěv Filip
-  - name: autumn_leaves
-    key: Gm
-    note: Zpěv Filip
+    note: Zpěv Filip + sbor
