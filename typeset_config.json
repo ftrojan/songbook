@@ -349,5 +349,10 @@
     "title": "Za svým snem jít",
     "input_file": "orion/za_svym_snem_jit.txt",
     "bpm": 75
+  },
+  "sweet_georgia_brown": {
+    "title": "Sweet Georgia Brown",
+    "input_file": "jazz/sweet_georgia_brown.txt",
+    "bpm": 215
   }
 }
