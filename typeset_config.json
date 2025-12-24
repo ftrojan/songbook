@@ -354,5 +354,10 @@
     "title": "Sweet Georgia Brown",
     "input_file": "jazz/sweet_georgia_brown.txt",
     "bpm": 215
+  },
+  "on_the_sunny": {
+    "title": "On The Sunny Side Of The Street",
+    "input_file": "jazz/on_the_sunny.txt",
+    "bpm": 120
   }
 }
