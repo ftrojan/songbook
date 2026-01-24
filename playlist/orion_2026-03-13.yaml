@@ -19,6 +19,9 @@ songs:
   - name: black_orpheus
     key: Bmi
     note: Zpěv Filip
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
   - name: blueberry_hill
     key: F
     note: Filip
@@ -62,9 +65,6 @@ songs:
   - name: raindrops
     key: F
     note: Zpěv Filip
-  - name: ceresne
-    key: Am
-    note: Zpěv Martina
   - name: my_way
     key: D
     note: Zpěv Filip
