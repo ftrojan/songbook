@@ -45,6 +45,7 @@ Co delat jinak?
 - Sklipek (Martina): zustava
 - Blueberry Hill: vratime, nacvicime od F
 - Wonderful world: vratime, nacvicime
+- Mival jsem klobouk
 - Sweet Georgia Brown: nova
 - Is You Is Or Is You Ain't: zkusime, aranze?
 - Watermelon man: zkusime
