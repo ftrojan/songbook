@@ -22,6 +22,9 @@ songs:
   - name: blueberry_hill
     key: F
     note: Filip
+  - name: autumn_leaves
+    key: Gm
+    note: instrumental
   - name: pause
   - name: all_of_me
     key: C
