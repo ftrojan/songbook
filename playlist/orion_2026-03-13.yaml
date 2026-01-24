@@ -32,9 +32,6 @@ songs:
   - name: minor_swing
     key: Am
     note: instrumental
-  - name: ceresne
-    key: Am
-    note: Zpěv Martina
   - name: la_vie_en_rose
     key: C
     note: Zpěv Filip
@@ -53,6 +50,7 @@ songs:
   - name: ceresne
     key: Am
     note: Zpěv Martina
+  - name: pause
   - name: sweet_georgia_brown
     key: Ab
     note: instrumental
