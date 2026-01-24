@@ -1,0 +1,86 @@
+title: Orion 2026-03-13
+subtitle: Restaurace Žloukovice, od 19:00
+songs:
+  - name: aint_she_sweet
+    key: B
+    note: instrumental
+  - name: je_po_desti
+    key: C
+    note: Zpěv Martina
+  - name: l_o_v_e
+    key: G,G#,B
+    note: Zpěv Filip
+  - name: motyl
+    key: G#,B
+    note: Petr + Martina
+  - name: starej_pan
+    key: C
+    note: Zpěv Filip
+  - name: black_orpheus
+    key: Bmi
+    note: Zpěv Filip
+  - name: blueberry_hill
+    key: F
+    note: Filip
+  - name: all_of_me
+    key: C
+    note: Zpěv Filip
+  - name: klobouk_ve_krovi
+    key: C
+    note: Petr + Filip
+  - name: minor_swing
+    key: Am
+    note: instrumental
+  - name: la_vie_en_rose
+    key: C
+    note: Zpěv Filip
+  - name: shadow
+    key: C
+    note: Zpěv Filip
+  - name: pause
+  - name: ill_see_you
+    key: F
+    note: instrumental
+  - name: to_bude_asi_tim
+    key: B
+    note: Zpěv Milan + Filip
+  - name: uz_davno_nejsem_dite
+    key: B
+    note: Zpěv Milan
+  - name: sweet_georgia_brown
+    key: Ab
+    note: instrumental
+  - name: trochu_v_hlave_mam
+    key: D
+    note: Zpěv Martina
+  - name: sedavam
+    key: B
+    note: Zpěv Martina
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
+  - name: raindrops
+    key: F
+    note: Zpěv Filip
+  - name: my_way
+    key: D
+    note: Zpěv Filip
+  - name: blues_na_cestu_posledni
+    key: B
+    note: Zpěv Filip
+  - name: zivot_je_jen_nahoda
+    key: G
+    note: všichni
+  - name: end
+  - name: wonderful_world
+    key: F
+    note: Zpěv Filip
+  - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
+  - name: sklipek
+    key: Gm
+    note: Zpěv Martina
+  - name: pochod_svatych
+    key: B
+    note: Zpěv Filip + sbor

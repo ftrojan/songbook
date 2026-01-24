@@ -84,7 +84,7 @@ songs:
     note: Zpěv Martina
   - name: minor_swing
     key: Am
-    note: instrumental, Furch
+    note: instrumental
   - name: ipanema
     key: F
     note: Zpěv Filip, Furch
@@ -103,12 +103,15 @@ songs:
     key: Gm
   - name: wonderful_world
     key: F
+    note: Zpěv Filip
   - name: mackie_messer
     key: B
+    note: Zpěv Filip
   - name: autumn_leaves
     key: Gm
   - name: green_dolphin
     key: Eb
+    note: Zpěv Filip
   - name: jednou_mi_fotr_povida
     key: A
   - name: karvina
@@ -120,3 +123,9 @@ songs:
   - name: on_the_sunny
     key: C
     note: Zpěv Filip
+  - name: my_way
+    key: D
+    note: Zpěv Filip
+  - name: sweet_georgia_brown
+    key: Ab
+    note: instrumental
