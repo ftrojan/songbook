@@ -53,18 +53,24 @@ songs:
   - name: trochu_v_hlave_mam
     key: D
     note: Zpěv Martina
+  - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
   - name: sedavam
     key: B
-    note: Zpěv Martina
-  - name: ceresne
-    key: Am
     note: Zpěv Martina
   - name: raindrops
     key: F
     note: Zpěv Filip
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
   - name: my_way
     key: D
     note: Zpěv Filip
+  - name: sklipek
+    key: Gm
+    note: Zpěv Martina
   - name: blues_na_cestu_posledni
     key: B
     note: Zpěv Filip
@@ -75,12 +81,6 @@ songs:
   - name: wonderful_world
     key: F
     note: Zpěv Filip
-  - name: dream_a_little_dream
-    key: F
-    note: Zpěv Filip
-  - name: sklipek
-    key: Gm
-    note: Zpěv Martina
   - name: pochod_svatych
     key: B
     note: Zpěv Filip + sbor
