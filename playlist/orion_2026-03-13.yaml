@@ -19,12 +19,10 @@ songs:
   - name: black_orpheus
     key: Bmi
     note: Zpěv Filip
-  - name: ceresne
-    key: Am
-    note: Zpěv Martina
   - name: blueberry_hill
     key: F
     note: Filip
+  - name: pause
   - name: all_of_me
     key: C
     note: Zpěv Filip
@@ -34,13 +32,15 @@ songs:
   - name: minor_swing
     key: Am
     note: instrumental
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
   - name: la_vie_en_rose
     key: C
     note: Zpěv Filip
   - name: shadow
     key: C
     note: Zpěv Filip
-  - name: pause
   - name: ill_see_you
     key: F
     note: instrumental
@@ -50,6 +50,9 @@ songs:
   - name: uz_davno_nejsem_dite
     key: B
     note: Zpěv Milan
+  - name: ceresne
+    key: Am
+    note: Zpěv Martina
   - name: sweet_georgia_brown
     key: Ab
     note: instrumental
