@@ -16,9 +16,6 @@ songs:
   - name: starej_pan
     key: C
     note: Zpěv Filip
-  - name: black_orpheus
-    key: Bmi
-    note: Zpěv Filip
   - name: blueberry_hill
     key: F
     note: Filip
