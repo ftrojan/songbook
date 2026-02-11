@@ -16,6 +16,11 @@
     "input_file": "orion/pochod_svatych.txt",
     "bpm": 103
   },
+  "kdyz_svati_pochoduji": {
+    "title": "Když svatí pochodují",
+    "input_file": "svatba/kdyz_svati_pochoduji.txt",
+    "bpm": 145
+  },
   "hvezdy_nad_brnem": {
     "title": "Hvězdy nad Brnem",
     "input_file": "mix/hvezdy_nad_brnem.txt",
@@ -359,5 +364,9 @@
     "title": "On The Sunny Side Of The Street",
     "input_file": "jazz/on_the_sunny.txt",
     "bpm": 120
+  },
+  "mile": {
+    "title": "Míle",
+    "input_file": "svatba/mile.txt"
   }
 }
