@@ -25,6 +25,9 @@ songs:
   - name: wine_and_roses
     key: F
     note: instrumental
+  - name: kdyz_jsem_ja_byl_tenkrat_kluk
+    key: Dm
+    note: Zpěv Filip
   - name: mackie_messer
     key: B
     note: Zpěv Filip

@@ -409,5 +409,9 @@
   "rnr_pro_beethovena": {
     "title": "Rock'n'roll pro Beethovena",
     "input_file": "svatba/rnr_pro_beethovena.txt"
+  },
+  "kdyz_jsem_ja_byl_tenkrat_kluk": {
+    "title": "Když jsem já byl tenkrát kluk",
+    "input_file": "svatba/kdyz_jsem_ja_byl_tenkrat_kluk.txt"
   }
 }
