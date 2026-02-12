@@ -16,6 +16,9 @@ songs:
   - name: jednou_mi_fotr_povida
     key: E
     note: Zpěv Filip
+  - name: angie
+    key: C
+    note: Zpěv Filip
   - name: on_the_sunny
     key: C
     note: Zpěv Filip
