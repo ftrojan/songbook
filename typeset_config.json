@@ -426,5 +426,13 @@
   "stand_by_me": {
     "title": "Stand By Me",
     "input_file": "svatba/stand_by_me.txt"
+  },
+  "na_nebi_sviti": {
+    "title": "Na nebi svítí",
+    "input_file": "svatba/na_nebi_sviti.txt"
+  },
+  "bridge": {
+    "title": "Bridge Over Troubled Water",
+    "input_file": "svatba/bridge_over_troubled_water.txt"
   }
 }
