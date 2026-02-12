@@ -7,11 +7,11 @@ songs:
   - name: mival_jsem_klobouk
     key: B
     note: Zpěv Filip
-  - name: mackie_messer
-    key: B
-    note: Zpěv Filip
   - name: trochu_v_hlave_mam
     key: G
+    note: Zpěv Filip
+  - name: mackie_messer
+    key: B
     note: Zpěv Filip
   - name: jednou_mi_fotr_povida
     key: E
@@ -52,6 +52,9 @@ songs:
   - name: all_of_me
     key: C
     note: Zpěv Filip
+  - name: hallelujah
+    key: C
+    note: Zpěv Filip + Petr
   - name: shadow
     key: G
     note: Zpěv Petr

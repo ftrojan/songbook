@@ -372,5 +372,10 @@
   "angie": {
     "title": "Angie",
     "input_file": "svatba/angie.txt"
+  },
+  "hallelujah": {
+    "title": "Hallelujah",
+    "input_file": "svatba/hallelujah.txt",
+    "split_lines": [42, 86]
   }
 }
