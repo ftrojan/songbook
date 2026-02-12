@@ -382,5 +382,10 @@
     "title": "Morning Has Broken",
     "input_file": "svatba/morning_has_broken.txt",
     "split_lines": [43]
+  },
+  "sunday_morning": {
+    "title": "Sunday Morning",
+    "input_file": "svatba/sunday_morning.txt",
+    "split_lines": [43]
   }
 }

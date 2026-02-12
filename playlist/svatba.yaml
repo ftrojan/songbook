@@ -16,6 +16,9 @@ songs:
   - name: night_and_day
     key: Eb
     note: Zpěv Filip
+  - name: sunday_morning
+    key: F
+    note: Zpěv Petr
   - name: mackie_messer
     key: B
     note: Zpěv Filip
