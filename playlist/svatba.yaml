@@ -31,6 +31,9 @@ songs:
   - name: jednou_mi_fotr_povida
     key: E
     note: Zpěv Filip
+  - name: blue_bossa
+    key: Cm
+    note: instrumental
   - name: angie
     key: C
     note: Zpěv Filip

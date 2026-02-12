@@ -401,5 +401,9 @@
   "wine_and_roses": {
     "title": "The Days Of Wine And Roses",
     "input_file": "svatba/wine_and_roses.txt"
+  },
+  "blue_bossa": {
+    "title": "Blue Bossa",
+    "input_file": "jazz/blue_bossa.txt"
   }
 }
