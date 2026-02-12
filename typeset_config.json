@@ -391,5 +391,9 @@
   "over_the_rainbow": {
     "title": "Somewhere Over The Rainbow",
     "input_file": "svatba/over_the_rainbow.txt"
+  },
+  "wine_and_roses": {
+    "title": "The Days Of Wine And Roses",
+    "input_file": "svatba/wine_and_roses.txt"
   }
 }

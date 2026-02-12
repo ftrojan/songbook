@@ -22,6 +22,9 @@ songs:
   - name: over_the_rainbow
     key: Eb
     note: Zpěv Petr
+  - name: wine_and_roses
+    key: F
+    note: instrumental
   - name: mackie_messer
     key: B
     note: Zpěv Filip
