@@ -413,5 +413,9 @@
   "kdyz_jsem_ja_byl_tenkrat_kluk": {
     "title": "Když jsem já byl tenkrát kluk",
     "input_file": "svatba/kdyz_jsem_ja_byl_tenkrat_kluk.txt"
+  },
+  "divka_ze_severu": {
+    "title": "Dívka ze severu",
+    "input_file": "svatba/divka_ze_severu.txt"
   }
 }

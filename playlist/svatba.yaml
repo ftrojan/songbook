@@ -47,7 +47,22 @@ songs:
   - name: angie
     key: C
     note: Zpěv Filip
+  - name: divka_ze_severu
+    key: G
+    note: Zpěv Filip
+  - name: hallelujah
+    key: C
+    note: Zpěv Filip + Petr
+  - name: shadow
+    key: G
+    note: Zpěv Petr
   - name: on_the_sunny
+    key: C
+    note: Zpěv Filip
+  - name: you_dont_know_me
+    key: Eb
+    note: Zpěv Filip
+  - name: starej_pan
     key: C
     note: Zpěv Filip
   - name: my_way
@@ -71,18 +86,9 @@ songs:
   - name: l_o_v_e
     key: G
     note: Zpěv Filip
-  - name: starej_pan
-    key: C
-    note: Zpěv Filip
   - name: all_of_me
     key: C
     note: Zpěv Filip
-  - name: hallelujah
-    key: C
-    note: Zpěv Filip + Petr
-  - name: shadow
-    key: G
-    note: Zpěv Petr
   - name: softly
     key: Cm
     note: Zpěv Filip
@@ -100,9 +106,6 @@ songs:
     note: Zpěv Filip
   - name: zivot_je_jen_nahoda
     key: C
-    note: Zpěv Filip
-  - name: you_dont_know_me
-    key: Eb
     note: Zpěv Filip
   - name: fly_me_to_the_moon
     key: Hm
