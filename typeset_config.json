@@ -377,5 +377,10 @@
     "title": "Hallelujah",
     "input_file": "svatba/hallelujah.txt",
     "split_lines": [42, 86]
+  },
+  "morning_has_broken": {
+    "title": "Morning Has Broken",
+    "input_file": "svatba/morning_has_broken.txt",
+    "split_lines": [43]
   }
 }

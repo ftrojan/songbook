@@ -10,6 +10,12 @@ songs:
   - name: trochu_v_hlave_mam
     key: G
     note: Zpěv Filip
+  - name: morning_has_broken
+    key: C
+    note: Zpěv Filip
+  - name: night_and_day
+    key: Eb
+    note: Zpěv Filip
   - name: mackie_messer
     key: B
     note: Zpěv Filip
