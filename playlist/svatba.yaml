@@ -56,6 +56,9 @@ songs:
   - name: shadow
     key: G
     note: Zpěv Petr
+  - name: jeste_jedno_kafe
+    key: Gm
+    note: Zpěv Filip
   - name: on_the_sunny
     key: C
     note: Zpěv Filip

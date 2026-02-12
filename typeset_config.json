@@ -417,5 +417,10 @@
   "divka_ze_severu": {
     "title": "Dívka ze severu",
     "input_file": "svatba/divka_ze_severu.txt"
+  },
+  "jeste_jedno_kafe": {
+    "title": "Ještě jedno kafe",
+    "input_file": "svatba/jeste_jedno_kafe.txt",
+    "split_lines": [40]
   }
 }
