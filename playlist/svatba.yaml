@@ -28,9 +28,16 @@ songs:
   - name: mackie_messer
     key: B
     note: Zpěv Filip
+  - name: vsichni_tancovat_jdou
+    key: C
+    note: Zpěv Filip
   - name: jednou_mi_fotr_povida
     key: E
     note: Zpěv Filip
+  - name: rnr_pro_beethovena
+    key: C
+    note: Zpěv Filip
+  - name: pause
   - name: blue_bossa
     key: Cm
     note: instrumental
@@ -54,9 +61,6 @@ songs:
     note: Zpěv Filip
   - name: summertime
     key: Dm
-    note: Zpěv Filip
-  - name: vsichni_tancovat_jdou
-    key: C
     note: Zpěv Filip
   - name: quando
     key: B

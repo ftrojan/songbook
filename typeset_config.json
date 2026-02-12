@@ -405,5 +405,9 @@
   "blue_bossa": {
     "title": "Blue Bossa",
     "input_file": "jazz/blue_bossa.txt"
+  },
+  "rnr_pro_beethovena": {
+    "title": "Rock'n'roll pro Beethovena",
+    "input_file": "svatba/rnr_pro_beethovena.txt"
   }
 }
