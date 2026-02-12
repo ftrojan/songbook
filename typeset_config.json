@@ -387,5 +387,9 @@
     "title": "Sunday Morning",
     "input_file": "svatba/sunday_morning.txt",
     "split_lines": [43]
+  },
+  "over_the_rainbow": {
+    "title": "Somewhere Over The Rainbow",
+    "input_file": "svatba/over_the_rainbow.txt"
   }
 }

@@ -3,7 +3,7 @@ subtitle: Housina
 songs:
   - name: mile
     key: C
-    note: Zpěv Filip + Petr, kapo 5
+    note: Zpěv Filip + Petr, K5 + C
   - name: mival_jsem_klobouk
     key: B
     note: Zpěv Filip
@@ -18,6 +18,9 @@ songs:
     note: Zpěv Filip
   - name: sunday_morning
     key: F
+    note: Zpěv Petr
+  - name: over_the_rainbow
+    key: Eb
     note: Zpěv Petr
   - name: mackie_messer
     key: B
@@ -92,5 +95,8 @@ songs:
     key: Hm
     note: Zpěv Filip
   - name: kdyz_svati_pochoduji
+    key: F
+    note: Zpěv Filip
+  - name: ipanema
     key: F
     note: Zpěv Filip
