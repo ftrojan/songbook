@@ -68,6 +68,9 @@ songs:
   - name: starej_pan
     key: C
     note: Zpěv Filip
+  - name: stand_by_me
+    key: G
+    note: Zpěv Filip
   - name: my_way
     key: D
     note: Zpěv Filip

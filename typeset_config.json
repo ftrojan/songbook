@@ -422,5 +422,9 @@
     "title": "Ještě jedno kafe",
     "input_file": "svatba/jeste_jedno_kafe.txt",
     "split_lines": [40]
+  },
+  "stand_by_me": {
+    "title": "Stand By Me",
+    "input_file": "svatba/stand_by_me.txt"
   }
 }
