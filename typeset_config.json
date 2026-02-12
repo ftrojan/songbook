@@ -84,6 +84,12 @@
     "split_lines": [34],
     "bpm": 170
   },
+  "mival_jsem_klobouk_v2": {
+    "title": "Míval jsem klobouk",
+    "input_file": "svatba/mival_jsem_klobouk.txt",
+    "split_lines": [44],
+    "bpm": 170
+  },
   "uz_davno_nejsem_dite": {
     "title": "Už dávno nejsem dítě",
     "input_file": "orion/uz_davno_nejsem_dite.txt",

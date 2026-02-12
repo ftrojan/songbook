@@ -1,36 +1,6 @@
-Intro Milan 8 taktů (definuje tempo, pořádný frčák).
-AB trubka
-C housle (refrén)
-B trubka + housle
-ABCB zpěv
-AB kytara Petr
-CB kytara Petr + housle
-
 [intro]
 B Hdim Cm F7
 B Hdim Cm F7
-
-[solo trubka - A]
-B Hdim Cm F7
-B B    G7
-Cm    F7
-Cm    F7   B Hdim Cm F7
-
-[solo trubka - B]
-B Hdim Cm F7
-B B    G7
-Cm    F7
-Cm    F7   B Eb B
-
-[chorus housle - C]
-Dm       G7
-Gm7 A7   Dm
-G7        C7   F7
-
-[solo trubka + housle - B]
-B  Hdim  Cm F7
-B  B     G7
-Cm F7 Cm F7 B Eb B
 
 [verse 1 - A]
 B  Hdim      Cm   F7
@@ -72,4 +42,24 @@ ten klobouk tak to bych byl rád
     Cm    F7   B Eb B
 si můžete ponechat
 
-[solo kytara + housle A B C B]
+[solo A B]
+
+[chorus - C]
+Dm
+Jenomže když se večer stmívá
+                       G7
+a šedé stíny plynou v dál
+Gm7          A7         Dm
+     na tebe myslím a vzpomínám
+G7                    C7            F7
+   na vítr, který mi šedý klobouk vzal
+
+[verse 3 - B]
+B   Hdim  Cm  F7
+Kdybyste našli
+      B                      G7
+ten klobouk tak to bych byl rád
+    Cm      F7
+ Tu dívenku však
+    Cm    F7   B Eb B
+si můžete ponechat
