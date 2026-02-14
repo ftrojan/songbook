@@ -1,5 +1,5 @@
 [Intro in C, piano]
-D    G    A    F#   Bm   G7   C    F    C
+D    G    A    F#   Hm   G7   C    F    C
 
 [Verse 1 in C, piano + guitar]
             C   Dm  G              F   C
@@ -25,20 +25,20 @@ G         C       F    G              C
 Sprung in completeness where his feet pass
 
 [Instrumental - rise from C to D, piano]
-F    G    E    Am   F#   Bm   G    D    A7/D   D
+F    G    E    Am   F#   Hm   G    D    A7/D   D
 
 [Verse 3 in D, piano + guitar]
             D   Em    A           G   D
 Mine is the sunlight, mine is the morning
-D           F#m Bm     E        A   A
+D           F#m Hm     E        A   A
 Born of the one light, Eden saw play
-D           G  G     D            Bm  E
+D           G  G     D            Hm  E
 Praise with elation, praise every morning
 A          D G    A          D
 God's recrea-tion of the new day
 
 [Instrumental - drop from D to C, piano]
-G    A    F#   Bm   G7   C    F    C
+G    A    F#   Hm   G7   C    F    C
 
 [Verse 4 in C, piano + guitar]
             C   Dm  G              F   C
@@ -51,4 +51,4 @@ G               C     F   G              C
 Praise for them springing fresh from the word
 
 [Outro - rise from C to D, piano]
-F    G    E    Am   F#   Bm   G    D    A7/D    D
+F    G    E    Am   F#   Hm   G    D    A7/D    D
