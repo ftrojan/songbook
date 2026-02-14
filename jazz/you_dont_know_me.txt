@@ -1,4 +1,4 @@
-D# = kapo 1 + D = kapo 3 + C
+D# = kapo 3 + C
 
 [Intro]
 C C/G E7 Am D7 Dm7 G7
