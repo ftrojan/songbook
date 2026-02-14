@@ -2,6 +2,7 @@
 B  Cm  F   B
 Gm Cm  F   B
 
+[Verse 1 in B]
         B          Cm
 Žralok zuby má jak nože
           F           B
@@ -11,42 +12,47 @@ Mackie Messer, ach můj bože,
        F            B
 kdo dokáže, že je vrah.
 
+[Verse 2 in B]
        B         Cm
 Na nábřeží řeky Temže
         F         B
 leckdo život dokonal,
          Gm          Cm
 mor tam nebyl, víme jenže,
-        F              B  F#
+        F              B    Gb
 Mackie Messer blízko stál.
 
-         H            C#m
+[Verse 3 in H]
+         H            Dbm
 Jednou zmizel chudák Majer,
-       F#          H
+       Gb          H
 jindy boháč Miler zas,
-          G#           C#m
+          Abm          Dbm
 Mackie s hůlkou jako frajer,
-      F#             H   G
+      Gb             H     G
 obcházel tam v onen čas.
 
+[Verse 4 in C]
        C            Dm
 Pěkná hůlka na procházku
         G              C
 a v té hůlce nůž je skryt,
         Am            Dm
 Mackie Messer vyhrál sázku,
-        G           C  G#
+        G           C    Ab
 nic mu nelze dosvědčit.
 
-         C#            D#m
+[Verse 5 in Db]
+         Db            Ebm
 Jednou změnil požár v Soho
-        G#             C#
+        Ab             Db
 půlnoc temnou v denní jas,
-      A#m          D#m
+      Bm          D#m
 podezřelých bylo mnoho,
-     G#             C  A
+     Ab             C  A
 ale Mackie zmizel včas.
 
+[Verse 6 in D]
        D          Em
 Jindy zase mladá žena
        A           D
@@ -56,11 +62,14 @@ probudí se zneuctěna,
         A               D   B
 Mackie jí však nechce znát.
 
+[solo in D]
+
+[Verse 7 in Eb]
         Eb          Fm
 Žralok zuby má jak nože
           B           Eb
 a z těch zubů čiší strach,
         Cm              Fm
 Mackie Messer, ach můj bože,
-       B                  Eb F# Eb F# Eb F# Eb
+       B                  Eb Gb Eb Gb Eb Gb Eb
 kdo dokáže,       že je vrah.

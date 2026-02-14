@@ -434,5 +434,9 @@
   "bridge": {
     "title": "Bridge Over Troubled Water",
     "input_file": "svatba/bridge_over_troubled_water.txt"
+  },
+  "svita": {
+    "title": "Svítá",
+    "input_file": "svatba/svita.txt"
   }
 }
