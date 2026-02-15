@@ -447,5 +447,45 @@
   "ezop": {
     "title": "Ezop a brabenec",
     "input_file": "svatba/ezop.txt"
+  },
+  "nebe_na_zemi": {
+    "title": "Nebe na zemi",
+    "input_file": "svatba/nebe_na_zemi.txt"
+  },
+  "honky_tonky_blues": {
+    "title": "Honky tonky blues",
+    "input_file": "svatba/honky_tonky_blues.txt"
+  },
+  "par_havranich_copanku": {
+    "title": "Pár havraních copánků",
+    "input_file": "svatba/par_havranich_copanku.txt"
+  },
+  "ja_budu_chodit_po_spickach": {
+    "title": "Já budu chodit po špičkách",
+    "input_file": "svatba/ja_budu_chodit_po_spickach.txt"
+  },
+  "perfect_day": {
+    "title": "Perfect day",
+    "input_file": "svatba/perfect_day.txt"
+  },
+  "sbohem_galanecko": {
+    "title": "Sbohem galánečko",
+    "input_file": "svatba/sbohem_galanecko.txt"
+  },
+  "sbohem_lasko": {
+    "title": "Sbohem lásko",
+    "input_file": "svatba/sbohem_lasko.txt"
+  },
+  "ruze_z_texasu": {
+    "title": "Růže Z Texasu",
+    "input_file": "svatba/ruze_z_texasu.txt"
+  },
+  "yesterday": {
+    "title": "Yesterday",
+    "input_file": "svatba/yesterday.txt"
+  },
+  "mezi_horami": {
+    "title": "Mezi horami",
+    "input_file": "svatba/mezi_horami.txt"
   }
 }
