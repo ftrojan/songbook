@@ -487,5 +487,40 @@
   "mezi_horami": {
     "title": "Mezi horami",
     "input_file": "svatba/mezi_horami.txt"
+  },
+  "tota_helpa": {
+    "title": "Tota Heľpa",
+    "input_file": "svatba/tota_helpa.txt"
+  },
+  "pada_pada_rosenka": {
+    "title": "Padá padá rosenka",
+    "input_file": "svatba/pada_pada_rosenka.txt"
+  },
+  "mas_chut_majoranky": {
+    "title": "Máš chuť majoránky",
+    "input_file": "svatba/mas_chut_majoranky.txt"
+  },
+  "kavu_si_osladim": {
+    "title": "Kávu si osladím",
+    "input_file": "svatba/kavu_si_osladim.txt"
+  },
+  "srouby_do_hlavy": {
+    "title": "Šrouby Do Hlavy",
+    "input_file": "svatba/srouby_do_hlavy.txt"
+  },
+  "amerika": {
+    "title": "Amerika (Lucie)",
+    "input_file": "svatba/amerika.txt",
+    "bpm": 80
+  },
+  "sen": {
+    "title": "Sen (Lucie)",
+    "input_file": "svatba/sen.txt",
+    "bpm": 95
+  },
+  "cesta_muze_byt_cil": {
+    "title": "I Cesta Může Být Cíl",
+    "input_file": "svatba/cesta_muze_byt_cil.txt",
+    "bpm": 95
   }
 }

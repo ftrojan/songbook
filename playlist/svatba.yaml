@@ -171,10 +171,34 @@ songs:
     note: Zpěv Filip
   - name: ruze_z_texasu
     key: C
-    note: Zpěv Filip
+    note: Zpěv Petr + Filip
   - name: yesterday
     key: F
     note: Zpěv Filip
   - name: mezi_horami
     key: Gm
+    note: Zpěv Filip
+  - name: tota_helpa
+    key: Em
+    note: Zpěv Filip
+  - name: pada_pada_rosenka
+    key: D
+    note: Zpěv Filip
+  - name: mas_chut_majoranky
+    key: F
+    note: Zpěv Filip
+  - name: kavu_si_osladim
+    key: E
+    note: Zpěv Filip
+  - name: srouby_do_hlavy
+    key: Hm
+    note: Zpěv Filip
+  - name: amerika
+    key: G
+    note: Zpěv Filip
+  - name: sen
+    key: E
+    note: Zpěv Filip
+  - name: cesta_muze_byt_cil
+    key: F
     note: Zpěv Filip
