@@ -202,3 +202,15 @@ songs:
   - name: cesta_muze_byt_cil
     key: F
     note: Zpěv Filip
+  - name: vlakem_na_kolin
+    key: F
+    note: Zpěv Petr
+  - name: memphis_blues_again
+    key: C
+    note: Zpěv Petr
+  - name: tresne_zraly
+    key: G
+    note: Zpěv Filip + Petr
+  - name: ved_me_dal_cesto_ma
+    key: C
+    note: Zpěv Filip + Petr

@@ -522,5 +522,23 @@
     "title": "I Cesta Může Být Cíl",
     "input_file": "svatba/cesta_muze_byt_cil.txt",
     "bpm": 95
+  },
+  "vlakem_na_kolin": {
+    "title": "Vlakem Na Kolín",
+    "input_file": "svatba/vlakem_na_kolin.txt"
+  },
+  "memphis_blues_again": {
+    "title": "Memphis Blues Again",
+    "input_file": "svatba/memphis_blues_again.txt"
+  },
+  "tresne_zraly": {
+    "title": "Jó třešně zrály",
+    "input_file": "svatba/tresne_zraly.txt",
+    "bpm": 143
+  },
+  "ved_me_dal_cesto_ma": {
+    "title": "Veď Mě Dál Cesto Má",
+    "input_file": "svatba/ved_me_dal_cesto_ma.txt",
+    "bpm": 180
   }
 }
