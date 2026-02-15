@@ -443,5 +443,9 @@
   "svita": {
     "title": "Svítá",
     "input_file": "svatba/svita.txt"
+  },
+  "ezop": {
+    "title": "Ezop a brabenec",
+    "input_file": "svatba/ezop.txt"
   }
 }
