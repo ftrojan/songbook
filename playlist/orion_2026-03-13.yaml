@@ -41,12 +41,12 @@ songs:
   - name: ill_see_you
     key: F
     note: instrumental
-  - name: to_bude_asi_tim
+  - name: on_the_sunny
+    key: C
+    note: Zpěv Filip
+  - name: hvezdy_nad_brnem
     key: B
-    note: Zpěv Milan + Filip
-  - name: uz_davno_nejsem_dite
-    key: B
-    note: Zpěv Milan
+    note: Zpěv Filip
   - name: ceresne
     key: Am
     note: Zpěv Martina
