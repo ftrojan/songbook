@@ -1,11 +1,8 @@
-Intro dva takty Petr kytara (definuje rytmus).
-A zpěv, do slok nástroje klídek, půlové dlouhé noty,
-B zpěv, výrazná změna: 1/4 noty, přidají se housle.
-  v posledních 2 taktech refrenu rozvolňovat, i sóla.
+Intro dva takty Filip kytara (definuje rytmus).
+A B housle
+A B zpěv
 A kytara
 B zpěv
-AB solo housle
-AB solo kytara
 
 [intro]
 Gm D7 Gm
@@ -29,13 +26,3 @@ And soon I'll hear old winter song
 But i miss you most of all my darling
 Cm          D7              Gm
 When autumn leaves start to fall
-
-[solo housle - A]
-
-[chorus - B]
-Since you went away the days grow long
-And soon I'll hear old winter song
-But i miss you most of all my darling
-When autumn leaves start to fall
-
-[solo trubka A]
