@@ -2,8 +2,8 @@ title: Svatba 2026-04-25
 subtitle: Housina
 songs:
   - name: mile
-    key: C
-    note: Zpěv Filip + Petr, K5 + C
+    key: F
+    note: Zpěv Filip + Petr
   - name: mival_jsem_klobouk_v2
     key: B
     note: Zpěv Filip
@@ -11,7 +11,7 @@ songs:
     key: G
     note: Zpěv Filip
   - name: morning_has_broken
-    key: C
+    key: CDC
     note: Zpěv Filip
   - name: night_and_day
     key: Eb
@@ -145,9 +145,6 @@ songs:
   - name: honky_tonky_blues
     key: F
     note: Zpěv Filip
-  - name: par_havranich_copanku
-    key: G
-    note: Zpěv Filip
   - name: ja_budu_chodit_po_spickach
     key: A
     note: Zpěv Filip
@@ -183,12 +180,6 @@ songs:
     note: Zpěv Filip
   - name: pada_pada_rosenka
     key: D
-    note: Zpěv Filip
-  - name: mas_chut_majoranky
-    key: F
-    note: Zpěv Filip
-  - name: kavu_si_osladim
-    key: E
     note: Zpěv Filip
   - name: srouby_do_hlavy
     key: Hm

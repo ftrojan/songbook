@@ -1,26 +1,26 @@
 předehra
-C D G Em C D G
+B B F Dm B B F
 
-    G      C         G            G
+    F      B         F            F
 1. Míle a míle jsou cest, které znám,
-        G        C        G
+        F        B        F
    jdou trávou i úbočím skal,
-   G           C       G          Em
+   F           B       F          Dm
    jsou cesty zpátky a jsou cesty tam,
-      G             C    D
+      F             B    D
    a já na všech s vámi stál,
-    G         C          G
+    F         B          F
    proč ale blátem nás kázali vést
-      G         C        D
+      F         B        D
    a špínou si třísnili šat?
 
 Všichni zpěv
-       C           D      G     G/F# Em
+       B           C      F     F/F# Dm
 R: To ví snad jen déšť a vítr kolem nás,
-        C        D           G
+        B        C           F
    ten vítr, co začal právě vát.
 
-C D G C D G
+B C F B C F
 
 2. Míle a míle se táhnou těch cest
    a dál po nich zástupy jdou,
@@ -38,9 +38,9 @@ R: To ví….
    proč jen se účel tak rád mění v bič
    a proč že se má člověk bát.
 
-       C           D      G      G/F# Em
+       B           C      F      F/E Dm
 R: To ví snad jen déšť a vítr kolem nás,
-        C        D           G  C D G G/F# Em
+        B        C           F  B C F F/E Dm
    ten vítr, co začal právě vát.
-        C        D           G
+        B        C           F
    ten vítr, co začal právě vát.
