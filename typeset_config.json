@@ -98,7 +98,8 @@
   "l_o_v_e": {
     "title": "L-O-V-E",
     "input_file": "jazz/l_o_v_e.txt",
-    "split_lines": [29]
+    "split_lines": [29],
+    "bpm": 130
   },
   "blues_na_cestu_posledni": {
     "title": "Blues na cestu poslední",
@@ -113,7 +114,7 @@
   "blueberry_hill": {
     "title": "Blueberry Hill",
     "input_file": "jazz/blueberry_hill.txt",
-    "bpm": 80,
+    "bpm": 85,
     "split_lines": [42]
   },
   "wonderful_world": {
@@ -369,12 +370,12 @@
   "sweet_georgia_brown": {
     "title": "Sweet Georgia Brown",
     "input_file": "jazz/sweet_georgia_brown.txt",
-    "bpm": 215
+    "bpm": 200
   },
   "on_the_sunny": {
     "title": "On The Sunny Side Of The Street",
     "input_file": "jazz/on_the_sunny.txt",
-    "bpm": 120
+    "bpm": 112
   },
   "mile": {
     "title": "Míle",
@@ -540,5 +541,10 @@
     "title": "Veď Mě Dál Cesto Má",
     "input_file": "svatba/ved_me_dal_cesto_ma.txt",
     "bpm": 180
+  },
+  "caravan": {
+    "title": "Caravan",
+    "input_file": "jazz/caravan.txt",
+    "bpm": 200
   }
 }

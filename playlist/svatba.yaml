@@ -153,7 +153,7 @@ songs:
     note: Zpěv Filip
   - name: perfect_day
     key: Bm
-    note: Zpěv Petr
+    note: Zpěv Filip
   - name: sbohem_galanecko
     key: G
     note: Zpěv Filip
@@ -176,11 +176,11 @@ songs:
     key: Gm
     note: Zpěv Filip
   - name: tota_helpa
-    key: Em
+    key: Cm
     note: Zpěv Filip
   - name: pada_pada_rosenka
     key: D
-    note: Zpěv Filip
+    note: Zpěv Filip, moravska varianta
   - name: srouby_do_hlavy
     key: Hm
     note: Zpěv Filip
