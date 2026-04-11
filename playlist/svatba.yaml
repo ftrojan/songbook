@@ -1,6 +1,9 @@
 title: Svatba 2026-04-25
 subtitle: Housina
 songs:
+  - name: tennessie_waltz
+    key: B
+    note: Zpěv Filip
   - name: mile
     key: F
     note: Zpěv Filip + Petr
@@ -12,9 +15,6 @@ songs:
     note: Zpěv Filip
   - name: morning_has_broken
     key: CDC
-    note: Zpěv Filip
-  - name: night_and_day
-    key: Eb
     note: Zpěv Filip
   - name: sunday_morning
     key: F
@@ -81,8 +81,14 @@ songs:
   - name: on_the_sunny
     key: C
     note: Zpěv Filip
+  - name: moon_river
+    key: D
+    note: Zpěv Filip
   - name: raindrops
     key: F
+    note: Zpěv Filip
+  - name: night_and_day
+    key: Eb
     note: Zpěv Filip
   - name: quando
     key: B

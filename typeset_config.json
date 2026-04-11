@@ -546,5 +546,13 @@
     "title": "Caravan",
     "input_file": "jazz/caravan.txt",
     "bpm": 200
+  },
+  "tennessie_waltz": {
+    "title": "Tennessie Waltz",
+    "input_file": "svatba/tennessie_waltz.txt"
+  },
+  "moon_river": {
+    "title": "Moon River",
+    "input_file": "svatba/moon_river.txt"
   }
 }
