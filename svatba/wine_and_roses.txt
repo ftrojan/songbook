@@ -1,23 +1,41 @@
-[Verse]
-    Fmaj Eb7          Am7  D7
+[Verse 1 - A]
+    Fmaj Eb7             Am7      D7
 The  days, of wine and  ro – ses,
           Gm        Gm7        Eb9
 Laugh and run away,     like a child, at play,
-            Am7    Am      Dm    Dm7     Gm
+            Am7    Am      Dm    Dm7      Gm
 Through the meadow land toward a closing door,
-  Em7b5 A7b9            Dm7   G7
+  Em7b5 A7b9             Dm7    G7
 A door marked nev - er - more,
-      Gm7            C7
+                     Gm7   C7
 that wasn't there before.
 
-[Verse]
-     Fmaj  Eb7          Am7      D7
+[Verse 2 - B]
+     Fmaj      Eb7           Am7       D7
 The lone - ly  night, dis - clo – ses,
-     Gm              Gm7             Eb9
+       Gm              Gm7             Eb9
 Just a passing breeze,    filled with memories,
-       Am7               Dm                  Bm7b5 E7b9
-Of the golden smile that in - tro - duced me to,
-    Am      Dm7      Gm7  E7
-The days of wine and roses,
+       Am7               Dm             Bm7b5   E7b9
+Of the golden smile that introduced me to-o-o-o-o-o-o-o,
+    Am      Dm7      Gm7    C7      Fmaj7
+The days of wine and roses      and you.
+
+[solo - A]
+Fmaj        Eb7       Am7       D7
+Gm          Gm7       Eb9       Eb9
+Am7         Dm7       Gm7       Em7b5 A7b9
+Dm7         G7        Gm7       C7
+
+[Verse 2 - B]
+     Fmaj      Eb7           Am7       D7
+The lone - ly  night, dis - clo – ses,
+       Gm              Gm7             Eb9
+Just a passing breeze,    filled with memories,
+       Am7               Dm             Bm7b5   E7b9
+Of the golden smile that introduced me to-o-o-o-o-o-o-o,
+    Am      Dm7      Gm7    C7
+the days of wine and roses
+    Am      Dm7      Gm7    C7
+the days of wine and roses
 Am           Dm7     Gm7    C7      Fmaj7
 the days of wine and roses      and you.

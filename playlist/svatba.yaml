@@ -10,17 +10,14 @@ songs:
   - name: mival_jsem_klobouk_v2
     key: B
     note: Zpěv Filip
-  - name: trochu_v_hlave_mam_m
-    key: G
+  - name: praminek_vlasu
+    key: F
     note: Zpěv Filip
   - name: morning_has_broken
     key: CDC
     note: Zpěv Filip
   - name: sunday_morning
     key: F
-    note: Zpěv Petr
-  - name: over_the_rainbow
-    key: Eb
     note: Zpěv Petr
   - name: wine_and_roses
     key: F
@@ -47,15 +44,15 @@ songs:
   - name: angie
     key: C
     note: Zpěv Filip
-  - name: divka_ze_severu
-    key: G
-    note: Zpěv Filip
   - name: hallelujah
     key: C
     note: Zpěv Filip + Petr
   - name: shadow
     key: G
     note: Zpěv Petr
+  - name: trochu_v_hlave_mam_m
+    key: G
+    note: Zpěv Filip
   - name: jeste_jedno_kafe
     key: Gm
     note: Zpěv Filip
@@ -115,9 +112,9 @@ songs:
   - name: blueberry_hill
     key: F
     note: Zpěv Filip
-  - name: praminek_vlasu
-    key: F
-    note: Zpěv Filip
+  - name: over_the_rainbow
+    key: Eb
+    note: instrumental
   - name: summertime
     key: Dm
     note: Zpěv Filip
@@ -126,6 +123,9 @@ songs:
     note: Zpěv Filip
   - name: klobouk_ve_krovi
     key: C
+    note: Zpěv Filip
+  - name: divka_ze_severu
+    key: G
     note: Zpěv Filip
   - name: sedavam_m
     key: F
