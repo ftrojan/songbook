@@ -203,6 +203,9 @@ songs:
   - name: vlakem_na_kolin
     key: A
     note: Zpěv Petr
+  - name: watchtower
+    key: Cm
+    note: Zpěv Petr
   - name: memphis_blues_again
     key: D
     note: Zpěv Petr

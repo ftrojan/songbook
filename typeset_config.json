@@ -558,5 +558,9 @@
   "cekej_tise": {
     "title": "Čekej tiše",
     "input_file": "svatba/cekej_tise.txt"
+  },
+  "watchtower": {
+    "title": "All Along the Watchtower",
+    "input_file": "svatba/all_along_the_watchtower.txt"
   }
 }
