@@ -47,7 +47,7 @@ songs:
   - name: hallelujah
     key: C
     note: Zpěv Filip + Petr
-  - name: shadow
+  - name: shadow_petr
     key: G
     note: Zpěv Petr
   - name: trochu_v_hlave_mam_m
@@ -103,15 +103,12 @@ songs:
     key: F
     note: Zpěv Filip
   - name: pause
-  - name: all_of_me
-    key: C
+  - name: l_o_v_e
+    key: G
     note: Zpěv Filip
   - name: autumn_leaves
     key: Gm
     note: instrumental
-  - name: wonderful_world
-    key: F
-    note: Zpěv Filip
   - name: blueberry_hill
     key: F
     note: Zpěv Filip
@@ -120,9 +117,6 @@ songs:
     note: instrumental
   - name: summertime
     key: Dm
-    note: Zpěv Filip
-  - name: l_o_v_e
-    key: G
     note: Zpěv Filip
   - name: klobouk_ve_krovi
     key: C
@@ -171,6 +165,9 @@ songs:
     key: D
     note: Zpěv Filip
   - name: dream_a_little_dream
+    key: F
+    note: Zpěv Filip
+  - name: wonderful_world
     key: F
     note: Zpěv Filip
   - name: ruze_z_texasu

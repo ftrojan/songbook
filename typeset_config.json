@@ -273,6 +273,11 @@
     "input_file": "jazz/shadow.txt",
     "bpm": 95
   },
+  "shadow_petr": {
+    "title": "The Shadow Of Your Smile",
+    "input_file": "svatba/shadow_petr.txt",
+    "bpm": 95
+  },
   "new_york": {
     "title": "New York",
     "input_file": "musical/new_york.txt"
