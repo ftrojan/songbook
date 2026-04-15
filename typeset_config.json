@@ -554,5 +554,9 @@
   "moon_river": {
     "title": "Moon River",
     "input_file": "svatba/moon_river.txt"
+  },
+  "cekej_tise": {
+    "title": "Čekej tiše",
+    "input_file": "svatba/cekej_tise.txt"
   }
 }

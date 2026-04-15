@@ -8,6 +8,7 @@ from typeset.utils import FPDF, font_name, typeset_body, get_body, get_profile, 
 @dataclass
 class SongInPlaylist:
 
+    block: int
     order: int
     name: str
     key: str | None
@@ -19,10 +20,11 @@ class SongInPlaylist:
     profile: dict
 
     @classmethod
-    def from_dict(cls, order: int, d: dict) -> "SongInPlaylist":
+    def from_dict(cls, block: int, order: int, d: dict) -> "SongInPlaylist":
         name = d["name"]
         profile = get_profile(name)
         x = cls(
+            block=block,
             order=order,
             name=d["name"],
             key=d.get("key", None),
@@ -75,14 +77,16 @@ def get_playlist(name: str) -> Playlist:
     input_filename = os.path.join("playlist", f"{name}.yaml")
     with open(input_filename, "r") as fp:
         data = yaml.load(fp, Loader=yaml.SafeLoader)
+    block = 1
     order = 0
     items = []
     for s in data["songs"]:
         if s["name"] in ("pause", "end"):
             i = Divider.from_dict(s)
+            block += 1
         else:
             order += 1
-            i = SongInPlaylist.from_dict(order, s)
+            i = SongInPlaylist.from_dict(block, order, s)
         items.append(i)
     x = Playlist(
         name=name,
@@ -116,7 +120,8 @@ class PlaylistPDF(FPDF):
         if self.current_song is None and self.current_divider is None:
             self.cell(0, 10, text=self.p.title, border=0, align="L")
         elif self.current_song:
-            self.cell(0, 10, text=self.current_song.title, border=0, align="L")
+            header_text = f"#{self.current_song.order} {self.current_song.title}"
+            self.cell(0, 10, header_text, border=0, align="L")
             if self.current_song.key is not None:
                 self.set_font(font_name, style="I", size=16)
                 text = self.current_song.key
@@ -135,7 +140,10 @@ class PlaylistPDF(FPDF):
         self.set_y(-15)
         self.set_font(font_name, style="I", size=16)
         self.set_text_color(*base_color)
-        self.cell(0, 10, f"Page {self.page_no()}/{{nb}}", align="L")
+        footer_text = f"Page {self.page_no()}/{{nb}}"
+        if self.current_song is not None and isinstance(self.current_song, SongInPlaylist):
+            footer_text += f", blok {self.current_song.block}"
+        self.cell(0, 10, footer_text, align="L")
         if self.current_song is not None and self.current_song.order > 1:
             self.cell(0, 10, self.p.title, border=0, align="R")
 
@@ -152,7 +160,7 @@ def typeset_playlist(p: Playlist) -> None:
             pdf.add_page()
             pdf.set_font(family=font_name, style="B", size=16)
             pdf = typeset_body(pdf, get_body(s.input_file), s.split_lines)
-            create_pdf(s.name, s.profile)
+            create_pdf(s.name, s.profile)  # also update the standalone PDF
         elif isinstance(s, Divider):
             pdf.current_song = None
             pdf.current_divider = s

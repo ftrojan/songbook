@@ -1,4 +1,6 @@
-předehra
+sloka moll NE-ANO-NE
+
+předehra ala ref
 B B F Dm B B F
 
     F      B         F            F
@@ -20,6 +22,7 @@ R: To ví snad jen déšť a vítr kolem nás,
         B        C           F
    ten vítr, co začal právě vát.
 
+mezihra ala ref
 B C F B C F
 
 2. Míle a míle se táhnou těch cest
@@ -37,6 +40,7 @@ R: To ví….
    a zpívat a ptát se vás,
    proč jen se účel tak rád mění v bič
    a proč že se má člověk bát.
+
 
        B           C      F      F/E Dm
 R: To ví snad jen déšť a vítr kolem nás,

@@ -1,17 +1,17 @@
 title: Svatba 2026-04-25
 subtitle: Housina
 songs:
-  - name: tennessie_waltz
-    key: B
+  - name: cekej_tise
+    key: D
     note: Zpěv Filip
   - name: mile
     key: F
     note: Zpěv Filip + Petr
   - name: mival_jsem_klobouk_v2
     key: B
-    note: Zpěv Filip
-  - name: praminek_vlasu
-    key: F
+    note: Zpěv Filip, bez kytary
+  - name: ja_budu_chodit_po_spickach
+    key: A
     note: Zpěv Filip
   - name: morning_has_broken
     key: CDC
@@ -21,16 +21,16 @@ songs:
     note: Zpěv Petr
   - name: wine_and_roses
     key: F
-    note: instrumental
+    note: Zpěv Filip
   - name: kdyz_jsem_ja_byl_tenkrat_kluk
     key: Dm
-    note: Zpěv Filip
+    note: Zpěv Filip, bez kytary
   - name: mackie_messer
     key: B
-    note: Zpěv Filip
+    note: Zpěv Filip, bez kytary
   - name: vsichni_tancovat_jdou
     key: C
-    note: Zpěv Filip
+    note: Zpěv Filip, bez kytary
   - name: jednou_mi_fotr_povida
     key: E
     note: Zpěv Filip
@@ -55,6 +55,9 @@ songs:
     note: Zpěv Filip
   - name: jeste_jedno_kafe
     key: Gm
+    note: Zpěv Filip
+  - name: tennessie_waltz
+    key: B
     note: Zpěv Filip
   - name: you_dont_know_me
     key: Eb
@@ -148,11 +151,12 @@ songs:
   - name: nebe_na_zemi
     key: F
     note: Zpěv Filip
+  - name: pause
   - name: honky_tonky_blues
     key: F
     note: Zpěv Filip
-  - name: ja_budu_chodit_po_spickach
-    key: A
+  - name: praminek_vlasu
+    key: F
     note: Zpěv Filip
   - name: sway
     key: Gm
@@ -200,7 +204,7 @@ songs:
     key: F
     note: Zpěv Filip
   - name: vlakem_na_kolin
-    key: F
+    key: A
     note: Zpěv Petr
   - name: memphis_blues_again
     key: D

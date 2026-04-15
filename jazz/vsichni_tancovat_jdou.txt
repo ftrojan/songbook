@@ -1,33 +1,53 @@
-Don't Get Around Much Anymore
+Don't Get Around Much Anymore, Petr piano o ton vys
 
+[Intro] 1/2 sloky
+A7  Dm  G7  C6  G7
+
+[Verse 1 - A]
                    C6
 Všichni tancovat jdou
-                    A7
+                    C6 H7 B7 A7
 šel bych a nemám s kým
-                    D7   G7                     C6  G7
+                    Dm   G7                     C6  G7
 zkrátka všude mi scházíš, tak radši nikam nechodím
 
+[Verse 2 - B]
                     C6
 V partě kdekdo se ptá
-                   A7
+                   C6 H7 B7 A7
 proč Tě nevodím k nim
-                  D7  G7                    C6   Gm7 C7
+                  Dm  G7                    C6   Gm7 C7
 než to omlouvat frází, to radši nikam nechodím
 
+[Chorus - C]
  F6              Cmaj7         C7
 Mám něco hrát a dál lidem lhát,
        F        D9   Em7      Dm7         G7
 vždyť můj světabol       musí být na mně znát.
 
-solo
+[Verse 3 - A]
+               C6
+Psáno na čele mám
+                C6 H7 B7 A7
+písmem nesmytelným
+                  Dm   G7                      C6  G7
+jak mi zoufale scházíš,  tak radši nikam nechodím,
 
+[solo] A B
+
+[Chorus - C]
  F6              Cmaj7         C7
 Mám něco hrát a dál lidem lhát,
        F        Fdim7 Em7      Dm7         G7
 vždyť můj světabol       musí být na mně znát.
 
+[Verse 3 - A]
+               C6
 Psáno na čele mám
+                C6 H7 B7 A7
 písmem nesmytelným
-jak mi zoufale scházíš, tak radši nikam nechodím,
-tak radši nikam nechodím,
-tak radši nikam nechodím.
+                  Dm   G7                      C6  G7
+jak mi zoufale scházíš,  tak radši nikam nechodím,
+                  Dm   G7                      C6  G7
+jak mi zoufale scházíš,  tak radši nikam nechodím,
+                  Dm   G7                      C
