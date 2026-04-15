@@ -1,7 +1,7 @@
 sloka moll NE-ANO-NE
 
 předehra ala ref
-B B F Dm B B F
+F B C F Dm B C F
 
     F      B         F            F
 1. Míle a míle jsou cest, které znám,
@@ -9,21 +9,21 @@ B B F Dm B B F
    jdou trávou i úbočím skal,
    F           B       F          Dm
    jsou cesty zpátky a jsou cesty tam,
-      F             B    D
+      F             B    C
    a já na všech s vámi stál,
     F         B          F
    proč ale blátem nás kázali vést
-      F         B        D
+      F         B        C
    a špínou si třísnili šat?
 
 Všichni zpěv
-       B           C      F     F/F# Dm
+       B           C      F     F/E  Dm
 R: To ví snad jen déšť a vítr kolem nás,
         B        C           F
    ten vítr, co začal právě vát.
 
 mezihra ala ref
-B C F B C F
+F B C F Dm B C F
 
 2. Míle a míle se táhnou těch cest
    a dál po nich zástupy jdou,
