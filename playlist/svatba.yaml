@@ -19,8 +19,8 @@ songs:
   - name: sunday_morning
     key: F
     note: Zpěv Petr
-  - name: wine_and_roses
-    key: F
+  - name: sbohem_lasko
+    key: D
     note: Zpěv Filip
   - name: kdyz_jsem_ja_byl_tenkrat_kluk
     key: Dm
@@ -78,6 +78,9 @@ songs:
   - name: softly
     key: Cm
     note: Zpěv Filip
+  - name: wine_and_roses
+    key: F
+    note: Zpěv Filip
   - name: on_the_sunny
     key: C
     note: Zpěv Filip
@@ -95,9 +98,6 @@ songs:
     note: Zpěv Filip
   - name: blues_na_cestu_posledni
     key: B
-    note: Zpěv Filip
-  - name: my_way
-    key: D
     note: Zpěv Filip
   - name: kdyz_svati_pochoduji
     key: F
@@ -173,9 +173,6 @@ songs:
   - name: dream_a_little_dream
     key: F
     note: Zpěv Filip
-  - name: sbohem_lasko
-    key: D
-    note: Zpěv Filip
   - name: ruze_z_texasu
     key: C
     note: Zpěv Petr + Filip
@@ -215,3 +212,6 @@ songs:
   - name: ved_me_dal_cesto_ma
     key: C
     note: Zpěv Filip + Petr
+  - name: my_way
+    key: D
+    note: Zpěv Filip
