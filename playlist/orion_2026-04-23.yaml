@@ -4,15 +4,15 @@ songs:
   - name: aint_she_sweet
     key: B
     note: instrumental
-  - name: je_po_desti
-    key: C
-    note: Zpěv Martina
+  - name: sedavam_m
+    key: F
+    note: Zpěv Filip
   - name: l_o_v_e
     key: G,G#,B
     note: Zpěv Filip
-  - name: motyl
-    key: G#,B
-    note: Petr + Martina
+  - name: vsichni_tancovat_jdou
+    key: C
+    note: Zpěv Filip
   - name: starej_pan
     key: C
     note: Zpěv Filip
@@ -38,15 +38,15 @@ songs:
   - name: hvezdy_nad_brnem
     key: B
     note: Zpěv Filip
-  - name: ceresne
-    key: Am
-    note: Zpěv Martina
+  - name: praminek_vlasu
+    key: F
+    note: Zpěv Filip
   - name: sweet_georgia_brown
     key: Ab
     note: instrumental
-  - name: trochu_v_hlave_mam
-    key: D
-    note: Zpěv Martina
+  - name: trochu_v_hlave_mam_m
+    key: G
+    note: Zpěv Filip
   - name: raindrops
     key: F
     note: Zpěv Filip
@@ -57,9 +57,6 @@ songs:
     key: B
     note: Zpěv Filip
   - name: end
-  - name: sklipek
-    key: Gm
-    note: Zpěv Martina
   - name: zivot_je_jen_nahoda
     key: G
     note: všichni
