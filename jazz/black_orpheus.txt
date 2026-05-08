@@ -1,8 +1,8 @@
-Bmi = Kapo 1 + Ami, ABABAB
+Bm = Kapo 1 + Am, ABABAB
 
 [Intro]
-Ami Bdim7 E7  Ami Bdim7 E7
-Ami Bdim7 E7  Ami Bdim7 E7
+Bm Cm7b5 F7  Bm Cm7b5 F7
+Bm Cm7b5 F7  Bm Cm7b5 F7
 
 [Form A] - instrumental trumpeta
 
@@ -10,34 +10,34 @@ Ami Bdim7 E7  Ami Bdim7 E7
 
 [Form A]
 
-Ami          Bdim E7  Ami  Bdim E7
+Bm          Cm7b5 F7  Bm  Cm7b5 F7
 Manhã, tão bonita manhã
-        Ami    Dmi G7   Cmaj7 Hdim
+        Bm    Ebm7 Ab7   Dbmaj7 Fdim
 De um dia feliz que chegou
-         Dmi7       G7
+         Ebm7       Ab7
 O Sol no céu surgiu
-          Cmaj7       Fmaj7
+          Dbmaj7       Fmaj7
 E em cada cor brilhou
-          Bdim       E7
+          Cm7b5       F7
 Voltou o sonho então
-        Ami  Bdim E7
+        Bm  Cm7b5 F7
 Ao coração
 
 [Form B]
 
-Ami           Bdim E7 Ami Bdim E7
+Bm           Cm7b5 F7 Bm Cm7b5 F7
 Depois deste dia feliz
-     Edim        A7       Dmi  Bdim
+     Fdim        B7       Ebm7
 Não sei se outro dia haverá
-            E7            Ami  Fmaj7
+     Cm7b5  F7    Bm      Fmaj7
 É nossa manhã tão bela final
-    Bdim E7         Ami  Bdim E7
-Manhã      de carnaval
+    F7                  Bm  Cm7b5 F7
+Manhã (stopka) de carnaval
 
 [Outro]
-           Dmi7         Emi7
+           Ebm7         Fmi7
 Will true love come my way
-         Dmi7     Emi7
+         Ebm7     Fmi7
 On this Carnaval day
-        Fmaj7  Emi7          Ami
+        Fmaj7  Fmi7          Bm7
 Or will I be alone with my dreams?
