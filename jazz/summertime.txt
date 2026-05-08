@@ -1,4 +1,4 @@
-A Intro housle + trubka
+A Intro
 A zpěv 1. sloka
 A kytara
 A zpěv 2. sloka
@@ -6,37 +6,34 @@ A housle stopka
 AA kytara rychle + všichni
 outro
 
-[intro - A]
-Dm A7sus Dm A7 Dm A7sus Dm Dm7
-Gm D7sus Gm Gm7 A7 B7 A7 A7+
-Dm A7sus Dm A7 Dm A7sus Dm E7b9
-F  F     Dm B7 A7+ Dm A7sus Dm A7+
+[intro]
+Em H7 Em H7 Em H7 Em H7
 
 [verse 1 - A]
-       Dm A7sus Dm A7 Dm A7sus Dm Dm7
-Summer-time, and the livin' is ea - sy
- Gm D7sus Gm Gm7 A7 B7 A7 A7+
+       Em H7 Em H7                 Em  H7 Em Em7
+Summer-time,    and the livin' is ea - sy
+          Am                                    H7
 Fish are jumpin' and the cotton, the cotton is high
- Dm A7sus Dm A7 Dm A7sus Dm
+      Em       H7    Em       H7                   Em     H7 Em
 Oh your daddy, he's rich, and your ma' she's good lookin'
-E7b9 F Dm B7 A7 A7+ Dm A7sus Dm A7+
+     G           Em   Am   H7     Em     H7  Em H7
  So hush little baby, do-o-o-n't you cry
 
-[solo Petr kytara - A]
+[solo A kytara]
 
 [verse 2 - A]
- Dm A7sus Dm A7 Dm A7sus Dm Dm7
+         Em      H7   Em      H7         Em     H7  Em Em7
 One of these mornings, you're gonna rise up singin'
- Gm D7sus Gm Gm7 A7 B7 A7 A7+
+             Am                                   H7
 You gonna spread your wings and take, take to the sky
- Dm A7sus Dm A7 Dm A7sus Dm
-Untill that morning, ain't nothin' can harm you
-E7b9 F Dm B7 A7 A7+ Dm A7sus Dm
+   Em          H7   Em H7                 Em   H7 Em
+Until that morning,    ain't nothin' can harm you
+     G         Em     Am  H7      Em
 With daddy and mammy, sta-a-a-andin' by
 
 [solo housle A, nechat doznít, všechno stopnout!]
 
-Petr na kytaru rozjíždí rychlý rytmus,
+Milan na kytaru rozjíždí rychlý rytmus,
 postupně všichni sólo dvě sloky,
 poslední dva takty repetice POMALU
 (jasný konec, žádný tón navíc).
