@@ -1,4 +1,6 @@
 Bm = Kapo 1 + Am, ABABAB
+Cm7b5 = x3434x
+Fdim  = xx3434
 
 [Intro]
 Bm Cm7b5 F7  Bm Cm7b5 F7
