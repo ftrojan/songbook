@@ -1,41 +1,38 @@
 title: Jazz busking
 songs:
-  - name: dream_a_little_dream
-    key: F
-    note: Zpěv Filip
   - name: l_o_v_e
-    key: A,B,C
+    key: G,Ab,A
     note: Zpěv Filip
   - name: mackie_messer
     key: B
     note: Zpěv Filip
-  - name: ipanema
-    key: F
-    note: Zpěv Filip
-  - name: hvezdy_nad_brnem
-    key: B
-    note: Zpěv Filip
-  - name: blueberry_hill
-    key: C
-    note: Zpěv Filip
-  - name: sedavam
-    key: B
-    note: Zpěv Filip
-  - name: quando
+  - name: dream_a_little_dream
     key: F
     note: Zpěv Filip
   - name: starej_pan
     key: C
     note: Zpěv Filip
-  - name: blues_na_cestu_posledni
+  - name: svita
+    key: F
+    note: Zpěv Filip
+  - name: shadow_petr
+    key: G
+    note: Zpěv Petr
+  - name: trochu_v_hlave_mam_m
+    key: G
+    note: Zpěv Filip
+  - name: quando
     key: B
     note: Zpěv Filip
   - name: mival_jsem_klobouk
     key: B
     note: Zpěv Filip
-  - name: raindrops
-    key: F
+  - name: black_orpheus
+    key: Bm
     note: Zpěv Filip
-  - name: la_vie_en_rose
-    key: C
+  - name: blues_na_cestu_posledni
+    key: G
+    note: Zpěv Filip
+  - name: my_way
+    key: D
     note: Zpěv Filip
