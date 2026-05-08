@@ -6,10 +6,6 @@ Fdim  = xx3434
 Bm Cm7b5 F7  Bm Cm7b5 F7
 Bm Cm7b5 F7  Bm Cm7b5 F7
 
-[Form A] - instrumental trumpeta
-
-[Form B] - instrumental housle
-
 [Form A]
 
 Bm          Cm7b5 F7  Bm  Cm7b5 F7
@@ -35,6 +31,10 @@ Não sei se outro dia haverá
 É nossa manhã tão bela final
     F7                  Bm  Cm7b5 F7
 Manhã (stopka) de carnaval
+
+[solo A B] housle Petr
+[solo A B] kytara Milan
+
 
 [Outro]
            Ebm7         Fmi7
