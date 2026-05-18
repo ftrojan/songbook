@@ -31,8 +31,8 @@ songs:
   - name: minor_swing
     key: Am
     note: instrumental
-  - name: la_vie_en_rose
-    key: C
+  - name: quando
+    key: B
     note: Zpěv Filip
   - name: shadow
     key: C
@@ -50,9 +50,9 @@ songs:
   - name: ceresne
     key: Am
     note: Zpěv Martina
-  - name: sweet_georgia_brown
-    key: Ab
-    note: instrumental
+  - name: pochod_svatych
+    key: B
+    note: Zpěv Filip + sbor
   - name: trochu_v_hlave_mam
     key: D
     note: Zpěv Martina
@@ -78,9 +78,6 @@ songs:
   - name: wonderful_world
     key: F
     note: Zpěv Filip
-  - name: pochod_svatych
-    key: B
-    note: Zpěv Filip + sbor
   - name: zivot_je_jen_nahoda
     key: G
     note: všichni
