@@ -1,29 +1,33 @@
 [předehra kytara]
-B F# B F# B F# B F#
+F Eb F Eb F Eb F Eb
 
 [trumpeta]
-B Cmi F B B7 D# B F7 B
+F Cmi F F F7 B F C7 F
 
-           B
+           F
 Už svatí jdou a pochodují
-                   Cmi F
+                   C7
 a do kroku si notují
-          B     B7     D#
+          F     F7     B   Bm
 a hudba hrá a kráčí v čele
-            B     F7   B
+Cm          F     Gm C7 F
 a před ní dva archandělé.
 
 [trumpeta]
-B Cmi F B B7 D# B F7 B
+F  F  F  C7
+F  F7 B  Bm
+F  Gm C7 F
 
-             B
+             F
 Oh when the saints go marching in,
-                                Cmi F
+                                C7
 now when the saints go marching in
-       B       B7         D#
+       F       F7         B     Bm
 Yes I want to be in that number,
-          B         F7      B
+Cm        F         Gm  C7  F
 when the saints go marching in.
 
 [trumpeta]
-B Cmi F B B7 D# B F7 B
+F  F  F  C7
+F  F7 B  Bm
+F  Gm C7 F
