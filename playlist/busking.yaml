@@ -1,38 +1,56 @@
 title: Jazz busking
 songs:
+  - name: mival_jsem_klobouk
+    key: B
+    note: Zpěv Filip
+  - name: ill_see_you
+    key: F
+    note: instrumental
   - name: l_o_v_e
     key: G,Ab,A
     note: Zpěv Filip
   - name: mackie_messer
     key: B
     note: Zpěv Filip
+  - name: vsichni_tancovat_jdou
+    key: C
+    note: Zpěv Filip
   - name: dream_a_little_dream
     key: F
     note: Zpěv Filip
+  - name: minor_swing
+    key: Am
+    note: instrumental
   - name: starej_pan
     key: C
     note: Zpěv Filip
   - name: svita
     key: F
     note: Zpěv Filip
-  - name: shadow_petr
-    key: G
-    note: Zpěv Petr
+  - name: shadow
+    key: C
+    note: Zpěv Filip
   - name: trochu_v_hlave_mam_m
     key: G
     note: Zpěv Filip
+  - name: pochod_svatych
+    key: F
+    note: Zpěv Filip + sbor
   - name: quando
     key: B
     note: Zpěv Filip
-  - name: mival_jsem_klobouk
-    key: B
+  - name: corcovado
+    key: Am
     note: Zpěv Filip
+  - name: sweet_georgia_brown
+    key: Ab
+    note: instrumental
   - name: black_orpheus
     key: Bm
     note: Zpěv Filip
+  - name: klobouk_ve_krovi
+    key: C
+    note: Petr + Filip
   - name: blues_na_cestu_posledni
     key: G
-    note: Zpěv Filip
-  - name: my_way
-    key: D
     note: Zpěv Filip
