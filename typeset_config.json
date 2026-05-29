@@ -567,5 +567,9 @@
   "watchtower": {
     "title": "All Along the Watchtower",
     "input_file": "svatba/all_along_the_watchtower.txt"
+  },
+  "louda_se": {
+    "title": "Loudá se půlměsíc",
+    "input_file": "orion/louda_se.txt"
   }
 }
