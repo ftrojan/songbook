@@ -4,15 +4,15 @@ songs:
   - name: aint_she_sweet
     key: B
     note: instrumental
-  - name: je_po_desti
-    key: C
-    note: Zpěv Martina
+  - name: sedavam_m
+    key: F
+    note: Zpěv Filip
   - name: l_o_v_e
     key: G,G#,B
     note: Zpěv Filip
-  - name: motyl
-    key: G#,B
-    note: Petr + Martina
+  - name: mival_jsem_klobouk
+    key: B
+    note: Filip
   - name: black_orpheus
     key: Bm
     note: Filip
@@ -47,30 +47,30 @@ songs:
   - name: hvezdy_nad_brnem
     key: B
     note: Zpěv Filip
-  - name: ceresne
-    key: Am
-    note: Zpěv Martina
+  - name: shadow
+    key: C
+    note: Zpěv Filip
   - name: sweet_georgia_brown
     key: Ab
     note: instrumental
-  - name: trochu_v_hlave_mam
-    key: D
-    note: Zpěv Martina
+  - name: trochu_v_hlave_mam_m
+    key: G
+    note: Zpěv Filip
   - name: dream_a_little_dream
     key: F
     note: Zpěv Filip
-  - name: sedavam
-    key: B
-    note: Zpěv Martina
+  - name: praminek_vlasu
+    key: F
+    note: Zpěv Filip
   - name: raindrops
     key: F
     note: Zpěv Filip
   - name: my_way
     key: D
     note: Zpěv Filip
-  - name: sklipek
-    key: Gm
-    note: Zpěv Martina
+  - name: mackie_messer
+    key: B
+    note: Zpěv Filip
   - name: blues_na_cestu_posledni
     key: B
     note: Zpěv Filip
