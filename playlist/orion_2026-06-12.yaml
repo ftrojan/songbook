@@ -13,9 +13,6 @@ songs:
   - name: motyl
     key: G#,B
     note: Filip + Martina
-  - name: starej_pan
-    key: G
-    note: Zpěv Filip
   - name: black_orpheus
     key: Bm
     note: Filip
@@ -29,6 +26,9 @@ songs:
     key: C
     note: Filip
   - name: la_vie_en_rose
+    key: F
+    note: Zpěv Filip
+  - name: praminek_vlasu
     key: F
     note: Zpěv Filip
   - name: shadow
