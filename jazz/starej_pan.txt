@@ -5,43 +5,43 @@ AB kytara
 CB zpěv (vlaky byly čistý)
 
 [Verse 1 - A] bubenik odklepe metlicky
-C                  E7
+A                  C#7
 Starej pán sedí a poslouchá jazz
-Gmi6                     A7    Dmi
+Em6                     F#7    Hm7
 a zdá se mu, jako by to bylo dnes
-Fmi6         C        Ami
+Dm7          A        F#m
 jako by zase u baru stál
-   Fmaj7            E7
+   Dmaj7            D7  C#7
 a na pódiu Django hrál.
 
 [Verse 2 - B]
-Ami                E7
+F#m                C#7
 Starej pán sedí a poslouchá jazz
-Gmi6                     A7    Dmi
+Em6                     F#7    Hm7
 a zdá se mu, jako by to bylo dnes
-Fmi6               C         A7
+Dm7               A         F#7
 starej pán sedí a poslouchá jazz
-   D7          G7   C
+   H7          E7   A
 a na desce se točí pes
 
 [Chorus - C]
-    E7                 Ami
+    C#7                 F#m
 Jó ráno si vzal čistý ponožky
-   E7                     Ami
+   C#7                     F#m
 a zajel si do Paříže bez doložky
- E7                     Ami
+ C#7                     F#m
 jezdilo se z Wilsonova nádraží
-   Fmi6                          G7
+   Dm7                          E7
 a neměli jsme v kufru žádný závaží jé
 
 [Verse 3 - B]
-C                  E7
+A                  C#7
 Starej pán sedí a poslouchá jazz
-Gmi6                     A7    Dmi
+Em6                     F#7    Hm7
 a zdá se mu, jako by to bylo dnes
-  Fmi6             C         A7
+  Dm7             A         F#7
 starej pán sedí a poslouchá jazz
-   D7          G7   C
+   H7          E7   A
 a na desce se točí pes
 
 [solo - A B housle]
