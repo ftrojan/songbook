@@ -55,6 +55,11 @@ def get_profiles() -> dict:
         return dict(profiles)
 
 
+def has_profile(name: str) -> bool:
+    profiles = get_profiles()
+    return name in profiles
+
+
 def get_profile(name: str) -> dict:
     profiles = get_profiles()
     profile = profiles[name]

@@ -1,8 +1,9 @@
+import logging
 import os
 import yaml
 from dataclasses import dataclass
 from fpdf.fonts import FontFace
-from typeset.utils import FPDF, font_name, typeset_body, get_body, get_profile, base_color, create_pdf
+from typeset.utils import FPDF, font_name, typeset_body, get_body, get_profile, base_color, create_pdf, has_profile
 
 
 @dataclass
@@ -84,10 +85,11 @@ def get_playlist(name: str) -> Playlist:
         if s["name"] in ("pause", "end"):
             i = Divider.from_dict(s)
             block += 1
-        else:
+            items.append(i)
+        elif has_profile(s["name"]):
             order += 1
             i = SongInPlaylist.from_dict(block, order, s)
-        items.append(i)
+            items.append(i)
     x = Playlist(
         name=name,
         title=str(data["title"]),
@@ -205,3 +207,35 @@ def typeset_toc(pdf: FPDF, p: Playlist) -> FPDF:
                 row.cell("")
                 row.cell(s.title)
     return pdf
+
+
+def all_songs() -> dict[str, SongInPlaylist]:
+    deprecated = [
+        "karvina",
+        "rikej_mi_to_prosim",
+        "green_dolphin",
+        "slunecni_hrob",
+    ]
+    songs = dict()
+    for f in os.listdir("playlist"):
+        if f.startswith("orion_") and f.endswith(".yaml"):
+            logging.debug(f"processing {f}")
+            fname, ext = os.path.splitext(f)
+            p = get_playlist(fname)
+            for song in p.songs:
+                if song.name not in deprecated:
+                    songs[song.name] = song
+    n_songs = len(songs)
+    logging.debug(f"found {n_songs} songs")
+    return songs
+
+
+def not_in_playlist(name: str) -> set[str]:
+    p = get_playlist(name)
+    pnames = {song.name for song in p.songs}
+    logging.debug(f"{len(pnames)} songs in the playlist: {pnames}")
+    anames = set(all_songs().keys())
+    logging.debug(f"{len(anames)} all songs: {anames}")
+    dnames = anames - pnames
+    logging.info(f"found {len(dnames)} songs not in playlist {name}")
+    return dnames
