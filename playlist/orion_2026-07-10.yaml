@@ -16,9 +16,9 @@ songs:
   - name: black_orpheus
     key: Bm
     note: Filip
-  - name: autumn_leaves
-    key: Gm
-    note: instrumental
+  - name: starej_pan
+    key: A
+    note: Zpěv Filip
   - name: vsichni_tancovat_jdou
     key: C
     note: Zpěv Filip
@@ -27,6 +27,12 @@ songs:
     note: Filip
   - name: quando
     key: B
+    note: Zpěv Filip
+  - name: blueberry_hill
+    key: F
+    note: Zpěv Filip
+  - name: ipanema
+    key: F
     note: Zpěv Filip
   - name: shadow
     key: C
