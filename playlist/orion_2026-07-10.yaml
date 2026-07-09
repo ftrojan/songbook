@@ -50,9 +50,9 @@ songs:
   - name: ceresne
     key: Am
     note: Zpěv Martina
-  - name: pochod_svatych
-    key: F
-    note: Zpěv Filip + sbor
+  - name: lampa
+    key: Cm
+    note: Zpěv Martina
   - name: trochu_v_hlave_mam
     key: D
     note: Zpěv Martina
@@ -75,9 +75,6 @@ songs:
     key: B
     note: Zpěv Filip
   - name: end
-  - name: lampa
-    key: Cm
-    note: Zpěv Martina
   - name: wonderful_world
     key: F
     note: Zpěv Filip
