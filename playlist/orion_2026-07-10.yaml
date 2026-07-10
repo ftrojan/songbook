@@ -25,6 +25,9 @@ songs:
   - name: klobouk_ve_krovi
     key: C
     note: Filip
+  - name: minor_swing
+    key: Am
+    note: instrumental
   - name: quando
     key: B
     note: Zpěv Filip
