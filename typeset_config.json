@@ -571,5 +571,10 @@
   "louda_se": {
     "title": "Loudá se půlměsíc",
     "input_file": "orion/louda_se.txt"
+  },
+  "jirina": {
+    "title": "Jirina",
+    "input_file": "jazz/jirina.txt",
+    "bpm": 180
   }
 }
