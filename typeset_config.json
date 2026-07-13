@@ -575,6 +575,8 @@
   "jirina": {
     "title": "Jirina",
     "input_file": "jazz/jirina.txt",
-    "bpm": 180
+    "bpm": 180,
+    "source": "https://www.petrvacl.cz/zpevnik/ps.php?id=1407&ak=1&tn=Db",
+    "info": "Original Indigo"
   }
 }
