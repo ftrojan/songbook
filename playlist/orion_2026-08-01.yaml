@@ -1,0 +1,89 @@
+title: Orion 2026-08-01
+subtitle: Restaurace Chalupa, Rovina, od 18:00
+songs:
+  - name: aint_she_sweet
+    key: B
+    note: instrumental
+  - name: l_o_v_e
+    key: G,G#,B
+    note: Zpěv Filip
+  - name: sedavam
+    key: B
+    note: Zpěv Martina
+  - name: black_orpheus
+    key: Bm
+    note: Zpěv Filip, solo piano
+  - name: starej_pan
+    key: A
+    note: Zpěv Filip, solo piano
+  - name: motyl
+    key: G#,B
+    note: Filip + Martina
+  - name: vsichni_tancovat_jdou
+    key: C
+    note: Zpěv Filip, lead piano
+  - name: klobouk_ve_krovi
+    key: C
+    note: Filip, piano intro + solo
+  - name: caravan
+    key: Fm
+    note: instrumental
+  - name: trochu_v_hlave_mam
+    key: D
+    note: Martina
+  - name: blueberry_hill
+    key: F
+    note: Zpěv Filip, piano trioly
+  - name: mackie_messer
+    key: B
+    note: Zpěv Filip, solo trubka
+  - name: pause
+  - name: sweet_georgia_brown
+    key: Eb
+    note: instrumental
+  - name: je_po_desti
+    key: C
+    note: Zpěv Martina
+  - name: on_the_sunny
+    key: C
+    note: Zpěv Filip, solo piano
+  - name: autumn_leaves
+    key: Gm
+    note: Zpěv Filip, solo kytara
+  - name: hvezdy_nad_brnem
+    key: B
+    note: Filip, muze solo piano
+  - name: ceresne
+    key: Am
+    note: Martina, piano kudrlinky lehce
+  - name: dream_a_little_dream
+    key: F
+    note: Filip, piano kudrlinky lehce
+  - name: raindrops
+    key: F
+    note: Filip, piano akordy
+  - name: mival_jsem_klobouk
+    key: B
+    note: Filip, lead piano
+  - name: lampa
+    key: Cm
+    note: Zpěv Martina
+  - name: praminek_vlasu
+    key: F
+    note: Filip, piano trioly
+  - name: sklipek
+    key: Gm
+    note: Martina, lead piano
+  - name: blues_na_cestu_posledni
+    key: B
+    note: Filip + Martina, intro bubny + trubka
+  - name: end
+  - name: la_vie_en_rose
+    key: C
+    note: Filip, piano kudrlinky
+  - name: zivot_je_jen_nahoda
+    key: G
+    note: všichni
+  - name: wine_and_roses
+    key: F
+    note: Filip, lead piano
