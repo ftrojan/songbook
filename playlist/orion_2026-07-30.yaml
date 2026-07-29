@@ -25,8 +25,8 @@ songs:
   - name: klobouk_ve_krovi
     key: C
     note: Petr + Filip
-  - name: caravan
-    key: Fm
+  - name: minor_swing
+    key: Am
     note: instrumental
   - name: trochu_v_hlave_mam
     key: D
