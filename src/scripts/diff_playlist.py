@@ -4,7 +4,7 @@ from typeset import playlist
 
 logging.basicConfig(level="INFO")
 name1 = "orion_2026-07-10"
-name2 = "orion_2026-07-23"
+name2 = "orion_2026-07-30"
 p1 = playlist.get_playlist(name1)
 p2 = playlist.get_playlist(name2)
 s1 = {song.name for song in p1.songs}

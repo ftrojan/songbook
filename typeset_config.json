@@ -151,7 +151,7 @@
     "split_lines": [39]
   },
   "raindrops": {
-    "title": "Raindrops keep fallin' on my head",
+    "title": "Raindrops",
     "input_file": "jazz/raindrops.txt",
     "split_lines": [37],
     "bpm": 112
@@ -340,7 +340,7 @@
     "split_lines": [36]
   },
   "vsichni_tancovat_jdou": {
-    "title": "Vsichni tancovat jdou",
+    "title": "Všichni tancovat jdou",
     "input_file": "jazz/vsichni_tancovat_jdou.txt",
     "bpm": 112
   },
