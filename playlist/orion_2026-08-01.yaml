@@ -55,10 +55,10 @@ songs:
     note: Filip, muze solo piano
   - name: ceresne
     key: Am
-    note: Martina, piano kudrlinky lehce
+    note: Martina, piano lehce
   - name: dream_a_little_dream
     key: F
-    note: Filip, piano kudrlinky lehce
+    note: Filip, piano lehce
   - name: raindrops
     key: F
     note: Filip, piano akordy
@@ -76,7 +76,7 @@ songs:
     note: Martina, lead piano
   - name: blues_na_cestu_posledni
     key: B
-    note: Filip + Martina, intro bubny + trubka
+    note: Filip + Martina
   - name: end
   - name: la_vie_en_rose
     key: C
