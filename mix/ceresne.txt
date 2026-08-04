@@ -1,5 +1,11 @@
 Am = Kapo 5 + Em
 
+[Intro]
+E   E   E   E  (kytara)
+E   E   E   E  (kytara + housle)
+Dm7 E   Am  Am (kytara + housle)
+Am  Am  Am  Am (kytara)
+
 [Verse 1]
 Ami         Dm7   F        E     Ami
 Ako mladé dievča  už je to za nami

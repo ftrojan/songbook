@@ -1,0 +1,86 @@
+title: Orion 2026-08-07
+subtitle: Autocamp Beroun, od 19:00
+songs:
+  - name: aint_she_sweet
+    key: B
+    note: instrumental
+  - name: l_o_v_e
+    key: G,G#,B
+    note: Zpěv Filip
+  - name: sedavam
+    key: B
+    note: Zpěv Martina
+  - name: black_orpheus
+    key: Bm
+    note: Zpěv Filip, solo piano
+  - name: starej_pan
+    key: A
+    note: Zpěv Filip, solo piano
+  - name: motyl
+    key: G#,B
+    note: Petr + Martina
+  - name: vsichni_tancovat_jdou
+    key: C
+    note: Zpěv Filip, lead piano
+  - name: klobouk_ve_krovi
+    key: C
+    note: Filip, piano intro + solo
+  - name: minor_swing
+    key: Am
+    note: instrumental
+  - name: trochu_v_hlave_mam
+    key: D
+    note: Martina
+  - name: all_of_me
+    key: C
+    note: Zpěv Filip
+  - name: mackie_messer
+    key: B
+    note: Zpěv Filip, solo piano
+  - name: pause
+  - name: ill_see_you
+    key: F
+    note: instrumental
+  - name: je_po_desti
+    key: C
+    note: Zpěv Martina
+  - name: on_the_sunny
+    key: C
+    note: Zpěv Filip, solo piano
+  - name: autumn_leaves
+    key: Gm
+    note: Zpěv Filip, solo kytara
+  - name: hvezdy_nad_brnem
+    key: B
+    note: Filip, muze solo piano
+  - name: ceresne
+    key: Am
+    note: Martina, piano lehce
+  - name: dream_a_little_dream
+    key: F
+    note: Filip, piano lehce
+  - name: mival_jsem_klobouk
+    key: B
+    note: Filip, lead piano
+  - name: lampa
+    key: Cm
+    note: Zpěv Martina
+  - name: praminek_vlasu
+    key: F
+    note: Filip, piano trioly
+  - name: sklipek
+    key: Gm
+    note: Martina, lead piano
+  - name: blues_na_cestu_posledni
+    key: B
+    note: Filip + Martina
+  - name: zivot_je_jen_nahoda
+    key: G
+    note: všichni
+  - name: end
+  - name: saskove
+    key: D
+    note: Filip, piano kudrlinky
+  - name: wine_and_roses
+    key: F
+    note: Filip, lead piano

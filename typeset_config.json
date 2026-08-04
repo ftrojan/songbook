@@ -578,5 +578,9 @@
     "bpm": 180,
     "source": "https://www.petrvacl.cz/zpevnik/ps.php?id=1407&ak=1&tn=Db",
     "info": "Original Indigo"
+  },
+  "saskove": {
+    "title": "Saskove",
+    "input_file": "orion/saskove.txt"
   }
 }
