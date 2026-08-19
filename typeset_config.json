@@ -582,5 +582,9 @@
   "saskove": {
     "title": "Šaškové počmáraní",
     "input_file": "orion/saskove.txt"
+  },
+  "brasil": {
+    "title": "Aquarela do Brasil",
+    "input_file": "jazz/brasil.txt"
   }
 }
