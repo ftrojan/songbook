@@ -39,10 +39,16 @@ And what did I do,
 I thought about you
 
 [Instrumental]
-  Eb        D7       G7         C9     F9                Cm7 F9
-  Em7-5      Dm7-5     Gm  G7        Cm               Bbm7 Eb7
 
 [Outro]
+Eb          D7          G7
+And every stop that we made,
+        C7           F7
+oh, I thought about you
+Em7                     G7
+But I pulled down the shade
+        Cm               Bbm7 Eb7
+then I really felt blue
   Ab
 I peeked through the crack,
      Abm7
@@ -51,9 +57,10 @@ and looked at the track
 The one going back to you
     Fm7            Bb7
 And what did I do,
+    Fm7            Bb7
+And what did I do,
+    Fm7            Bb7
+And what did I do,
                  Eb  Fm7 Bb7
 I thought about you
-                 Eb  Fm7 Bb7
-I thought about you
-                 Eb  Fm7 Bb7 Eb
-I thought about you
+
