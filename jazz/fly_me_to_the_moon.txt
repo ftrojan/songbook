@@ -3,7 +3,7 @@ C#m7b5 = x4545x
 [A]
   Hm7          Em7              A7             Dmaj7
 Fly me to the moon and let me play among the stars,
- Gmaj7             C#m7b5        F7            Hm7 H7
+ Gmaj7             C#m7b5        F#7            Hm7 H7
 Let me see what spring is like on Jupiter and Mars;
    Em7          A7       Dmaj7   F#m7   H7
 In other words, hold my hand;

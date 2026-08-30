@@ -586,5 +586,14 @@
   "brasil": {
     "title": "Aquarela do Brasil",
     "input_file": "jazz/brasil.txt"
+  },
+  "i_thought_about_you": {
+    "title": "I Thought About You",
+    "input_file": "jazz/i_thought_about_you.txt",
+    "bpm": 105
+  },
+  "tak_abyste_to_vedela": {
+    "title": "Tak abyste to věděla",
+    "input_file": "orion/tak_abyste_to_vedela.txt"
   }
 }
