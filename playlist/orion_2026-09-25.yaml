@@ -49,10 +49,10 @@ songs:
     note: Zpěv Filip, solo piano
   - name: autumn_leaves
     key: Gm
-    note: Zpěv Filip, solo kytara Milan
-  - name: hvezdy_nad_brnem
-    key: B
-    note: Filip, muze solo piano
+    note: Zpěv Filip, solo Milan
+  - name: brasil
+    key: D
+    note: instrumental
   - name: ceresne
     key: Am
     note: Martina, piano lehce
@@ -76,7 +76,7 @@ songs:
     note: instrumental
   - name: saskove
     key: D
-    note: Filip + PR, piano kudrlinky
+    note: Filip + PR, piano
   - name: end
   - name: wonderful_world
     key: F
