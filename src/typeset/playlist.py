@@ -230,12 +230,14 @@ def all_songs() -> dict[str, SongInPlaylist]:
     return songs
 
 
-def not_in_playlist(name: str) -> set[str]:
+def not_in_playlist(name: str) -> list[SongInPlaylist]:
     p = get_playlist(name)
     pnames = {song.name for song in p.songs}
     logging.debug(f"{len(pnames)} songs in the playlist: {pnames}")
-    anames = set(all_songs().keys())
+    asong = all_songs()
+    anames = set(asong.keys())
     logging.debug(f"{len(anames)} all songs: {anames}")
     dnames = anames - pnames
     logging.info(f"found {len(dnames)} songs not in playlist {name}")
-    return dnames
+    dsong = [asong[s] for s in dnames]
+    return dsong

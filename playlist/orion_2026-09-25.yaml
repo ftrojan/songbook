@@ -31,6 +31,9 @@ songs:
   - name: trochu_v_hlave_mam
     key: D
     note: Martina
+  - name: to_bude_asi_tim
+    key: B
+    note: Zpěv Milan + Filip
   - name: sweet_georgia_brown
     key: Eb
     note: instrumental
