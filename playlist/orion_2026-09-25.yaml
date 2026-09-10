@@ -34,9 +34,9 @@ songs:
   - name: to_bude_asi_tim
     key: B
     note: Zpěv Milan + Filip
-  - name: sweet_georgia_brown
-    key: Eb
-    note: instrumental
+  - name: all_of_me
+    key: C
+    note: Zpěv Filip
   - name: mackie_messer
     key: B
     note: Zpěv Filip, solo piano
@@ -53,9 +53,9 @@ songs:
   - name: autumn_leaves
     key: Gm
     note: Zpěv Filip, solo Milan
-  - name: brasil
-    key: D
-    note: instrumental
+  - name: hvezdy_nad_brnem
+    key: B
+    note: Filip, muze solo piano
   - name: ceresne
     key: Am
     note: Martina, piano lehce
@@ -74,9 +74,9 @@ songs:
   - name: sklipek
     key: Gm
     note: Martina, lead piano
-  - name: caravan
-    key: Fm
-    note: instrumental
+  - name: hic
+    key: B
+    note: Zpěv Milan
   - name: saskove
     key: D
     note: Filip + PR, piano
