@@ -188,6 +188,12 @@
     "split_lines": [],
     "bpm": 175
   },
+  "aint_she_sweet_en": {
+    "title": "Ain't She Sweet",
+    "input_file": "jazz/aint_she_sweet_en.txt",
+    "split_lines": [],
+    "bpm": 175
+  },
   "moondance": {
     "title": "Moondance",
     "input_file": "jazz/moondance.txt",
