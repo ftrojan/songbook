@@ -1,19 +1,19 @@
 Igor odklepe začátek
 
 [Instrumental - A] všichni
-B6  E9  F7  B6  E9   F7
-B6  D7  G7  C7   F7   B6  F7
+D6  Ab9 A7  D6  Ab9  A7
+D6  Gb7 H7  E7  A7   D6  A7
 
-B6  E9  F7  B6  E9   F7
-B6  D7  G7  C7   F7   B6
+D6  Ab9 A7  D6  Ab9  A7
+D6  Gb7 H7  E7  A7   D6
 
 [Instrumental - B] všichni
-Eb7          B6       B7
-Eb7          B6       Cm7  F7
+G7          D6       A7
+G7          Em7      A7
 
 [Instrumental - A] všichni
-B6  E9  F7  B6  E9   F7
-B6  D7  G7  C7   F7   B Eb7 B
+D6  Ab9 A7  D6  Ab9  A7
+D6  Gb7 H7  E7  A7   D6  A7
 
 [A]
 Ain't she sweet? See her walking down that street.
@@ -29,7 +29,6 @@ oh me oh my, ain't that perfection?
 Oh I repeat, well, don't you think that's kinda neat?
 Yes I ask you very confidentially, ain't she sweet?
 
-B6 = xx8786
-E9  = x7677x
-F7  = x8786x
-Eb7 = 668686
+D6  = xx7777
+Ab9 = 6x56xx
+A7  = 5x56xx
