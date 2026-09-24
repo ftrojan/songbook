@@ -1,0 +1,32 @@
+Am, ABABAB
+Hm7b5 = x2323x
+Edim  = xx2323
+
+[Intro] kytara + basa + bubny
+Am      Hm7b5 E7  Am      Hm7b5 E7
+Am      Hm7b5 E7  Am      Hm7b5 E7
+
+[Form A]
+Am      Hm7b5 E7  Am      Hm7b5 E7
+Am      Dm7   G7  Cmaj7   Fdim
+Dm7     G7        Cmaj7   Fmaj7
+Hm7b5   E7        Am      Hm7b5 E7
+
+[Form B]
+Am      Hm7b5 E7  Am      Am
+Fdim    A7        Dm      Dm
+Dm7     Hm7b5 E7  Am      Fmaj7
+Hm7b5   E7        Am      Hm7b5 E7
+
+[solo A B] kytara
+[solo A B] housle
+[solo A B] piano
+[solo A B] basa
+
+[Outro]
+           Dm7         Emi7
+Will true love come my way
+         Dm7     Emi7
+On this Carnaval day
+        Fmaj7  Emi7          Am7
+Or will I be alone with my dreams?

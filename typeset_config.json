@@ -43,6 +43,11 @@
     "input_file": "jazz/black_orpheus.txt",
     "split_lines": [38]
   },
+  "black_orpheus_instr": {
+    "title": "Black Orpheus",
+    "input_file": "jazz/black_orpheus_instr.txt",
+    "split_lines": [38]
+  },
   "corcovado": {
     "title": "Corcovado",
     "input_file": "jazz/corcovado.txt",
