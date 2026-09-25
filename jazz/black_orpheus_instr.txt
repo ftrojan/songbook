@@ -1,6 +1,7 @@
 Am, ABABAB
 Hm7b5 = x2323x
-Edim  = xx2323
+Em7b5 = x7878x
+Fdim  = xx2323
 
 [Intro] kytara + basa + bubny
 Am      Hm7b5 E7  Am      Hm7b5 E7
@@ -14,7 +15,7 @@ Hm7b5   E7        Am      Hm7b5 E7
 
 [Form B]
 Am      Hm7b5 E7  Am      Am
-Fdim    A7        Dm      Dm
+Em7b5   A7        Dm      Dm
 Dm7     Hm7b5 E7  Am      Fmaj7
 Hm7b5   E7        Am      Hm7b5 E7
 
