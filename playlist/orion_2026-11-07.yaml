@@ -16,6 +16,9 @@ songs:
   - name: watermelon_man
     key: F
     note: Zpěv Filip
+  - name: autumn_leaves
+    key: Gm
+    note: Zpěv Filip, solo Milan
   - name: motyl
     key: G#,B
     note: Petr + Martina
@@ -53,9 +56,6 @@ songs:
   - name: on_the_sunny
     key: C
     note: Zpěv Filip, solo trubka
-  - name: quando
-    key: B
-    note: Zpěv Filip
   - name: brasil
     key: D
     note: instrumental
@@ -68,6 +68,9 @@ songs:
   - name: caravan
     key: Fm
     note: instrumental
+  - name: quando
+    key: B
+    note: Zpěv Filip
   - name: lampa
     key: Cm
     note: Zpěv Martina
