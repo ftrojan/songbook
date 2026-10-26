@@ -1,64 +1,86 @@
 [Intro trubka]
-F   F   F   F
-B   B   F   F
-C   B   C   B
-C   B   F   F
+C7   C7   C7   C7
+F7   F7   C7   C7
+G7   F7   G7   F7
+G7   F7   C7   C7
 
 [Chorus]
-F
-Hey watermelon man
-B               F
-Hey watermelon man
+C7             C7
+Oh watermelon man
+F7             C7
+Ah watermelon man
 
 [Verse 1]
-C                  B
-Bring me one that rattles when you lug it
-C                        B
-One that's erd and juicy when you plug it
-C             B               F
-Do you understand watermelon man
+G7                  F7
+Cause he's got the best watermel-o-o-ns,
+G7            F7
+he's a real good...watermelon man.
+G7        F7               C7
+everybody digs..Watermelon man.
+
+C7   C7   C7   C7
 
 [Chorus]
-F
-Hey watermelon man
-B               F
-Hey watermelon man
+C7             C7
+Oh watermelon man
+F7             C7
+Ah watermelon man
 
 [Verse 2]
-C                  B
-Hot and bothered, need a little cooling
-C                 B
-When I hear your call I start to drooling
-C             B                 F
-Do you understand? Watermelon man
+G7               F7
+They are just as round as they can be,
+G7              F7
+makes you almost want to eat the seed,
+G7        F7        G7    C7
+everybody digs..Watermelon man.
 
-[Bridge]
-So sweet, so cool and so red
-So green and so nice
-Cool you down, just like ice
-Take a taste, and see why
-If you hot, or dry, just take a slice. Eat your fill
-Cool you down! Yes it will
+C7   C7   C7   C7
+
+[Solo trubka]
+C7   C7   C7   C7
+F7   F7   C7   C7
+G7   F7   G7   F7
+G7   F7   C7   C7
 
 [Chorus]
-F
-Hey watermelon man
-B               F
-Hey watermelon man
+C7             C7
+Oh watermelon man
+F7             C7
+Ah watermelon man
 
 [Verse 3]
-C                  B
-Hot and bothered, need a little cooling
-C                 B
-When I hear your call I start to drooling
-C             B                F
-Do you understand? Watermelon man
+G7                F7
+I will buy one, from you every day.
+G7                  F7
+Just be sure you'll always come my way..
+G7                F7       G7    C7
+that would really be..Watermelon man.
+
+C7   C7   C7   C7
+
+[Chorus]
+C7             C7
+Oh watermelon man
+F7             C7
+Ah watermelon man
+
+[Verse 1]
+G7                  F7
+Cause he's got the best watermel-o-o-ns,
+G7            F7
+he's a real good...watermelon man.
+G7        F7               C7
+everybody digs..Watermelon man.
 
 [Outro]
-F   F   F   F
-F   F   F   F
-F   F   F   F
-F   F   F   F
+            C7
+Watermelon man.
+      C7
+Yeah yeah
+     C7
+Come on
+     C7
+Come on
 
 
 https://genius.com/Jon-hendricks-watermelon-man-lyrics
