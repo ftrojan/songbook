@@ -4,6 +4,8 @@ F7   F7   C7   C7
 G7   F7   G7   F7
 G7   F7   C7   C7
 
+C7   C7   C7   C7
+
 [Chorus]
 C7             C7
 Oh watermelon man
@@ -41,6 +43,8 @@ C7   C7   C7   C7
 F7   F7   C7   C7
 G7   F7   G7   F7
 G7   F7   C7   C7
+
+C7   C7   C7   C7
 
 [Chorus]
 C7             C7
@@ -81,6 +85,3 @@ Yeah yeah
 Come on
      C7
 Come on
-
-
-https://genius.com/Jon-hendricks-watermelon-man-lyrics
