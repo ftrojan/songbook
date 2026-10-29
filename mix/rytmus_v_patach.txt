@@ -1,10 +1,10 @@
-[A]
-Am Dm Am H7 E7
-A7  Dm H7 E7 G#7 E7
+[A] piano nebo trubka
+Am     Dm     Am       H7    E7
+A7     Dm     H7       E7 F7 E7
 
-[B]
-Am Dm Am H7 E7
-A7  Dm Am Dm E7 Am
+[B] piano nebo trubka
+Am     Dm     Am       H7    E7
+A7     Dm     Am Dm E7 Am    E7
 
 [Verse 1 - A]
   Am                    Dm
@@ -13,7 +13,7 @@ Klepy, klep, jdou kroky za mnou,
 ja slyším klepy, klep, bez ustání.
  A7                Dm
 Já nedám vůbec na pověru žádnou,
-   H7                         E         F   E
+   H7                         E7        F7  E7
 strach však mám, když slyším to divné klepání.
 
 [Verse 2 - B]
@@ -26,13 +26,13 @@ Každý den je pro mně hrozný sen,
            Am               Dm      E7     Am
 jak tušit mohl bych jen, že rytmus v patách mám.
 
-[mezihra A]
-Am Dm Am H7 E7
-A7  Dm H7 E7 F7 E7
+[mezihra A] housle nebo kytara nebo basa
+Am     Dm     Am       H7    E7
+A7     Dm     H7       E7 F7 E7
 
-[mezihra B]
-Am Dm Am H7 E7
-A7  Dm Am Dm E7 Am
+[mezihra B] housle nebo kytara nebo basa
+Am     Dm     Am       H7    E7
+A7     Dm     Am Dm E7 Am    E7
 
 [Verse 3 - A]
   Am                    Dm
@@ -46,15 +46,14 @@ strach však mám, když slyším to divné klepání.
 
 [Verse 4 - C]
  Am                  Dm
-Jedenkrát, možná, že zítra,
+Jedenkrát, možná, už zítra,
            Am                H7 E7
 já budu z toho sna bláznem naráz.
   A7                   Dm
 Ptám se vás, čí je to divný špás,
-           Am               Dm      E7     Am
+           Am               Dm      E7     Am    E7
 jak tušit mohl bych jen, že rytmus v patách mám.
-Am  Am   F   E
-                 Am Dm C  D   E7
+E7               Am  Dm  C   D   E7
 rytmus v patách má---á---á---á---á---m,
-                 Am9
+E7               Am9
 rytmus v patách mám.
