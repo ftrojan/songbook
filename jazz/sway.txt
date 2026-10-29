@@ -3,9 +3,9 @@ Cm  Cm  Gm6 Gm6
 Cm6 D7  Gm  Gm
 
 [Verse 1]
-Gm                     Adim7    D7
+Gm                     Am7b5    D7
 When marimba rhythms start to play
-Adim7       D7  Gm6
+Am7b5       D7  Gm6
 Dance with me, make me sway
 Gm6               Cm         D7
 Like a lazy ocean hugs the shore
@@ -13,9 +13,9 @@ Like a lazy ocean hugs the shore
 Hold me close, sway me more
 
 [Verse 2]
-Gm6                   Adim7    D7
+Gm6                   Am7b5    D7
 Like a flower bending in the breeze
- Adim7     D7   Gm6
+ Am7b5     D7   Gm6
 Bend with me, sway with ease
 Gm6                       Cm       D7
 When we dance you have a way with me
@@ -38,17 +38,13 @@ Long before it begins
 Make me thrill as only you know how
 Sway me smooth, sway me now
 
-[Solo] housle sloka + refren + sloka
-Adim7 D7  Adim7 D7  Gm6 Gm6 Gm6 Gm6
-Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
-F7    F7  F7    F7  Bmaj7   Bmaj7
-D7    D7  D7    D7  Eb7     D7
-Adim7 D7  Adim7 D7  Gm6 Gm6 Gm6 Gm6
+[Solo] housle sloka
+Am7b5 D7  Am7b5 D7  Gm6 Gm6 Gm6 Gm6
 Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
 
 [Solo] kytara sloka
-Cmi Cmi Gmi Gmi
-Cmi D7  Gmi Gmi
+Am7b5 D7  Am7b5 D7  Gm6 Gm6 Gm6 Gm6
+Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
 
 [Chorus]
                    F7
@@ -65,9 +61,3 @@ I can hear the sounds of violins
 Long before it begins
 Make me thrill as only you know how
 Sway me smooth, sway me now
-
-[Verse 5]
-When marimba rhythms start to play
-Dance with me, make me sway
-Like a lazy ocean hugs the shore
-Hold me close, sway me more
