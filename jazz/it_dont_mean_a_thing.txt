@@ -1,54 +1,38 @@
-Gm = Kapo 3 + Em
+[Intro] kytary + basa + metle
+Gm       Cm       Gm          Eb7 D7
+Gm Cm D7 Gm Cm D7 Gm Cm D7 Gm Eb7 D7
+Gm Cm D7 Gm Cm D7 Gm          Eb7 D7
 
-[Intro]
-Gm Cm Gm D#7 D7
-
-[Intrumental - A]
-Gm Gm/F# Gm/F C7/E Eb7 D7 Gmi C7 F7 B6 Eb7 D7
-Gm Gm/F# Gm/F C7/E Eb7 D7 Gmi C7 F7 B6
-
-[Instrumental - B]
-Fm7      B7         Ebmaj7        Gm7   C7 F7 D7
-Gm Gm/F# Gm/F C7/E Eb7 D7 Gmi C7 F7 B6
-
-[Verse 1 - A]
+[Verse 1 - AA]
      Gm  Gm/F#   Gm/F
 It don't mean a thing
 C7/E  Eb7    D7        Gm
 If it ain't got that swing
-C7                 F7
-Dooah dooah dooah, dooah dooah dooah,
-   B6             Eb7 D7
-dooah dooah dooah
+C7               F7               B6          Eb7 D7
+Doah doah doah, doah doah doah, doah doah doah
     Gm    Gm/F#   Gm/F
 It don't mean a thing
 C7/E    Eb7     D7    Gm
 All you got to do is sing
-C7                 F7
-Dooah dooah dooah, dooah dooah dooah,
-   B6
-dooah dooah dooah
+C7               F7               B6          Eb7 D7
+Doah doah doah, doah doah doah, doah doah doah
 
-[Chorus - B]
+[Chorus - BA]
     Fm7
 It makes no difference
 B7                Ebmaj7
 If it's sweet or hot
       Gm7
 Just give that rhythm
-C7                        F7 D7
+C7                        Eb7 D7
 Every little thing you've got
     Gm7   Gm/F#   Am/F
 It don't mean a thing
 C7/E  Eb7    D7        Gm
 If it ain't got that swing
-C7                 F7
-Dooah dooah dooah, dooah dooah dooah,
-   B6
-dooah dooah dooah
+C7               F7               B6          Eb7 D7
+Doah doah doah, doah doah doah, doah doah doah
 
-[Instrumental] A + B
-
-[Verse 1 - A]
-
-[Chorus - B]
+[Instrumental] kytara AABA
+[Verse 1 - AA]
+[Chorus - BA]
