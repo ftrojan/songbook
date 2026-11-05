@@ -1,6 +1,6 @@
 Em7b5 = x7878x
 
-[Intro]
+[Intro] housle
 Gm Dm A7 Dm
 
 [Verse 1 - A]
@@ -39,9 +39,24 @@ The light that gave you glory
 Em7b5   A7      Dm  Em7b5  A7
 Will take it all away.
 
-[solo] A A housle
+[solo]
+A A housle
+B trubka
+A housle
+
+A A trubka
 
 [Chorus - B] + housle
+         C7              Fmaj7
+For the passions that thrill love
+                  D7
+Lift you high to heaven
+                       Gm7
+Are the passions that kill love
+Em7b5                A7
+And lead ya down to hell
+Em7b5      A7
+Same old story ...
 
 [Verse 3 - A] + housle
 Dm     Em7b5    A7      Dm

@@ -41,13 +41,13 @@ But in your dreams whatever they be,
   F              C#7 C7  F   C7
 dream a little dream of me.
 
-[Interlude ala verse A] trumpeta Zdenek
+[Interlude ala verse A] trumpeta
 F Cdim7  Gmi7 C7
 F E Eb   D    D7
 Gmi7     Bmi7
 F C#7 C7 F    C7
 
-[Interlude ala verse B] Petr housle
+[Interlude ala verse B] housle
 F Cdim7  Gmi7 C7
 F E Eb   D    D7
 Gmi7     Bmi7
@@ -78,4 +78,3 @@ dream a little dream of
 dream a little dream    of
 F# B7 F# B7 F# B7 F# F#9
 me-e-e-e-e-e-e-e-e.
-
