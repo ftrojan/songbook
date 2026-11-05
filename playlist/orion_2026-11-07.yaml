@@ -35,17 +35,14 @@ songs:
     key: D
     note: Martina
   - name: sway
-    key: Gm
+    key: Em
     note: Zpěv Filip
   - name: la_vie_en_rose
     key: C
     note: Zpěv Filip
-  - name: it_dont_mean_a_thing
-    key: Gm
+  - name: my_way
+    key: D
     note: Zpěv Filip
-  - name: rytmus_v_patach
-    key: Am
-    note: Zpěv Martina
   - name: pause
   - name: ill_see_you
     key: F

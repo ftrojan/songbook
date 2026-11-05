@@ -1,35 +1,35 @@
 [Intro] trubka
-Cm  Cm  Gm6 Gm6
-Cm6 D7  Gm  Gm
+Am  Am  Em6 Em6
+H7  H7  Em  Em
 
 [Verse 1]
-Gm                     Am7b5    D7
+Em                     Gbm7b5   H7
 When marimba rhythms start to play
-Am7b5       D7  Gm6
+Gbm7b5      H7  Em6
 Dance with me, make me sway
-Gm6               Cm         D7
+Em6               Am         H7
 Like a lazy ocean hugs the shore
- D7              Gm6
+ H7              Em6
 Hold me close, sway me more
 
 [Verse 2]
-Gm6                   Am7b5    D7
+Em6                   Gbm7b5   H7
 Like a flower bending in the breeze
- Am7b5     D7   Gm6
+ Gbm7b5    H7   Em6
 Bend with me, sway with ease
-Gm6                       Cm       D7
+Em6                       Am       H7
 When we dance you have a way with me
-  D7           Gm6
+  H7           Em6
 Stay with me, sway with me
 
 [Chorus]
-                   F7
+                   D7
 Other dancers may be on the floor, dear
-                  Bmaj7
+                  Gmaj7
 But my eyes will see only you
-                    D7
+                    H7
 Only you have that magic technique
-                  Eb7     D7
+                  C7      H7
 When we sway I go weeeeaaaak
 
 [Verse 3]
@@ -39,21 +39,21 @@ Make me thrill as only you know how
 Sway me smooth, sway me now
 
 [Solo sloka] trubka
-Am7b5 D7  Am7b5 D7  Gm6 Gm6 Gm6 Gm6
-Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
+Gbm7b5 H7  Gbm7b5 H7  Em6 Em6 Em6 Em6
+Am     H7  Am     H7  Em6 Em6 Em6 Em6
 
 [Solo sloka] kytara nebo housle
-Am7b5 D7  Am7b5 D7  Gm6 Gm6 Gm6 Gm6
-Cm    D7  Cm    D7  Gm6 Gm6 Gm6 Gm6
+Gbm7b5 H7  Gbm7b5 H7  Em6 Em6 Em6 Em6
+Am     H7  Am     H7  Em6 Em6 Em6 Em6
 
 [Chorus]
-                   F7
+                   D7
 Other dancers may be on the floor, dear
-                  Bmaj7
+                  Gmaj7
 But my eyes will see only you
-                    D7
+                    H7
 Only you have that magic technique
-                  Eb7     D7
+                  C7      H7
 When we sway I go weeeeaaaak
 
 [Verse 4]
