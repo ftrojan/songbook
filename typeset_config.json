@@ -268,7 +268,8 @@
   },
   "watermelon_man": {
     "title": "Watermelon Man",
-    "input_file": "jazz/watermelon_man.txt"
+    "input_file": "jazz/watermelon_man.txt",
+    "bpm": 113
   },
   "softly": {
     "title": "Softly as in a morning sunrise",
