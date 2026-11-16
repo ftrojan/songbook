@@ -1,10 +1,7 @@
-[A] piano nebo trubka
-Am     Dm     Am       H7    E7
-A7     Dm     H7       E7 F7 E7
+[Intro]
+Am     Dm     Am       F7  E7
 
-[B] piano nebo trubka
-Am     Dm     Am       H7    E7
-A7     Dm     Am Dm E7 Am    E7
+A B piano nebo housle
 
 [Verse 1 - A]
   Am                    Dm
@@ -21,39 +18,42 @@ strach však mám, když slyším to divné klepání.
 Celou noc já slyším klep, klep,
            Am               H7 E7
 pojďte mi na pomoc, vám povídám.
- A7                    Dm
+   A7                    Dm
 Každý den je pro mně hrozný sen,
-           Am               Dm      E7     Am
-jak tušit mohl bych jen, že rytmus v patách mám.
+             Am                Dm       E7     Am
+jak tušit mohla bych jen, že rytmus v patách mám.
 
-[mezihra A] housle nebo kytara nebo basa
-Am     Dm     Am       H7    E7
-A7     Dm     H7       E7 F7 E7
-
-[mezihra B] housle nebo kytara nebo basa
-Am     Dm     Am       H7    E7
-A7     Dm     Am Dm E7 Am    E7
+A kytara
+B trubka
 
 [Verse 3 - A]
   Am                    Dm
-Klepy, klep, jdou kroky za mnou,
+* Klepy, klep, jdou kroky za mnou,
             Am                 H7 E7
-ja slyším klepy, klep, bez ustání.
- A7                Dm
-Já nedám vůbec na pověru žádnou,
-   H7                         E         F   E
-strach však mám, když slyším to divné klepání.
+* ja slyším klepy, klep, bez ustání.
+   A7                Dm
+* Já nedám vůbec na pověru žádnou,
+     H7                         E         F   E
+* strach však mám, když slyším to divné klepání.
 
 [Verse 4 - C]
  Am                  Dm
-Jedenkrát, možná, už zítra,
+Jedenkrát, možná, že zítra,
            Am                H7 E7
 já budu z toho sna bláznem naráz.
   A7                   Dm
 Ptám se vás, čí je to divný špás,
-           Am               Dm      E7     Am    E7
-jak tušit mohl bych jen, že rytmus v patách mám.
-E7               Am  Dm  C   D   E7
-rytmus v patách má---á---á---á---á---m,
-E7               Am9
-rytmus v patách mám.
+               Am
+Co to chodí kolem, když v noci spíme
+   Am
+* my to nepovíme
+     Dm
+z čeho to já mám strach?
+   Dm
+* rytmus je Ti v patách
+ Am                 Am
+ten co ví, a že mu poví
+E7                  Am  G  C  D  E7
+   rytmus v patách má   á  á  á  ám
+E7                  Am6
+   rytmus v patách mám
