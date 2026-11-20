@@ -33,13 +33,13 @@ songs:
     note: instrumental
   - name: saskove
     key: D
-    note: Filip + PR, piano
+    note: Filip + PR
   - name: zivot_je_jen_nahoda
     key: G
     note: všichni
   - name: autumn_leaves
     key: Gm
-    note: Zpěv Filip, solo Milan
+    note: Zpěv Filip, zkracene
   - name: trochu_v_hlave_mam
     key: D
     note: Martina
@@ -48,7 +48,7 @@ songs:
     note: Zpěv Filip
   - name: sklipek
     key: Gm
-    note: Martina, lead piano
+    note: Martina
   - name: end
   - name: hic
     key: B
