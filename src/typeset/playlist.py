@@ -215,6 +215,7 @@ def all_songs() -> dict[str, SongInPlaylist]:
         "rikej_mi_to_prosim",
         "green_dolphin",
         "slunecni_hrob",
+        "end",
     ]
     songs = dict()
     for f in os.listdir("playlist"):
