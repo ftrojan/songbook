@@ -1,33 +1,32 @@
 Am, ABABAB
 Hm7b5 = x2323x
+C#dim = xx2323
 Em7b5 = x7878x
-Fdim  = xx2323
 
 [Intro] kytara + basa + bubny
-Am      Hm7b5 E7  Am      Hm7b5 E7
-Am      Hm7b5 E7  Am      Hm7b5 E7
+Am7         Hm7b5 E7    Am7         Hm7b5 E7
+Am7         Hm7b5 E7    Am7         Hm7b5 E7
 
-[Form A]
-Am      Hm7b5 E7  Am      Hm7b5 E7
-Am      Dm7   G7  Cmaj7   Fdim
-Dm7     G7        Cmaj7   Fmaj7
-Hm7b5   E7        Am      Hm7b5 E7
+[Form A] solo kytara
+Am7         Hm7b5 E7    Am7         Hm7b5 E7
+Am7         Dm7   G7    Cmaj7       C#dim
+Dm7         G7          Cmaj7       Fmaj7
+Hm7b5       E7          Am7         Hm7b5 E7
 
-[Form B]
-Am      Hm7b5 E7  Am      Am
-Em7b5   A7        Dm      Dm
-Dm7     Hm7b5 E7  Am      Fmaj7
-Hm7b5   E7        Am      Hm7b5 E7
+[Form B] solo kytara
+Am7         Hm7b5 E7    Am7         Hm7b5 E7
+Em7b5       A7          Dm7
+Dm7         Hm7b5 E7    Am7         Fmaj7
+Hm7b5       E7          Am7         Hm7b5 E7
 
-[solo A B] kytara
-[solo A B] housle
-[solo A B] piano
-[solo A B] basa
+[solo A B] solo housle
+[solo A B] solo trubka
 
 [Outro]
-           Dm7         Emi7
+           Dm7         Am7
 Will true love come my way
-         Dm7     Emi7
+         Dm7     Am7
 On this Carnaval day
-        Fmaj7  Emi7          Am7
+        Dm7  Em7          Am7
 Or will I be alone with my dreams?
+
