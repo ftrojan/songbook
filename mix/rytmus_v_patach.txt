@@ -9,6 +9,9 @@ A7          Dm          H7          E7 F7 E7
 Am          Dm          Am          H7    E7
 A7          Dm          Am          Dm E7 Am
 
+[bridge] trubka
+Am    H7    Dm E+ Am E7
+
 [Verse 1 - A]
   Am                    Dm
 Klepy, klep, jdou kroky za mnou,
@@ -28,6 +31,9 @@ pojďte mi na pomoc, vám povídám.
 Každý den je pro mně hrozný sen,
              Am                Dm       E7     Am
 jak tušit mohla bych jen, že rytmus v patách mám.
+
+[bridge] trubka
+Am    H7    Dm E+ Am E7
 
 A kytara
 B trubka
