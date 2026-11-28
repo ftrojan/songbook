@@ -29,7 +29,7 @@
   "starej_pan": {
     "title": "Starej pán",
     "input_file": "jazz/starej_pan.txt",
-    "split_lines": [37],
+    "split_lines": [38],
     "bpm": 115
   },
   "sway": {
