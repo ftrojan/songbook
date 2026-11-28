@@ -3,6 +3,6 @@ from typeset import playlist
 
 
 logging.basicConfig(level="INFO")
-p = playlist.get_playlist("orion_2026-11-26")
+p = playlist.get_playlist("orion_2026-12-19")
 playlist.typeset_playlist(p)
 logging.info(f"output saved to {p.output_path}")
